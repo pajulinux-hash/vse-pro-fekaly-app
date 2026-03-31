@@ -1,7 +1,29 @@
 import React, { useState, useMemo } from 'react';
 import { Text, View, StyleSheet, FlatList, Image, TouchableOpacity, TextInput, ScrollView, Linking, Modal, Platform } from 'react-native';
-import { Ionicons } from '@expo/vector-icons';
 import productsData from './data.json';
+
+const ICON_MAP = {
+  'globe-outline': '\u{1F310}',
+  'mail-outline': '\u2709',
+  'search': '\u{1F50D}',
+  'list': '\u2630',
+  'chevron-down': '\u25BC',
+  'chevron-forward': '\u203A',
+  'refresh': '\u21BB',
+  'information-circle': '\u2139',
+  'logo-whatsapp': '\u{1F4AC}',
+  'close-circle': '\u2716',
+  'logo-android': '\u{1F916}',
+  'logo-apple': '\u{1F34E}',
+};
+
+function Ionicons({ name, size, color, style }) {
+  return (
+    <Text style={[{ fontSize: size || 16, color: color || '#000', lineHeight: (size || 16) * 1.2 }, style]}>
+      {ICON_MAP[name] || '?'}
+    </Text>
+  );
+}
 
 const PREFERRED_ORDER = [
   "RIV ITALY", "RIV ITALY  / ACQUA MARINA uzávěry plovákové", "RIV ITALY  / AMBRA ventily podtlakové", "RIV ITALY  / CENTURION šoupě velkokapacitní", "RIV ITALY  / GIADA sifony", "RIV ITALY  / GOLD  uzávěry plovákové", "RIV ITALY  / KAPÁTKO mazání vývěvy", "RIV ITALY  / KATALOG RIV", "RIV ITALY  / OCEAN sifony", "RIV ITALY  / OPALE ventily přetlakové", "RIV ITALY  / PERLA šoupě standartní", "RIV ITALY  / SIFON", "RIV ITALY  / SMERALDO příslušenství šoupat", "RIV ITALY  / STAVOZNAK", "RIV ITALY  / TURCHESE šoupě pákové", "RIV ITALY  / Uzávěr PLOVÁKOVÝ", "RIV ITALY  / Ventil PODTLAKOVÝ", "RIV ITALY  / Ventil POJISTNÝ", "RIV ITALY  / ZAFFIRO příslušenství nádrží", "RIV ITALY  / ŠOUPĚ a příslušenství",
