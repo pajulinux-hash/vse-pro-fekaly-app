@@ -300,6 +300,7 @@ export default function App() {
               <TouchableOpacity onPress={() => setGuideModalVisible(false)}><Ionicons name="close-circle" size={32} color="#e60000" /></TouchableOpacity>
             </View>
             <ScrollView style={styles.guideScroll} contentContainerStyle={styles.guideContent}>
+              <Image source={require('./qr.jpeg')} style={styles.guideQrImage} />
               <Text style={styles.guideParagraph}>
                 Vítejte v katalogu <Text style={styles.bold}>Vše pro fekální nástavby</Text>! Tato aplikace slouží k rychlému vyhledávání náhradních dílů na vašem mobilním telefonu. Po nalezení dílu se jedním kliknutím dostanete přímo na e-shop k nákupu.
               </Text>
@@ -420,6 +421,7 @@ const styles = StyleSheet.create({
   guideContent: { paddingBottom: 30 },
   bold: { fontWeight: 'bold', color: '#222' },
   guideParagraph: { fontSize: 15, color: '#444', lineHeight: 22, marginBottom: 20, textAlign: 'center' },
+  guideQrImage: { width: 180, height: 180, resizeMode: 'contain', alignSelf: 'center', marginVertical: 15 },
   guideSectionTitle: { fontSize: 18, fontWeight: 'bold', color: '#2e7d32', marginTop: 10, marginBottom: 20, textAlign: 'center' },
   guidePlatformHeader: { fontSize: 16, fontWeight: 'bold', color: '#333', marginTop: 10, marginBottom: 6, paddingLeft: 5 },
   guideStep: { fontSize: 15, color: '#555', lineHeight: 26, paddingLeft: 10, marginBottom: 15 },
