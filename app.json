@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "VšeProFekály",
+    "slug": "vseprofekaly",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./logo.jpg",
+    "userInterfaceStyle": "light",
+    "web": {
+      "favicon": "./logo.jpg",
+      "bundler": "metro"
+    }
+  }
+}
