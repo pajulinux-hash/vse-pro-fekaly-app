@@ -1,1 +1,35 @@
+name: Nocni Robot FIMAS
 
+on:
+  schedule:
+    - cron: '0 1 * * *' # Spustí se každý den v 1:00 UTC (což jsou cca 3:00 ráno v ČR)
+  workflow_dispatch: # Přidá tlačítko, abys mohl robota zapnout kdykoliv ručně
+
+jobs:
+  aktualizace:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Stáhnutí kódu
+      uses: actions/checkout@v3
+
+    - name: Nastavení Pythonu
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
+
+    - name: Instalace knihoven pro robota
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests beautifulsoup4
+
+    - name: Spuštění stahování dat
+      run: python robot.py
+
+    - name: Uložení nových dat (pokud jsou změny)
+      run: |
+        git config --global user.name 'github-actions[bot]'
+        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+        git add data.json
+        git diff --quiet && git diff --staged --quiet || git commit -m "🤖 Automatická aktualizace cen a skladů"
+        git push
