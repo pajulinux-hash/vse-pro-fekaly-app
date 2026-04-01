@@ -2,8 +2,8 @@ name: Nocni Robot FIMAS
 
 on:
   schedule:
-    - cron: '0 1 * * *' # Spustí se každý den v 1:00 UTC (což jsou cca 3:00 ráno v ČR)
-  workflow_dispatch: # Přidá tlačítko, abys mohl robota zapnout kdykoliv ručně
+    - cron: '0 1 * * *'
+  workflow_dispatch:
 
 jobs:
   aktualizace:
@@ -11,12 +11,12 @@ jobs:
 
     steps:
     - name: Stáhnutí kódu
-      uses: actions/checkout@v3
+      uses: actions/checkout@v4
 
     - name: Nastavení Pythonu
-      uses: actions/setup-python@v4
+      uses: actions/setup-python@v5
       with:
-        python-version: '3.10'
+        python-version: '3.12'
 
     - name: Instalace knihoven pro robota
       run: |
