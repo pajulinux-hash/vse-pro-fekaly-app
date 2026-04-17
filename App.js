@@ -144,7 +144,7 @@ export default function App() {
 
           <View style={styles.qrCard}>
             <Text style={styles.qrText}>STÁHNOUT APLIKACI</Text>
-            <Image source={require('./qr.jpeg')} style={styles.qrImage} />
+            <Image source={require('./qr_male.png')} style={styles.qrImage} />
           </View>
 
         </View>
@@ -300,7 +300,7 @@ export default function App() {
               <TouchableOpacity onPress={() => setGuideModalVisible(false)}><Ionicons name="close-circle" size={32} color="#e60000" /></TouchableOpacity>
             </View>
             <ScrollView style={styles.guideScroll} contentContainerStyle={styles.guideContent}>
-              <Image source={require('./qr.jpeg')} style={styles.guideQrImage} />
+              <Image source={require('./qr_velky.png')} style={styles.guideQrImage} />
               <Text style={styles.guideParagraph}>
                 Vítejte v katalogu <Text style={styles.bold}>Vše pro fekální nástavby</Text>! Tato aplikace slouží k rychlému vyhledávání náhradních dílů na vašem mobilním telefonu. Po nalezení dílu se jedním kliknutím dostanete přímo na e-shop k nákupu.
               </Text>
@@ -348,9 +348,9 @@ const styles = StyleSheet.create({
   mainTitleWhite: { color: 'white', fontSize: 36, fontWeight: '900', letterSpacing: 1.5, textAlign: 'center' },
   subTitleWhite: { color: 'white', fontSize: 18, fontWeight: '700', letterSpacing: 1, textAlign: 'center', marginTop: 4 },
 
-  qrCard: { backgroundColor: 'white', padding: 6, borderRadius: 8, alignItems: 'center', elevation: 4, shadowColor: '#000', shadowOffset: { width: 0, height: 2 }, shadowOpacity: 0.2 },
+  qrCard: { backgroundColor: 'white', padding: 6, borderRadius: 16, alignItems: 'center', elevation: 4, shadowColor: '#000', shadowOffset: { width: 0, height: 2 }, shadowOpacity: 0.2 },
   qrText: { fontSize: 9, fontWeight: 'bold', color: THEME_GREEN_DARK, marginBottom: 4 },
-  qrImage: { width: 60, height: 60, resizeMode: 'contain' },
+  qrImage: { width: 60, height: 60, resizeMode: 'contain', borderRadius: 30 },
   
   heroBackgroundBanner: { width: '100%', height: 250 }, 
   heroOverlayBanner: { flex: 1, backgroundColor: 'rgba(218, 165, 32, 0.6)' },
@@ -421,7 +421,7 @@ const styles = StyleSheet.create({
   guideContent: { paddingBottom: 30 },
   bold: { fontWeight: 'bold', color: '#222' },
   guideParagraph: { fontSize: 15, color: '#444', lineHeight: 22, marginBottom: 20, textAlign: 'center' },
-  guideQrImage: { width: 180, height: 180, resizeMode: 'contain', alignSelf: 'center', marginVertical: 15 },
+  guideQrImage: { width: 180, height: 180, resizeMode: 'contain', alignSelf: 'center', marginVertical: 15, borderRadius: 90 },
   guideSectionTitle: { fontSize: 18, fontWeight: 'bold', color: '#2e7d32', marginTop: 10, marginBottom: 20, textAlign: 'center' },
   guidePlatformHeader: { fontSize: 16, fontWeight: 'bold', color: '#333', marginTop: 10, marginBottom: 6, paddingLeft: 5 },
   guideStep: { fontSize: 15, color: '#555', lineHeight: 26, paddingLeft: 10, marginBottom: 15 },
