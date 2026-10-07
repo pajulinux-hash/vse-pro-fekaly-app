@@ -12,6 +12,50 @@
     },
     {
         "id": "2",
+        "name": "Hydraulický válec dvojčinný, pro šoupě 4″, 5″, 6″, Smeraldo RIV 163",
+        "subtitle": "RIV 163 SMERALDO, 050163000000",
+        "price": "1 889,00 CZK",
+        "stock": "skladem",
+        "image": "https://obchod.fimas.cz/fotky7833/fotos/_vyr_2349Riv-0163.png",
+        "category": "RIV ITALY",
+        "url": "https://obchod.fimas.cz/Hydraulicky-valec-dvojcinny-pro-soupe-4-5-6-Smeraldo-RIV-163-d2349.htm",
+        "description": "Kategorie: RIV ITALY\nČíslo dílu: RIV 163 SMERALDO, 050163000000"
+    },
+    {
+        "id": "3",
+        "name": "Hydraulický válec jednočinný, pro šoupě 4″, Smeraldo RIV 166",
+        "subtitle": "RIV 166 SMERALDO, 050166000016",
+        "price": "2 606,00 CZK",
+        "stock": "skladem",
+        "image": "https://obchod.fimas.cz/fotky7833/fotos/_vyr_2350Riv-0166.png",
+        "category": "RIV ITALY",
+        "url": "https://obchod.fimas.cz/Hydraulicky-valec-jednocinny-pro-soupe-4-Smeraldo-RIV-166-d2350.htm",
+        "description": "Kategorie: RIV ITALY\nČíslo dílu: RIV 166 SMERALDO, 050166000016"
+    },
+    {
+        "id": "4",
+        "name": "Hydraulický válec jednočinný, pro šoupě 5″, Smeraldo RIV 166",
+        "subtitle": "RIV 166 SMERALDO, 050166000018",
+        "price": "3 109,00 CZK",
+        "stock": "skladem",
+        "image": "https://obchod.fimas.cz/fotky7833/fotos/7833_2351__vyr_2350Riv-0166.png",
+        "category": "RIV ITALY",
+        "url": "https://obchod.fimas.cz/Hydraulicky-valec-jednocinny-pro-soupe-5-Smeraldo-RIV-166-d2351.htm",
+        "description": "Kategorie: RIV ITALY\nČíslo dílu: RIV 166 SMERALDO, 050166000018"
+    },
+    {
+        "id": "5",
+        "name": "Hydraulický válec jednočinný, pro šoupě 6″, Smeraldo RIV 166",
+        "subtitle": "RIV 166 SMERALDO, 050166000000, 94050490042",
+        "price": "3 525,00 CZK",
+        "stock": "skladem",
+        "image": "https://obchod.fimas.cz/fotky7833/fotos/7833_2352_7833_2351__vyr_2350Riv-0166.png",
+        "category": "RIV ITALY",
+        "url": "https://obchod.fimas.cz/Hydraulicky-valec-jednocinny-pro-soupe-6-Smeraldo-RIV-166-d2352.htm",
+        "description": "Kategorie: RIV ITALY\nČíslo dílu: RIV 166 SMERALDO, 050166000000, 94050490042"
+    },
+    {
+        "id": "6",
         "name": "Klíč na plastový kryt sifonu, RIV",
         "subtitle": "RIV CHCS85650000",
         "price": "210,00 CZK",
@@ -22,7 +66,7 @@
         "description": "Kategorie: RIV ITALY\nČíslo dílu: RIV CHCS85650000"
     },
     {
-        "id": "3",
+        "id": "7",
         "name": "Kohout vypouštěcí sifonu, RIV Ocean, Giada, 3/4″×25, RIV9898",
         "subtitle": "RIV 9898, RUSF30271005",
         "price": "299,00 CZK",
@@ -33,7 +77,7 @@
         "description": "Kategorie: RIV ITALY\nČíslo dílu: RIV 9898, RUSF30271005"
     },
     {
-        "id": "4",
+        "id": "8",
         "name": "Kryt sifonu plastový, vnitřní závit, ø180 mm, RIV Ocean, RIV9890",
         "subtitle": "RIV 9890",
         "price": "1 199,00 CZK",
@@ -44,7 +88,7 @@
         "description": "Kategorie: RIV ITALY\nČíslo dílu: RIV 9890"
     },
     {
-        "id": "5",
+        "id": "9",
         "name": "Nátrubek varný pro stavoznak 2″, plastový, RIV 552 Zaffiro",
         "subtitle": "RIV 552 ZAFFIRO, 050552000011",
         "price": "156,00 CZK",
@@ -55,7 +99,7 @@
         "description": "Kategorie: RIV ITALY\nČíslo dílu: RIV 552 ZAFFIRO, 050552000011"
     },
     {
-        "id": "6",
+        "id": "10",
         "name": "Nátrubek varný pro stavoznak 3″, plastový, RIV 552 Zaffiro",
         "subtitle": "RIV 552 ZAFFIRO, 050552000014",
         "price": "232,00 CZK",
@@ -66,7 +110,7 @@
         "description": "Kategorie: RIV ITALY\nČíslo dílu: RIV 552 ZAFFIRO, 050552000014"
     },
     {
-        "id": "7",
+        "id": "11",
         "name": "Páka ovládací šoupěte 4″-5″-6″, těžké provedení, Smeraldo RIV 153",
         "subtitle": "SMERALDO RIV 153, 050153000000",
         "price": "589,00 CZK",
@@ -77,7 +121,7 @@
         "description": "Kategorie: RIV ITALY\nČíslo dílu: SMERALDO RIV 153, 050153000000"
     },
     {
-        "id": "8",
+        "id": "12",
         "name": "Pouzdro vodící šoupěte 5-6″, Smeraldo RIV 152",
         "subtitle": "RIV 152 SMERALDO, 050152000000, 9604157200",
         "price": "149,00 CZK",
@@ -88,7 +132,7 @@
         "description": "Kategorie: RIV ITALY\nČíslo dílu: RIV 152 SMERALDO, 050152000000, 9604157200"
     },
     {
-        "id": "9",
+        "id": "13",
         "name": "Příruba 4″ šoupěte, rozteč 150×150, ocelová, RIV 150 Smeraldo",
         "subtitle": "SMERALDO RIV 150, 050150000016, 9405020058",
         "price": "246,00 CZK",
@@ -99,7 +143,7 @@
         "description": "Kategorie: RIV ITALY\nČíslo dílu: SMERALDO RIV 150, 050150000016, 9405020058"
     },
     {
-        "id": "10",
+        "id": "14",
         "name": "Příruba 6″ šoupěte, rozteč 150×150, ocelová, RIV 150 Smeraldo",
         "subtitle": "SMERALDO RIV 150, 050150000019",
         "price": "249,00 CZK",
@@ -110,7 +154,7 @@
         "description": "Kategorie: RIV ITALY\nČíslo dílu: SMERALDO RIV 150, 050150000019"
     },
     {
-        "id": "11",
+        "id": "15",
         "name": "Sifon ø60, plastový, DN60, RIV 362 Giada",
         "subtitle": "RIV 362 GIADA, 050362000055",
         "price": "2 969,00 CZK",
@@ -121,7 +165,7 @@
         "description": "Kategorie: RIV ITALY\nČíslo dílu: RIV 362 GIADA, 050362000055"
     },
     {
-        "id": "12",
+        "id": "16",
         "name": "Sifon ø60, plastový, s výpustným kohoutem, DN60, RIV 337 Ocean",
         "subtitle": "RIV 337 OCEAN, 050337000055",
         "price": "2 879,00 CZK",
@@ -132,7 +176,7 @@
         "description": "Kategorie: RIV ITALY\nČíslo dílu: RIV 337 OCEAN, 050337000055"
     },
     {
-        "id": "13",
+        "id": "17",
         "name": "Sifon ø80, plastový, DN80, RIV 335 Ocean",
         "subtitle": "RIV 335 OCEAN, 050335000061",
         "price": "2 882,00 CZK",
@@ -143,7 +187,7 @@
         "description": "Kategorie: RIV ITALY\nČíslo dílu: RIV 335 OCEAN, 050335000061"
     },
     {
-        "id": "14",
+        "id": "18",
         "name": "Sifon ø80, plastový, s výpustným kohoutem, DN80, RIV 337 Ocean",
         "subtitle": "RIV 337 OCEAN, 050337000061",
         "price": "3 189,00 CZK",
@@ -154,7 +198,7 @@
         "description": "Kategorie: RIV ITALY\nČíslo dílu: RIV 337 OCEAN, 050337000061"
     },
     {
-        "id": "15",
+        "id": "19",
         "name": "Šoupě 2″, 2× vnitřní závit 2″, s pákou, rychlouzavírací, RIV 560 Turchese",
         "subtitle": "RIV 560 TURCHESE, 050560000011",
         "price": "1 899,00 CZK",
@@ -165,7 +209,7 @@
         "description": "Kategorie: RIV ITALY\nČíslo dílu: RIV 560 TURCHESE, 050560000011"
     },
     {
-        "id": "16",
+        "id": "20",
         "name": "Šoupě 2″1/2, 2× vnitřní závit 2″1/2, s pákou, rychlouzavírací, RIV 560 Turchese",
         "subtitle": "RIV 560 TURCHESE, 050560000013",
         "price": "2 129,00 CZK",
@@ -176,7 +220,7 @@
         "description": "Kategorie: RIV ITALY\nČíslo dílu: RIV 560 TURCHESE, 050560000013"
     },
     {
-        "id": "17",
+        "id": "21",
         "name": "Šoupě 3″, 2× vnitřní závit 3″, s pákou, rychlouzavírací, RIV 560 Turchese",
         "subtitle": "RIV 560 TURCHESE, 050560000014",
         "price": "2 629,00 CZK",
@@ -187,7 +231,7 @@
         "description": "Kategorie: RIV ITALY\nČíslo dílu: RIV 560 TURCHESE, 050560000014"
     },
     {
-        "id": "18",
+        "id": "22",
         "name": "Šoupě 4″, 2 příruby, 150×150, včetně o-kroužků, RIV 10 Perla",
         "subtitle": "PERLA RIV 10, 050010000016",
         "price": "2 959,00 CZK",
@@ -198,7 +242,7 @@
         "description": "Kategorie: RIV ITALY\nČíslo dílu: PERLA RIV 10, 050010000016"
     },
     {
-        "id": "19",
+        "id": "23",
         "name": "Šoupě 4″, 2× vnitřní závit 4″, s pákou, rychlouzavírací, RIV 560 Turchese",
         "subtitle": "RIV 560 TURCHESE, 050560000016",
         "price": "3 159,00 CZK",
@@ -209,7 +253,7 @@
         "description": "Kategorie: RIV ITALY\nČíslo dílu: RIV 560 TURCHESE, 050560000016"
     },
     {
-        "id": "20",
+        "id": "24",
         "name": "Šoupě 5″, 2 příruby, 150×150, včetně o-kroužků, RIV 10 Perla",
         "subtitle": "PERLA RIV 10, 050010000018, 9700716500",
         "price": "3 379,00 CZK",
@@ -220,7 +264,7 @@
         "description": "Kategorie: RIV ITALY\nČíslo dílu: PERLA RIV 10, 050010000018, 9700716500"
     },
     {
-        "id": "21",
+        "id": "25",
         "name": "Šoupě 6″, 2 příruby, 150×150, včetně o-kroužků, RIV 10 Perla",
         "subtitle": "PERLA RIV 10, 050010000919",
         "price": "3 299,00 CZK",
@@ -231,7 +275,7 @@
         "description": "Kategorie: RIV ITALY\nČíslo dílu: PERLA RIV 10, 050010000919"
     },
     {
-        "id": "22",
+        "id": "26",
         "name": "Šoupě 6″, velkokapacitní, 2 příruby, 150×150, včetně o-kroužků, RIV 30 Centurion",
         "subtitle": "CENTURION RIV 30, 050030000019",
         "price": "4 841,00 CZK",
@@ -242,7 +286,7 @@
         "description": "Kategorie: RIV ITALY\nČíslo dílu: CENTURION RIV 30, 050030000019"
     },
     {
-        "id": "23",
+        "id": "27",
         "name": "Šoupě 8″, 2 příruby, 180×180, včetně o-kroužků, RIV 10 Perla",
         "subtitle": "PERLA RIV 10, 050010000020,97001008",
         "price": "7 892,00 CZK",
@@ -253,7 +297,7 @@
         "description": "Kategorie: RIV ITALY\nČíslo dílu: PERLA RIV 10, 050010000020,97001008"
     },
     {
-        "id": "24",
+        "id": "28",
         "name": "Stavoznak plastový 2″, RIV 550 Zaffiro",
         "subtitle": "RIV 550, 050550000011",
         "price": "59,00 CZK",
@@ -264,7 +308,7 @@
         "description": "Kategorie: RIV ITALY\nČíslo dílu: RIV 550, 050550000011"
     },
     {
-        "id": "25",
+        "id": "29",
         "name": "Stavoznak plastový 3″, RIV 550 Zaffiro",
         "subtitle": "RIV 550, 050550000014",
         "price": "129,00 CZK",
@@ -275,7 +319,7 @@
         "description": "Kategorie: RIV ITALY\nČíslo dílu: RIV 550, 050550000014"
     },
     {
-        "id": "26",
+        "id": "30",
         "name": "Těsnění příruby 4″, 5″, 6″ šoupěte, gumové, Smeraldo RIV 157",
         "subtitle": "SMERALDO RIV 157, GUIFRFL00001, 94050200588",
         "price": "135,00 CZK",
@@ -286,7 +330,7 @@
         "description": "Kategorie: RIV ITALY\nČíslo dílu: SMERALDO RIV 157, GUIFRFL00001, 94050200588"
     },
     {
-        "id": "27",
+        "id": "31",
         "name": "Uzávěr plovákový ø60, DN60, 2 koule, RIV 410 Acqua Marina",
         "subtitle": "RIV 410 ACQUA MARINA, 050410000055",
         "price": "2 789,00 CZK",
@@ -297,7 +341,7 @@
         "description": "Kategorie: RIV ITALY\nČíslo dílu: RIV 410 ACQUA MARINA, 050410000055"
     },
     {
-        "id": "28",
+        "id": "32",
         "name": "Uzávěr plovákový ø60, DN60, 2 koule, RIV 412 Gold",
         "subtitle": "RIV 412 GOLD 050412000055",
         "price": "3 849,00 CZK",
@@ -308,7 +352,7 @@
         "description": "Kategorie: RIV ITALY\nČíslo dílu: RIV 412 GOLD 050412000055"
     },
     {
-        "id": "29",
+        "id": "33",
         "name": "Uzávěr plovákový ø80, DN80, 2 koule, RIV 410 Acqua Marina",
         "subtitle": "RIV 410 ACQUA MARINA, 050410000061",
         "price": "3 769,00 CZK",
@@ -319,7 +363,7 @@
         "description": "Kategorie: RIV ITALY\nČíslo dílu: RIV 410 ACQUA MARINA, 050410000061"
     },
     {
-        "id": "30",
+        "id": "34",
         "name": "Uzávěr plovákový ø80, DN80, 2 koule, RIV 412 Gold",
         "subtitle": "RIV 412 GOLD 050412000061",
         "price": "4 479,00 CZK",
@@ -328,50 +372,6 @@
         "category": "RIV ITALY",
         "url": "https://obchod.fimas.cz/Uzaver-plovakovy-80-DN80-2-koule-RIV-412-Gold-d2549.htm",
         "description": "Kategorie: RIV ITALY\nČíslo dílu: RIV 412 GOLD 050412000061"
-    },
-    {
-        "id": "31",
-        "name": "Válec hydraulický dvojčinný, pro šoupě 4″, 5″, 6″, Smeraldo RIV 163",
-        "subtitle": "RIV 163 SMERALDO, 050163000000",
-        "price": "1 889,00 CZK",
-        "stock": "skladem",
-        "image": "https://obchod.fimas.cz/fotky7833/fotos/_vyr_2349Riv-0163.png",
-        "category": "RIV ITALY",
-        "url": "https://obchod.fimas.cz/Valec-hydraulicky-dvojcinny-pro-soupe-4-5-6-Smeraldo-RIV-163-d2349.htm",
-        "description": "Kategorie: RIV ITALY\nČíslo dílu: RIV 163 SMERALDO, 050163000000"
-    },
-    {
-        "id": "32",
-        "name": "Válec hydraulický jednočinný, pro šoupě 4″, Smeraldo RIV 166",
-        "subtitle": "RIV 166 SMERALDO, 050166000016",
-        "price": "2 606,00 CZK",
-        "stock": "skladem",
-        "image": "https://obchod.fimas.cz/fotky7833/fotos/_vyr_2350Riv-0166.png",
-        "category": "RIV ITALY",
-        "url": "https://obchod.fimas.cz/Valec-hydraulicky-jednocinny-pro-soupe-4-Smeraldo-RIV-166-d2350.htm",
-        "description": "Kategorie: RIV ITALY\nČíslo dílu: RIV 166 SMERALDO, 050166000016"
-    },
-    {
-        "id": "33",
-        "name": "Válec hydraulický jednočinný, pro šoupě 5″, Smeraldo RIV 166",
-        "subtitle": "RIV 166 SMERALDO, 050166000018",
-        "price": "3 109,00 CZK",
-        "stock": "skladem",
-        "image": "https://obchod.fimas.cz/fotky7833/fotos/7833_2351__vyr_2350Riv-0166.png",
-        "category": "RIV ITALY",
-        "url": "https://obchod.fimas.cz/Valec-hydraulicky-jednocinny-pro-soupe-5-Smeraldo-RIV-166-d2351.htm",
-        "description": "Kategorie: RIV ITALY\nČíslo dílu: RIV 166 SMERALDO, 050166000018"
-    },
-    {
-        "id": "34",
-        "name": "Válec hydraulický jednočinný, pro šoupě 6″, Smeraldo RIV 166",
-        "subtitle": "RIV 166 SMERALDO, 050166000000, 94050490042",
-        "price": "3 525,00 CZK",
-        "stock": "skladem",
-        "image": "https://obchod.fimas.cz/fotky7833/fotos/7833_2352_7833_2351__vyr_2350Riv-0166.png",
-        "category": "RIV ITALY",
-        "url": "https://obchod.fimas.cz/Valec-hydraulicky-jednocinny-pro-soupe-6-Smeraldo-RIV-166-d2352.htm",
-        "description": "Kategorie: RIV ITALY\nČíslo dílu: RIV 166 SMERALDO, 050166000000, 94050490042"
     },
     {
         "id": "35",
@@ -1475,6 +1475,50 @@
     },
     {
         "id": "135",
+        "name": "Hydraulický válec dvojčinný, pro šoupě 4″, 5″, 6″, Smeraldo RIV 163",
+        "subtitle": "RIV 163 SMERALDO, 050163000000",
+        "price": "1 889,00 CZK",
+        "stock": "skladem",
+        "image": "https://obchod.fimas.cz/fotky7833/fotos/_vyr_2349Riv-0163.png",
+        "category": "RIV ITALY  / SMERALDO příslušenství šoupat",
+        "url": "https://obchod.fimas.cz/Hydraulicky-valec-dvojcinny-pro-soupe-4-5-6-Smeraldo-RIV-163-d2349.htm",
+        "description": "Kategorie: RIV ITALY  / SMERALDO příslušenství šoupat\nČíslo dílu: RIV 163 SMERALDO, 050163000000"
+    },
+    {
+        "id": "136",
+        "name": "Hydraulický válec jednočinný, pro šoupě 4″, Smeraldo RIV 166",
+        "subtitle": "RIV 166 SMERALDO, 050166000016",
+        "price": "2 606,00 CZK",
+        "stock": "skladem",
+        "image": "https://obchod.fimas.cz/fotky7833/fotos/_vyr_2350Riv-0166.png",
+        "category": "RIV ITALY  / SMERALDO příslušenství šoupat",
+        "url": "https://obchod.fimas.cz/Hydraulicky-valec-jednocinny-pro-soupe-4-Smeraldo-RIV-166-d2350.htm",
+        "description": "Kategorie: RIV ITALY  / SMERALDO příslušenství šoupat\nČíslo dílu: RIV 166 SMERALDO, 050166000016"
+    },
+    {
+        "id": "137",
+        "name": "Hydraulický válec jednočinný, pro šoupě 5″, Smeraldo RIV 166",
+        "subtitle": "RIV 166 SMERALDO, 050166000018",
+        "price": "3 109,00 CZK",
+        "stock": "skladem",
+        "image": "https://obchod.fimas.cz/fotky7833/fotos/7833_2351__vyr_2350Riv-0166.png",
+        "category": "RIV ITALY  / SMERALDO příslušenství šoupat",
+        "url": "https://obchod.fimas.cz/Hydraulicky-valec-jednocinny-pro-soupe-5-Smeraldo-RIV-166-d2351.htm",
+        "description": "Kategorie: RIV ITALY  / SMERALDO příslušenství šoupat\nČíslo dílu: RIV 166 SMERALDO, 050166000018"
+    },
+    {
+        "id": "138",
+        "name": "Hydraulický válec jednočinný, pro šoupě 6″, Smeraldo RIV 166",
+        "subtitle": "RIV 166 SMERALDO, 050166000000, 94050490042",
+        "price": "3 525,00 CZK",
+        "stock": "skladem",
+        "image": "https://obchod.fimas.cz/fotky7833/fotos/7833_2352_7833_2351__vyr_2350Riv-0166.png",
+        "category": "RIV ITALY  / SMERALDO příslušenství šoupat",
+        "url": "https://obchod.fimas.cz/Hydraulicky-valec-jednocinny-pro-soupe-6-Smeraldo-RIV-166-d2352.htm",
+        "description": "Kategorie: RIV ITALY  / SMERALDO příslušenství šoupat\nČíslo dílu: RIV 166 SMERALDO, 050166000000, 94050490042"
+    },
+    {
+        "id": "139",
         "name": "Páka ovládací šoupěte 4″-5″-6″, těžké provedení, Smeraldo RIV 153",
         "subtitle": "SMERALDO RIV 153, 050153000000",
         "price": "589,00 CZK",
@@ -1485,7 +1529,7 @@
         "description": "Kategorie: RIV ITALY  / SMERALDO příslušenství šoupat\nČíslo dílu: SMERALDO RIV 153, 050153000000"
     },
     {
-        "id": "136",
+        "id": "140",
         "name": "Pouzdro vodící šoupěte 5-6″, Smeraldo RIV 152",
         "subtitle": "RIV 152 SMERALDO, 050152000000, 9604157200",
         "price": "149,00 CZK",
@@ -1496,7 +1540,7 @@
         "description": "Kategorie: RIV ITALY  / SMERALDO příslušenství šoupat\nČíslo dílu: RIV 152 SMERALDO, 050152000000, 9604157200"
     },
     {
-        "id": "137",
+        "id": "141",
         "name": "Příruba 4″ šoupěte, rozteč 150×150, ocelová, RIV 150 Smeraldo",
         "subtitle": "SMERALDO RIV 150, 050150000016, 9405020058",
         "price": "246,00 CZK",
@@ -1507,7 +1551,7 @@
         "description": "Kategorie: RIV ITALY  / SMERALDO příslušenství šoupat\nČíslo dílu: SMERALDO RIV 150, 050150000016, 9405020058"
     },
     {
-        "id": "138",
+        "id": "142",
         "name": "Příruba 6″ šoupěte, rozteč 150×150, ocelová, RIV 150 Smeraldo",
         "subtitle": "SMERALDO RIV 150, 050150000019",
         "price": "249,00 CZK",
@@ -1518,7 +1562,7 @@
         "description": "Kategorie: RIV ITALY  / SMERALDO příslušenství šoupat\nČíslo dílu: SMERALDO RIV 150, 050150000019"
     },
     {
-        "id": "139",
+        "id": "143",
         "name": "Těsnění příruby 4″, 5″, 6″ šoupěte, gumové, Smeraldo RIV 157",
         "subtitle": "SMERALDO RIV 157, GUIFRFL00001, 94050200588",
         "price": "135,00 CZK",
@@ -1527,50 +1571,6 @@
         "category": "RIV ITALY  / SMERALDO příslušenství šoupat",
         "url": "https://obchod.fimas.cz/Tesneni-priruby-4-5-6-soupete-gumove-Smeraldo-RIV-157-d2348.htm",
         "description": "Kategorie: RIV ITALY  / SMERALDO příslušenství šoupat\nČíslo dílu: SMERALDO RIV 157, GUIFRFL00001, 94050200588"
-    },
-    {
-        "id": "140",
-        "name": "Válec hydraulický dvojčinný, pro šoupě 4″, 5″, 6″, Smeraldo RIV 163",
-        "subtitle": "RIV 163 SMERALDO, 050163000000",
-        "price": "1 889,00 CZK",
-        "stock": "skladem",
-        "image": "https://obchod.fimas.cz/fotky7833/fotos/_vyr_2349Riv-0163.png",
-        "category": "RIV ITALY  / SMERALDO příslušenství šoupat",
-        "url": "https://obchod.fimas.cz/Valec-hydraulicky-dvojcinny-pro-soupe-4-5-6-Smeraldo-RIV-163-d2349.htm",
-        "description": "Kategorie: RIV ITALY  / SMERALDO příslušenství šoupat\nČíslo dílu: RIV 163 SMERALDO, 050163000000"
-    },
-    {
-        "id": "141",
-        "name": "Válec hydraulický jednočinný, pro šoupě 4″, Smeraldo RIV 166",
-        "subtitle": "RIV 166 SMERALDO, 050166000016",
-        "price": "2 606,00 CZK",
-        "stock": "skladem",
-        "image": "https://obchod.fimas.cz/fotky7833/fotos/_vyr_2350Riv-0166.png",
-        "category": "RIV ITALY  / SMERALDO příslušenství šoupat",
-        "url": "https://obchod.fimas.cz/Valec-hydraulicky-jednocinny-pro-soupe-4-Smeraldo-RIV-166-d2350.htm",
-        "description": "Kategorie: RIV ITALY  / SMERALDO příslušenství šoupat\nČíslo dílu: RIV 166 SMERALDO, 050166000016"
-    },
-    {
-        "id": "142",
-        "name": "Válec hydraulický jednočinný, pro šoupě 5″, Smeraldo RIV 166",
-        "subtitle": "RIV 166 SMERALDO, 050166000018",
-        "price": "3 109,00 CZK",
-        "stock": "skladem",
-        "image": "https://obchod.fimas.cz/fotky7833/fotos/7833_2351__vyr_2350Riv-0166.png",
-        "category": "RIV ITALY  / SMERALDO příslušenství šoupat",
-        "url": "https://obchod.fimas.cz/Valec-hydraulicky-jednocinny-pro-soupe-5-Smeraldo-RIV-166-d2351.htm",
-        "description": "Kategorie: RIV ITALY  / SMERALDO příslušenství šoupat\nČíslo dílu: RIV 166 SMERALDO, 050166000018"
-    },
-    {
-        "id": "143",
-        "name": "Válec hydraulický jednočinný, pro šoupě 6″, Smeraldo RIV 166",
-        "subtitle": "RIV 166 SMERALDO, 050166000000, 94050490042",
-        "price": "3 525,00 CZK",
-        "stock": "skladem",
-        "image": "https://obchod.fimas.cz/fotky7833/fotos/7833_2352_7833_2351__vyr_2350Riv-0166.png",
-        "category": "RIV ITALY  / SMERALDO příslušenství šoupat",
-        "url": "https://obchod.fimas.cz/Valec-hydraulicky-jednocinny-pro-soupe-6-Smeraldo-RIV-166-d2352.htm",
-        "description": "Kategorie: RIV ITALY  / SMERALDO příslušenství šoupat\nČíslo dílu: RIV 166 SMERALDO, 050166000000, 94050490042"
     },
     {
         "id": "144",
@@ -1849,6 +1849,50 @@
     },
     {
         "id": "169",
+        "name": "Hydraulický válec dvojčinný, pro šoupě 4″, 5″, 6″, Smeraldo RIV 163",
+        "subtitle": "RIV 163 SMERALDO, 050163000000",
+        "price": "1 889,00 CZK",
+        "stock": "skladem",
+        "image": "https://obchod.fimas.cz/fotky7833/fotos/_vyr_2349Riv-0163.png",
+        "category": "RIV ITALY  / ŠOUPĚ a příslušenství",
+        "url": "https://obchod.fimas.cz/Hydraulicky-valec-dvojcinny-pro-soupe-4-5-6-Smeraldo-RIV-163-d2349.htm",
+        "description": "Kategorie: RIV ITALY  / ŠOUPĚ a příslušenství\nČíslo dílu: RIV 163 SMERALDO, 050163000000"
+    },
+    {
+        "id": "170",
+        "name": "Hydraulický válec jednočinný, pro šoupě 4″, Smeraldo RIV 166",
+        "subtitle": "RIV 166 SMERALDO, 050166000016",
+        "price": "2 606,00 CZK",
+        "stock": "skladem",
+        "image": "https://obchod.fimas.cz/fotky7833/fotos/_vyr_2350Riv-0166.png",
+        "category": "RIV ITALY  / ŠOUPĚ a příslušenství",
+        "url": "https://obchod.fimas.cz/Hydraulicky-valec-jednocinny-pro-soupe-4-Smeraldo-RIV-166-d2350.htm",
+        "description": "Kategorie: RIV ITALY  / ŠOUPĚ a příslušenství\nČíslo dílu: RIV 166 SMERALDO, 050166000016"
+    },
+    {
+        "id": "171",
+        "name": "Hydraulický válec jednočinný, pro šoupě 5″, Smeraldo RIV 166",
+        "subtitle": "RIV 166 SMERALDO, 050166000018",
+        "price": "3 109,00 CZK",
+        "stock": "skladem",
+        "image": "https://obchod.fimas.cz/fotky7833/fotos/7833_2351__vyr_2350Riv-0166.png",
+        "category": "RIV ITALY  / ŠOUPĚ a příslušenství",
+        "url": "https://obchod.fimas.cz/Hydraulicky-valec-jednocinny-pro-soupe-5-Smeraldo-RIV-166-d2351.htm",
+        "description": "Kategorie: RIV ITALY  / ŠOUPĚ a příslušenství\nČíslo dílu: RIV 166 SMERALDO, 050166000018"
+    },
+    {
+        "id": "172",
+        "name": "Hydraulický válec jednočinný, pro šoupě 6″, Smeraldo RIV 166",
+        "subtitle": "RIV 166 SMERALDO, 050166000000, 94050490042",
+        "price": "3 525,00 CZK",
+        "stock": "skladem",
+        "image": "https://obchod.fimas.cz/fotky7833/fotos/7833_2352_7833_2351__vyr_2350Riv-0166.png",
+        "category": "RIV ITALY  / ŠOUPĚ a příslušenství",
+        "url": "https://obchod.fimas.cz/Hydraulicky-valec-jednocinny-pro-soupe-6-Smeraldo-RIV-166-d2352.htm",
+        "description": "Kategorie: RIV ITALY  / ŠOUPĚ a příslušenství\nČíslo dílu: RIV 166 SMERALDO, 050166000000, 94050490042"
+    },
+    {
+        "id": "173",
         "name": "Páka ovládací šoupěte 4″-5″-6″, těžké provedení, Smeraldo RIV 153",
         "subtitle": "SMERALDO RIV 153, 050153000000",
         "price": "589,00 CZK",
@@ -1859,7 +1903,7 @@
         "description": "Kategorie: RIV ITALY  / ŠOUPĚ a příslušenství\nČíslo dílu: SMERALDO RIV 153, 050153000000"
     },
     {
-        "id": "170",
+        "id": "174",
         "name": "Pouzdro vodící šoupěte 5-6″, Smeraldo RIV 152",
         "subtitle": "RIV 152 SMERALDO, 050152000000, 9604157200",
         "price": "149,00 CZK",
@@ -1870,7 +1914,7 @@
         "description": "Kategorie: RIV ITALY  / ŠOUPĚ a příslušenství\nČíslo dílu: RIV 152 SMERALDO, 050152000000, 9604157200"
     },
     {
-        "id": "171",
+        "id": "175",
         "name": "Příruba 4″ šoupěte, rozteč 150×150, ocelová, RIV 150 Smeraldo",
         "subtitle": "SMERALDO RIV 150, 050150000016, 9405020058",
         "price": "246,00 CZK",
@@ -1881,7 +1925,7 @@
         "description": "Kategorie: RIV ITALY  / ŠOUPĚ a příslušenství\nČíslo dílu: SMERALDO RIV 150, 050150000016, 9405020058"
     },
     {
-        "id": "172",
+        "id": "176",
         "name": "Příruba 6″ šoupěte, rozteč 150×150, ocelová, RIV 150 Smeraldo",
         "subtitle": "SMERALDO RIV 150, 050150000019",
         "price": "249,00 CZK",
@@ -1892,7 +1936,7 @@
         "description": "Kategorie: RIV ITALY  / ŠOUPĚ a příslušenství\nČíslo dílu: SMERALDO RIV 150, 050150000019"
     },
     {
-        "id": "173",
+        "id": "177",
         "name": "Šoupě 2″, 2× vnitřní závit 2″, s pákou, rychlouzavírací, RIV 560 Turchese",
         "subtitle": "RIV 560 TURCHESE, 050560000011",
         "price": "1 899,00 CZK",
@@ -1903,7 +1947,7 @@
         "description": "Kategorie: RIV ITALY  / ŠOUPĚ a příslušenství\nČíslo dílu: RIV 560 TURCHESE, 050560000011"
     },
     {
-        "id": "174",
+        "id": "178",
         "name": "Šoupě 2″1/2, 2× vnitřní závit 2″1/2, s pákou, rychlouzavírací, RIV 560 Turchese",
         "subtitle": "RIV 560 TURCHESE, 050560000013",
         "price": "2 129,00 CZK",
@@ -1914,7 +1958,7 @@
         "description": "Kategorie: RIV ITALY  / ŠOUPĚ a příslušenství\nČíslo dílu: RIV 560 TURCHESE, 050560000013"
     },
     {
-        "id": "175",
+        "id": "179",
         "name": "Šoupě 3″, 2× vnitřní závit 3″, s pákou, rychlouzavírací, RIV 560 Turchese",
         "subtitle": "RIV 560 TURCHESE, 050560000014",
         "price": "2 629,00 CZK",
@@ -1925,7 +1969,7 @@
         "description": "Kategorie: RIV ITALY  / ŠOUPĚ a příslušenství\nČíslo dílu: RIV 560 TURCHESE, 050560000014"
     },
     {
-        "id": "176",
+        "id": "180",
         "name": "Šoupě 4″, 2 příruby, 150×150, včetně o-kroužků, RIV 10 Perla",
         "subtitle": "PERLA RIV 10, 050010000016",
         "price": "2 959,00 CZK",
@@ -1936,7 +1980,7 @@
         "description": "Kategorie: RIV ITALY  / ŠOUPĚ a příslušenství\nČíslo dílu: PERLA RIV 10, 050010000016"
     },
     {
-        "id": "177",
+        "id": "181",
         "name": "Šoupě 4″, 2× vnitřní závit 4″, s pákou, rychlouzavírací, RIV 560 Turchese",
         "subtitle": "RIV 560 TURCHESE, 050560000016",
         "price": "3 159,00 CZK",
@@ -1947,7 +1991,7 @@
         "description": "Kategorie: RIV ITALY  / ŠOUPĚ a příslušenství\nČíslo dílu: RIV 560 TURCHESE, 050560000016"
     },
     {
-        "id": "178",
+        "id": "182",
         "name": "Šoupě 5″, 2 příruby, 150×150, včetně o-kroužků, RIV 10 Perla",
         "subtitle": "PERLA RIV 10, 050010000018, 9700716500",
         "price": "3 379,00 CZK",
@@ -1958,7 +2002,7 @@
         "description": "Kategorie: RIV ITALY  / ŠOUPĚ a příslušenství\nČíslo dílu: PERLA RIV 10, 050010000018, 9700716500"
     },
     {
-        "id": "179",
+        "id": "183",
         "name": "Šoupě 6″, 2 příruby, 150×150, včetně o-kroužků, RIV 10 Perla",
         "subtitle": "PERLA RIV 10, 050010000919",
         "price": "3 299,00 CZK",
@@ -1969,7 +2013,7 @@
         "description": "Kategorie: RIV ITALY  / ŠOUPĚ a příslušenství\nČíslo dílu: PERLA RIV 10, 050010000919"
     },
     {
-        "id": "180",
+        "id": "184",
         "name": "Šoupě 6″, velkokapacitní, 2 příruby, 150×150, včetně o-kroužků, RIV 30 Centurion",
         "subtitle": "CENTURION RIV 30, 050030000019",
         "price": "4 841,00 CZK",
@@ -1980,7 +2024,7 @@
         "description": "Kategorie: RIV ITALY  / ŠOUPĚ a příslušenství\nČíslo dílu: CENTURION RIV 30, 050030000019"
     },
     {
-        "id": "181",
+        "id": "185",
         "name": "Šoupě 8″, 2 příruby, 180×180, včetně o-kroužků, RIV 10 Perla",
         "subtitle": "PERLA RIV 10, 050010000020,97001008",
         "price": "7 892,00 CZK",
@@ -1991,7 +2035,7 @@
         "description": "Kategorie: RIV ITALY  / ŠOUPĚ a příslušenství\nČíslo dílu: PERLA RIV 10, 050010000020,97001008"
     },
     {
-        "id": "182",
+        "id": "186",
         "name": "Těsnění příruby 4″, 5″, 6″ šoupěte, gumové, Smeraldo RIV 157",
         "subtitle": "SMERALDO RIV 157, GUIFRFL00001, 94050200588",
         "price": "135,00 CZK",
@@ -2000,50 +2044,6 @@
         "category": "RIV ITALY  / ŠOUPĚ a příslušenství",
         "url": "https://obchod.fimas.cz/Tesneni-priruby-4-5-6-soupete-gumove-Smeraldo-RIV-157-d2348.htm",
         "description": "Kategorie: RIV ITALY  / ŠOUPĚ a příslušenství\nČíslo dílu: SMERALDO RIV 157, GUIFRFL00001, 94050200588"
-    },
-    {
-        "id": "183",
-        "name": "Válec hydraulický dvojčinný, pro šoupě 4″, 5″, 6″, Smeraldo RIV 163",
-        "subtitle": "RIV 163 SMERALDO, 050163000000",
-        "price": "1 889,00 CZK",
-        "stock": "skladem",
-        "image": "https://obchod.fimas.cz/fotky7833/fotos/_vyr_2349Riv-0163.png",
-        "category": "RIV ITALY  / ŠOUPĚ a příslušenství",
-        "url": "https://obchod.fimas.cz/Valec-hydraulicky-dvojcinny-pro-soupe-4-5-6-Smeraldo-RIV-163-d2349.htm",
-        "description": "Kategorie: RIV ITALY  / ŠOUPĚ a příslušenství\nČíslo dílu: RIV 163 SMERALDO, 050163000000"
-    },
-    {
-        "id": "184",
-        "name": "Válec hydraulický jednočinný, pro šoupě 4″, Smeraldo RIV 166",
-        "subtitle": "RIV 166 SMERALDO, 050166000016",
-        "price": "2 606,00 CZK",
-        "stock": "skladem",
-        "image": "https://obchod.fimas.cz/fotky7833/fotos/_vyr_2350Riv-0166.png",
-        "category": "RIV ITALY  / ŠOUPĚ a příslušenství",
-        "url": "https://obchod.fimas.cz/Valec-hydraulicky-jednocinny-pro-soupe-4-Smeraldo-RIV-166-d2350.htm",
-        "description": "Kategorie: RIV ITALY  / ŠOUPĚ a příslušenství\nČíslo dílu: RIV 166 SMERALDO, 050166000016"
-    },
-    {
-        "id": "185",
-        "name": "Válec hydraulický jednočinný, pro šoupě 5″, Smeraldo RIV 166",
-        "subtitle": "RIV 166 SMERALDO, 050166000018",
-        "price": "3 109,00 CZK",
-        "stock": "skladem",
-        "image": "https://obchod.fimas.cz/fotky7833/fotos/7833_2351__vyr_2350Riv-0166.png",
-        "category": "RIV ITALY  / ŠOUPĚ a příslušenství",
-        "url": "https://obchod.fimas.cz/Valec-hydraulicky-jednocinny-pro-soupe-5-Smeraldo-RIV-166-d2351.htm",
-        "description": "Kategorie: RIV ITALY  / ŠOUPĚ a příslušenství\nČíslo dílu: RIV 166 SMERALDO, 050166000018"
-    },
-    {
-        "id": "186",
-        "name": "Válec hydraulický jednočinný, pro šoupě 6″, Smeraldo RIV 166",
-        "subtitle": "RIV 166 SMERALDO, 050166000000, 94050490042",
-        "price": "3 525,00 CZK",
-        "stock": "skladem",
-        "image": "https://obchod.fimas.cz/fotky7833/fotos/7833_2352_7833_2351__vyr_2350Riv-0166.png",
-        "category": "RIV ITALY  / ŠOUPĚ a příslušenství",
-        "url": "https://obchod.fimas.cz/Valec-hydraulicky-jednocinny-pro-soupe-6-Smeraldo-RIV-166-d2352.htm",
-        "description": "Kategorie: RIV ITALY  / ŠOUPĚ a příslušenství\nČíslo dílu: RIV 166 SMERALDO, 050166000000, 94050490042"
     },
     {
         "id": "187",
@@ -3070,57 +3070,57 @@
     },
     {
         "id": "280",
-        "name": "Válec hydraulický 40×22×100, 3cestné kohouty, horní uzávěr MV5-014",
-        "subtitle": "H41-0-0903, 40/22/100",
-        "price": "4 929,00 CZK",
-        "stock": "skladem",
-        "image": "https://obchod.fimas.cz/fotky7833/fotos/_vyr_99obrazek-pripravujeme.jpg",
-        "category": "FEKÁLNÍ NÁSTAVBY MALACKY / Rozvod po stroji",
-        "url": "https://obchod.fimas.cz/Valec-hydraulicky-40-22-100-3cestne-kohouty-horni-uzaver-MV5-014-d1129.htm",
-        "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Rozvod po stroji\nČíslo dílu: H41-0-0903, 40/22/100"
-    },
-    {
-        "id": "281",
-        "name": "Válec hydraulický 40×22×63, boční uzávěr",
+        "name": "Hydraulický válec  40×22×63, boční uzávěr",
         "subtitle": "H41-0-0901, 40/22/63",
         "price": "3 463,00 CZK",
         "stock": "skladem",
         "image": "https://obchod.fimas.cz/fotky7833/fotos/_vyr_99obrazek-pripravujeme.jpg",
         "category": "FEKÁLNÍ NÁSTAVBY MALACKY / Rozvod po stroji",
-        "url": "https://obchod.fimas.cz/Valec-hydraulicky-40-22-63-bocni-uzaver-d1128.htm",
+        "url": "https://obchod.fimas.cz/Hydraulicky-valec-40-22-63-bocni-uzaver-d1128.htm",
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Rozvod po stroji\nČíslo dílu: H41-0-0901, 40/22/63"
     },
     {
-        "id": "282",
-        "name": "Válec hydraulický 40×22×63, zadní uzávěr",
+        "id": "281",
+        "name": "Hydraulický válec  40×22×63, zadní uzávěr",
         "subtitle": "H41-0-0911, 40/22/63",
         "price": "3 849,00 CZK",
         "stock": "skladem",
         "image": "https://obchod.fimas.cz/fotky7833/fotos/_vyr_99obrazek-pripravujeme.jpg",
         "category": "FEKÁLNÍ NÁSTAVBY MALACKY / Rozvod po stroji",
-        "url": "https://obchod.fimas.cz/Valec-hydraulicky-40-22-63-zadni-uzaver-d1127.htm",
+        "url": "https://obchod.fimas.cz/Hydraulicky-valec-40-22-63-zadni-uzaver-d1127.htm",
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Rozvod po stroji\nČíslo dílu: H41-0-0911, 40/22/63"
     },
     {
+        "id": "282",
+        "name": "Hydraulický válec 40×22×100, 3cestné kohouty, horní uzávěr MV5-014",
+        "subtitle": "H41-0-0903, 40/22/100",
+        "price": "4 929,00 CZK",
+        "stock": "skladem",
+        "image": "https://obchod.fimas.cz/fotky7833/fotos/_vyr_99obrazek-pripravujeme.jpg",
+        "category": "FEKÁLNÍ NÁSTAVBY MALACKY / Rozvod po stroji",
+        "url": "https://obchod.fimas.cz/Hydraulicky-valec-40-22-100-3cestne-kohouty-horni-uzaver-MV5-014-d1129.htm",
+        "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Rozvod po stroji\nČíslo dílu: H41-0-0903, 40/22/100"
+    },
+    {
         "id": "283",
-        "name": "Válec hydraulický 50×25×160, otáčení ramene",
+        "name": "Hydraulický válec 50×25×160, otáčení ramene",
         "subtitle": "H51-0-0914, 50/25/160",
         "price": "5 729,00 CZK",
         "stock": "skladem",
         "image": "https://obchod.fimas.cz/fotky7833/fotos/_vyr_99obrazek-pripravujeme.jpg",
         "category": "FEKÁLNÍ NÁSTAVBY MALACKY / Rozvod po stroji",
-        "url": "https://obchod.fimas.cz/Valec-hydraulicky-50-25-160-otaceni-ramene-d1131.htm",
+        "url": "https://obchod.fimas.cz/Hydraulicky-valec-50-25-160-otaceni-ramene-d1131.htm",
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Rozvod po stroji\nČíslo dílu: H51-0-0914, 50/25/160"
     },
     {
         "id": "284",
-        "name": "Válec hydraulický 63×32×320, zdvih ramene",
+        "name": "Hydraulický válec 63×32×320, zdvih ramene",
         "subtitle": "H61-0-0906, 63/32/320",
         "price": "4 939,00 CZK",
         "stock": "skladem",
         "image": "https://obchod.fimas.cz/fotky7833/fotos/_vyr_99obrazek-pripravujeme.jpg",
         "category": "FEKÁLNÍ NÁSTAVBY MALACKY / Rozvod po stroji",
-        "url": "https://obchod.fimas.cz/Valec-hydraulicky-63-32-320-zdvih-ramene-d1126.htm",
+        "url": "https://obchod.fimas.cz/Hydraulicky-valec-63-32-320-zdvih-ramene-d1126.htm",
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Rozvod po stroji\nČíslo dílu: H61-0-0906, 63/32/320"
     },
     {
@@ -4489,17 +4489,94 @@
     },
     {
         "id": "409",
-        "name": "Filtr hydraulický FG10M10H, náhrada FG11",
+        "name": "Hydraulický filtr FG10M10H, náhrada FG11",
         "subtitle": "náhrada FG 11",
         "price": "4 149,00 CZK",
         "stock": "skladem",
         "image": "https://obchod.fimas.cz/fotky7833/fotos/_vyr_1302FG10M10F.png",
         "category": "FEKÁLNÍ NÁSTAVBY MALACKY / Hydraulika - rozvaděče",
-        "url": "https://obchod.fimas.cz/Filtr-hydraulicky-FG10M10H-nahrada-FG11-d1302.htm",
+        "url": "https://obchod.fimas.cz/Hydraulicky-filtr-FG10M10H-nahrada-FG11-d1302.htm",
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Hydraulika - rozvaděče\nČíslo dílu: náhrada FG 11"
     },
     {
         "id": "410",
+        "name": "Hydraulický válec  40×22×63, boční uzávěr",
+        "subtitle": "H41-0-0901, 40/22/63",
+        "price": "3 463,00 CZK",
+        "stock": "skladem",
+        "image": "https://obchod.fimas.cz/fotky7833/fotos/_vyr_99obrazek-pripravujeme.jpg",
+        "category": "FEKÁLNÍ NÁSTAVBY MALACKY / Hydraulika - rozvaděče",
+        "url": "https://obchod.fimas.cz/Hydraulicky-valec-40-22-63-bocni-uzaver-d1128.htm",
+        "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Hydraulika - rozvaděče\nČíslo dílu: H41-0-0901, 40/22/63"
+    },
+    {
+        "id": "411",
+        "name": "Hydraulický válec  40×22×63, zadní uzávěr",
+        "subtitle": "H41-0-0911, 40/22/63",
+        "price": "3 849,00 CZK",
+        "stock": "skladem",
+        "image": "https://obchod.fimas.cz/fotky7833/fotos/_vyr_99obrazek-pripravujeme.jpg",
+        "category": "FEKÁLNÍ NÁSTAVBY MALACKY / Hydraulika - rozvaděče",
+        "url": "https://obchod.fimas.cz/Hydraulicky-valec-40-22-63-zadni-uzaver-d1127.htm",
+        "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Hydraulika - rozvaděče\nČíslo dílu: H41-0-0911, 40/22/63"
+    },
+    {
+        "id": "412",
+        "name": "Hydraulický válec 40×22×100, 3cestné kohouty, horní uzávěr MV5-014",
+        "subtitle": "H41-0-0903, 40/22/100",
+        "price": "4 929,00 CZK",
+        "stock": "skladem",
+        "image": "https://obchod.fimas.cz/fotky7833/fotos/_vyr_99obrazek-pripravujeme.jpg",
+        "category": "FEKÁLNÍ NÁSTAVBY MALACKY / Hydraulika - rozvaděče",
+        "url": "https://obchod.fimas.cz/Hydraulicky-valec-40-22-100-3cestne-kohouty-horni-uzaver-MV5-014-d1129.htm",
+        "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Hydraulika - rozvaděče\nČíslo dílu: H41-0-0903, 40/22/100"
+    },
+    {
+        "id": "413",
+        "name": "Hydraulický válec 40×22×125, horní uzávěr MV2-028",
+        "subtitle": "",
+        "price": "2 555,00 CZK",
+        "stock": "skladem",
+        "image": "https://obchod.fimas.cz/fotky7833/fotos/_vyr_99obrazek-pripravujeme.jpg",
+        "category": "FEKÁLNÍ NÁSTAVBY MALACKY / Hydraulika - rozvaděče",
+        "url": "https://obchod.fimas.cz/Hydraulicky-valec-40-22-125-horni-uzaver-MV2-028-d1130.htm",
+        "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Hydraulika - rozvaděče\nČíslo dílu: "
+    },
+    {
+        "id": "414",
+        "name": "Hydraulický válec 40×22×160",
+        "subtitle": "",
+        "price": "2 315,00 CZK",
+        "stock": "skladem",
+        "image": "https://obchod.fimas.cz/fotky7833/fotos/_vyr_99obrazek-pripravujeme.jpg",
+        "category": "FEKÁLNÍ NÁSTAVBY MALACKY / Hydraulika - rozvaděče",
+        "url": "https://obchod.fimas.cz/Hydraulicky-valec-40-22-160-d1132.htm",
+        "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Hydraulika - rozvaděče\nČíslo dílu: "
+    },
+    {
+        "id": "415",
+        "name": "Hydraulický válec 50×25×160, otáčení ramene",
+        "subtitle": "H51-0-0914, 50/25/160",
+        "price": "5 729,00 CZK",
+        "stock": "skladem",
+        "image": "https://obchod.fimas.cz/fotky7833/fotos/_vyr_99obrazek-pripravujeme.jpg",
+        "category": "FEKÁLNÍ NÁSTAVBY MALACKY / Hydraulika - rozvaděče",
+        "url": "https://obchod.fimas.cz/Hydraulicky-valec-50-25-160-otaceni-ramene-d1131.htm",
+        "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Hydraulika - rozvaděče\nČíslo dílu: H51-0-0914, 50/25/160"
+    },
+    {
+        "id": "416",
+        "name": "Hydraulický válec 63×32×320, zdvih ramene",
+        "subtitle": "H61-0-0906, 63/32/320",
+        "price": "4 939,00 CZK",
+        "stock": "skladem",
+        "image": "https://obchod.fimas.cz/fotky7833/fotos/_vyr_99obrazek-pripravujeme.jpg",
+        "category": "FEKÁLNÍ NÁSTAVBY MALACKY / Hydraulika - rozvaděče",
+        "url": "https://obchod.fimas.cz/Hydraulicky-valec-63-32-320-zdvih-ramene-d1126.htm",
+        "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Hydraulika - rozvaděče\nČíslo dílu: H61-0-0906, 63/32/320"
+    },
+    {
+        "id": "417",
         "name": "Kryt rozvaděče, plechový",
         "subtitle": "705-15-1210.0, 7051512100",
         "price": "336,00 CZK",
@@ -4510,7 +4587,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Hydraulika - rozvaděče\nČíslo dílu: 705-15-1210.0, 7051512100"
     },
     {
-        "id": "411",
+        "id": "418",
         "name": "Panel ovládací, 10 tlačítek, nové provedení",
         "subtitle": "Nové provedení",
         "price": "6 690,00 CZK",
@@ -4521,7 +4598,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Hydraulika - rozvaděče\nČíslo dílu: Nové provedení"
     },
     {
-        "id": "412",
+        "id": "419",
         "name": "Plech spodní",
         "subtitle": "705-15-1219.0, 7051512190",
         "price": "135,00 CZK",
@@ -4532,7 +4609,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Hydraulika - rozvaděče\nČíslo dílu: 705-15-1219.0, 7051512190"
     },
     {
-        "id": "413",
+        "id": "420",
         "name": "Rozvaděč (cívka) RPE3-043C11/012-S2, 12V, zapojení kosočtverec, 1 ks na sestavě",
         "subtitle": "043C11, 12V, S2 zapojení kosočtverec",
         "price": "4 739,00 CZK",
@@ -4543,7 +4620,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Hydraulika - rozvaděče\nČíslo dílu: 043C11, 12V, S2 zapojení kosočtverec"
     },
     {
-        "id": "414",
+        "id": "421",
         "name": "Rozvaděč (cívka) RPE3-043C11/024-S2, 24V, zapojení kosočtverec, 1 ks na sestavě",
         "subtitle": "043C11, 24V, S2 zapojení kosočtverec",
         "price": "4 739,00 CZK",
@@ -4554,7 +4631,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Hydraulika - rozvaděče\nČíslo dílu: 043C11, 24V, S2 zapojení kosočtverec"
     },
     {
-        "id": "415",
+        "id": "422",
         "name": "Rozvaděč (cívka) RPE3-043Z11/012-S2, 12V, zapojení kosočtverec, 4 ks na sestavě",
         "subtitle": "043Z11, 12V, S2 zapojení kosočtverec",
         "price": "4 399,00 CZK",
@@ -4565,7 +4642,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Hydraulika - rozvaděče\nČíslo dílu: 043Z11, 12V, S2 zapojení kosočtverec"
     },
     {
-        "id": "416",
+        "id": "423",
         "name": "Rozvaděč (cívka) RPE3-043Z11/024-S2, 24V, zapojení kosočtverec, 4 ks na sestavě",
         "subtitle": "043Z11, 24V, S2 zapojení kosočtverec",
         "price": "4 399,00 CZK",
@@ -4576,7 +4653,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Hydraulika - rozvaděče\nČíslo dílu: 043Z11, 24V, S2 zapojení kosočtverec"
     },
     {
-        "id": "417",
+        "id": "424",
         "name": "Rozvaděč (cívka) RSE4/RPE2-043C11/012-S1, 12V, zapojení S1, 1 ks na sestavě",
         "subtitle": "043C11, 12V, S1 zapojení .:.",
         "price": "4 739,00 CZK",
@@ -4587,7 +4664,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Hydraulika - rozvaděče\nČíslo dílu: 043C11, 12V, S1 zapojení .:."
     },
     {
-        "id": "418",
+        "id": "425",
         "name": "Rozvaděč (cívka) RSE4/RPE2-043C11/024-S1, 24V, zapojení S1, 1 ks na sestavě",
         "subtitle": "043C11, 24V, S1 zapojení .:.",
         "price": "4 739,00 CZK",
@@ -4598,7 +4675,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Hydraulika - rozvaděče\nČíslo dílu: 043C11, 24V, S1 zapojení .:."
     },
     {
-        "id": "419",
+        "id": "426",
         "name": "Rozvaděč (cívka) RSE4/RPE2-043Z11/024S-1, 24V, zapojení S1, 4 ks na sestavě",
         "subtitle": "043Z11, 24V, S1 zapojení .:.",
         "price": "4 399,00 CZK",
@@ -4609,7 +4686,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Hydraulika - rozvaděče\nČíslo dílu: 043Z11, 24V, S1 zapojení .:."
     },
     {
-        "id": "420",
+        "id": "427",
         "name": "Rozvaděč (cívka) RSE4/RPE2-043Z11/12S-1, 12V, zapojení S1, 4 ks na sestavě",
         "subtitle": "043Z11, 12V, S1 zapojení .:.",
         "price": "4 399,00 CZK",
@@ -4620,7 +4697,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Hydraulika - rozvaděče\nČíslo dílu: 043Z11, 12V, S1 zapojení .:."
     },
     {
-        "id": "421",
+        "id": "428",
         "name": "Rozvaděč RSE1-063C11/012S1, DSG-01-3C60-D12-N-70",
         "subtitle": "DSG-01-3C60-D12-N-70, RSE4-063C11/012S-1/H",
         "price": "4 759,00 CZK",
@@ -4631,7 +4708,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Hydraulika - rozvaděče\nČíslo dílu: DSG-01-3C60-D12-N-70, RSE4-063C11/012S-1/H"
     },
     {
-        "id": "422",
+        "id": "429",
         "name": "Rozvaděč RSE2-063Z11/012S1, DSG-01-3C2-D12-N-70",
         "subtitle": "DSG-01-3C2-D12-N-70, RSE4-063Z11/012S-A-1/H",
         "price": "4 800,00 CZK",
@@ -4642,7 +4719,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Hydraulika - rozvaděče\nČíslo dílu: DSG-01-3C2-D12-N-70, RSE4-063Z11/012S-A-1/H"
     },
     {
-        "id": "423",
+        "id": "430",
         "name": "Rozvaděč RSE2-063Z11/0242S1, RSE4-063Z11/024S-A-1/H",
         "subtitle": "RSE4-063Z11/024S-A-1/H",
         "price": "3 870,00 CZK",
@@ -4653,7 +4730,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Hydraulika - rozvaděče\nČíslo dílu: RSE4-063Z11/024S-A-1/H"
     },
     {
-        "id": "424",
+        "id": "431",
         "name": "Rozvaděč RSE4/RSE1-063C11/024-S1, 24V, 1 ks na sestavě",
         "subtitle": "RSE 4-063 C11/24-1/00",
         "price": "3 599,00 CZK",
@@ -4664,7 +4741,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Hydraulika - rozvaděče\nČíslo dílu: RSE 4-063 C11/24-1/00"
     },
     {
-        "id": "425",
+        "id": "432",
         "name": "Štítek rozvaděče AL, plech",
         "subtitle": "",
         "price": "145,00 CZK",
@@ -4673,83 +4750,6 @@
         "category": "FEKÁLNÍ NÁSTAVBY MALACKY / Hydraulika - rozvaděče",
         "url": "https://obchod.fimas.cz/Stitek-rozvadece-AL-plech-d1082.htm",
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Hydraulika - rozvaděče\nČíslo dílu: "
-    },
-    {
-        "id": "426",
-        "name": "Válec hydraulický 40×22×100, 3cestné kohouty, horní uzávěr MV5-014",
-        "subtitle": "H41-0-0903, 40/22/100",
-        "price": "4 929,00 CZK",
-        "stock": "skladem",
-        "image": "https://obchod.fimas.cz/fotky7833/fotos/_vyr_99obrazek-pripravujeme.jpg",
-        "category": "FEKÁLNÍ NÁSTAVBY MALACKY / Hydraulika - rozvaděče",
-        "url": "https://obchod.fimas.cz/Valec-hydraulicky-40-22-100-3cestne-kohouty-horni-uzaver-MV5-014-d1129.htm",
-        "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Hydraulika - rozvaděče\nČíslo dílu: H41-0-0903, 40/22/100"
-    },
-    {
-        "id": "427",
-        "name": "Válec hydraulický 40×22×125, horní uzávěr MV2-028",
-        "subtitle": "",
-        "price": "2 555,00 CZK",
-        "stock": "skladem",
-        "image": "https://obchod.fimas.cz/fotky7833/fotos/_vyr_99obrazek-pripravujeme.jpg",
-        "category": "FEKÁLNÍ NÁSTAVBY MALACKY / Hydraulika - rozvaděče",
-        "url": "https://obchod.fimas.cz/Valec-hydraulicky-40-22-125-horni-uzaver-MV2-028-d1130.htm",
-        "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Hydraulika - rozvaděče\nČíslo dílu: "
-    },
-    {
-        "id": "428",
-        "name": "Válec hydraulický 40×22×160",
-        "subtitle": "",
-        "price": "2 315,00 CZK",
-        "stock": "skladem",
-        "image": "https://obchod.fimas.cz/fotky7833/fotos/_vyr_99obrazek-pripravujeme.jpg",
-        "category": "FEKÁLNÍ NÁSTAVBY MALACKY / Hydraulika - rozvaděče",
-        "url": "https://obchod.fimas.cz/Valec-hydraulicky-40-22-160-d1132.htm",
-        "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Hydraulika - rozvaděče\nČíslo dílu: "
-    },
-    {
-        "id": "429",
-        "name": "Válec hydraulický 40×22×63, boční uzávěr",
-        "subtitle": "H41-0-0901, 40/22/63",
-        "price": "3 463,00 CZK",
-        "stock": "skladem",
-        "image": "https://obchod.fimas.cz/fotky7833/fotos/_vyr_99obrazek-pripravujeme.jpg",
-        "category": "FEKÁLNÍ NÁSTAVBY MALACKY / Hydraulika - rozvaděče",
-        "url": "https://obchod.fimas.cz/Valec-hydraulicky-40-22-63-bocni-uzaver-d1128.htm",
-        "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Hydraulika - rozvaděče\nČíslo dílu: H41-0-0901, 40/22/63"
-    },
-    {
-        "id": "430",
-        "name": "Válec hydraulický 40×22×63, zadní uzávěr",
-        "subtitle": "H41-0-0911, 40/22/63",
-        "price": "3 849,00 CZK",
-        "stock": "skladem",
-        "image": "https://obchod.fimas.cz/fotky7833/fotos/_vyr_99obrazek-pripravujeme.jpg",
-        "category": "FEKÁLNÍ NÁSTAVBY MALACKY / Hydraulika - rozvaděče",
-        "url": "https://obchod.fimas.cz/Valec-hydraulicky-40-22-63-zadni-uzaver-d1127.htm",
-        "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Hydraulika - rozvaděče\nČíslo dílu: H41-0-0911, 40/22/63"
-    },
-    {
-        "id": "431",
-        "name": "Válec hydraulický 50×25×160, otáčení ramene",
-        "subtitle": "H51-0-0914, 50/25/160",
-        "price": "5 729,00 CZK",
-        "stock": "skladem",
-        "image": "https://obchod.fimas.cz/fotky7833/fotos/_vyr_99obrazek-pripravujeme.jpg",
-        "category": "FEKÁLNÍ NÁSTAVBY MALACKY / Hydraulika - rozvaděče",
-        "url": "https://obchod.fimas.cz/Valec-hydraulicky-50-25-160-otaceni-ramene-d1131.htm",
-        "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Hydraulika - rozvaděče\nČíslo dílu: H51-0-0914, 50/25/160"
-    },
-    {
-        "id": "432",
-        "name": "Válec hydraulický 63×32×320, zdvih ramene",
-        "subtitle": "H61-0-0906, 63/32/320",
-        "price": "4 939,00 CZK",
-        "stock": "skladem",
-        "image": "https://obchod.fimas.cz/fotky7833/fotos/_vyr_99obrazek-pripravujeme.jpg",
-        "category": "FEKÁLNÍ NÁSTAVBY MALACKY / Hydraulika - rozvaděče",
-        "url": "https://obchod.fimas.cz/Valec-hydraulicky-63-32-320-zdvih-ramene-d1126.htm",
-        "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Hydraulika - rozvaděče\nČíslo dílu: H61-0-0906, 63/32/320"
     },
     {
         "id": "433",
@@ -6227,6 +6227,138 @@
     },
     {
         "id": "567",
+        "name": "Hydraulický válec , pro šoupě 4″, jednočinný",
+        "subtitle": "",
+        "price": "2 859,00 CZK",
+        "stock": "skladem",
+        "image": "https://obchod.fimas.cz/fotky7833/fotos/7833_2100_7833_2099__vyr_13194050490043.jpg",
+        "category": "FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.",
+        "url": "https://obchod.fimas.cz/Hydraulicky-valec-pro-soupe-4-jednocinny-d2100.htm",
+        "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: "
+    },
+    {
+        "id": "568",
+        "name": "Hydraulický válec , pro šoupě 5″, jednočinný",
+        "subtitle": "",
+        "price": "3 769,00 CZK",
+        "stock": "skladem",
+        "image": "https://obchod.fimas.cz/fotky7833/fotos/7833_2099__vyr_13194050490043.jpg",
+        "category": "FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.",
+        "url": "https://obchod.fimas.cz/Hydraulicky-valec-pro-soupe-5-jednocinny-d2099.htm",
+        "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: "
+    },
+    {
+        "id": "569",
+        "name": "Hydraulický válec , pro šoupě 8″",
+        "subtitle": "",
+        "price": "2 890,00 CZK",
+        "stock": "skladem",
+        "image": "https://obchod.fimas.cz/fotky7833/fotos/7833_1827__vyr_13194050490043.jpg",
+        "category": "FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.",
+        "url": "https://obchod.fimas.cz/Hydraulicky-valec-pro-soupe-8-d1827.htm",
+        "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: "
+    },
+    {
+        "id": "570",
+        "name": "Hydraulický válec dvojčinný, pro šoupě 10″",
+        "subtitle": "",
+        "price": "3 899,00 CZK",
+        "stock": "skladem",
+        "image": "https://obchod.fimas.cz/fotky7833/fotos/7833_2074_d__vyr_13184050490044.jpg",
+        "category": "FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.",
+        "url": "https://obchod.fimas.cz/Hydraulicky-valec-dvojcinny-pro-soupe-10-d2074.htm",
+        "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: "
+    },
+    {
+        "id": "571",
+        "name": "Hydraulický válec dvojčinný, pro šoupě 4″, 5″, 6″",
+        "subtitle": "",
+        "price": "2 309,00 CZK",
+        "stock": "skladem",
+        "image": "https://obchod.fimas.cz/fotky7833/fotos/_vyr_13184050490044.jpg",
+        "category": "FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.",
+        "url": "https://obchod.fimas.cz/Hydraulicky-valec-dvojcinny-pro-soupe-4-5-6-d1318.htm",
+        "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: "
+    },
+    {
+        "id": "572",
+        "name": "Hydraulický válec dvojčinný, pro šoupě 4″, 5″, 6″, Smeraldo RIV 163",
+        "subtitle": "RIV 163 SMERALDO, 050163000000",
+        "price": "1 889,00 CZK",
+        "stock": "skladem",
+        "image": "https://obchod.fimas.cz/fotky7833/fotos/_vyr_2349Riv-0163.png",
+        "category": "FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.",
+        "url": "https://obchod.fimas.cz/Hydraulicky-valec-dvojcinny-pro-soupe-4-5-6-Smeraldo-RIV-163-d2349.htm",
+        "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: RIV 163 SMERALDO, 050163000000"
+    },
+    {
+        "id": "573",
+        "name": "Hydraulický válec dvojčinný, pro šoupě 6″",
+        "subtitle": "",
+        "price": "2 599,00 CZK",
+        "stock": "skladem",
+        "image": "https://obchod.fimas.cz/fotky7833/fotos/_vyr_150894050490055.jpg",
+        "category": "FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.",
+        "url": "https://obchod.fimas.cz/Hydraulicky-valec-dvojcinny-pro-soupe-6-d1508.htm",
+        "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: "
+    },
+    {
+        "id": "574",
+        "name": "Hydraulický válec dvojčinný, pro šoupě 8″",
+        "subtitle": "",
+        "price": "3 199,00 CZK",
+        "stock": "skladem",
+        "image": "https://obchod.fimas.cz/fotky7833/fotos/d__vyr_13184050490044.jpg",
+        "category": "FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.",
+        "url": "https://obchod.fimas.cz/Hydraulicky-valec-dvojcinny-pro-soupe-8-d1525.htm",
+        "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: "
+    },
+    {
+        "id": "575",
+        "name": "Hydraulický válec jednočinný, pro šoupě 4″, Smeraldo RIV 166",
+        "subtitle": "RIV 166 SMERALDO, 050166000016",
+        "price": "2 606,00 CZK",
+        "stock": "skladem",
+        "image": "https://obchod.fimas.cz/fotky7833/fotos/_vyr_2350Riv-0166.png",
+        "category": "FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.",
+        "url": "https://obchod.fimas.cz/Hydraulicky-valec-jednocinny-pro-soupe-4-Smeraldo-RIV-166-d2350.htm",
+        "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: RIV 166 SMERALDO, 050166000016"
+    },
+    {
+        "id": "576",
+        "name": "Hydraulický válec jednočinný, pro šoupě 5″, Smeraldo RIV 166",
+        "subtitle": "RIV 166 SMERALDO, 050166000018",
+        "price": "3 109,00 CZK",
+        "stock": "skladem",
+        "image": "https://obchod.fimas.cz/fotky7833/fotos/7833_2351__vyr_2350Riv-0166.png",
+        "category": "FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.",
+        "url": "https://obchod.fimas.cz/Hydraulicky-valec-jednocinny-pro-soupe-5-Smeraldo-RIV-166-d2351.htm",
+        "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: RIV 166 SMERALDO, 050166000018"
+    },
+    {
+        "id": "577",
+        "name": "Hydraulický válec jednočinný, pro šoupě 6″, s vnější pružinou",
+        "subtitle": "",
+        "price": "3 199,00 CZK",
+        "stock": "skladem",
+        "image": "https://obchod.fimas.cz/fotky7833/fotos/_vyr_1848940505115a.jpg",
+        "category": "FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.",
+        "url": "https://obchod.fimas.cz/Hydraulicky-valec-jednocinny-pro-soupe-6-s-vnejsi-pruzinou-d1848.htm",
+        "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: "
+    },
+    {
+        "id": "578",
+        "name": "Hydraulický válec jednočinný, pro šoupě 6″, Smeraldo RIV 166",
+        "subtitle": "RIV 166 SMERALDO, 050166000000, 94050490042",
+        "price": "3 525,00 CZK",
+        "stock": "skladem",
+        "image": "https://obchod.fimas.cz/fotky7833/fotos/7833_2352_7833_2351__vyr_2350Riv-0166.png",
+        "category": "FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.",
+        "url": "https://obchod.fimas.cz/Hydraulicky-valec-jednocinny-pro-soupe-6-Smeraldo-RIV-166-d2352.htm",
+        "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: RIV 166 SMERALDO, 050166000000, 94050490042"
+    },
+    {
+        "id": "579",
         "name": "Klapka OH100, nerezové jádro",
         "subtitle": "nerezové jádro",
         "price": "2 699,00 CZK",
@@ -6237,7 +6369,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: nerezové jádro"
     },
     {
-        "id": "568",
+        "id": "580",
         "name": "Klapka OH125, nerezové jádro",
         "subtitle": "nerezové jádro",
         "price": "3 343,00 CZK",
@@ -6248,7 +6380,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: nerezové jádro"
     },
     {
-        "id": "569",
+        "id": "581",
         "name": "Klapka OH150, nerezové jádro",
         "subtitle": "nerezové jádro",
         "price": "4 399,00 CZK",
@@ -6259,7 +6391,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: nerezové jádro"
     },
     {
-        "id": "570",
+        "id": "582",
         "name": "Klapka OH80, nerezové jádro",
         "subtitle": "nerezové jádro",
         "price": "2 035,00 CZK",
@@ -6270,7 +6402,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: nerezové jádro"
     },
     {
-        "id": "571",
+        "id": "583",
         "name": "Klíč na plastový kryt sifonu, RIV",
         "subtitle": "RIV CHCS85650000",
         "price": "210,00 CZK",
@@ -6281,7 +6413,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: RIV CHCS85650000"
     },
     {
-        "id": "572",
+        "id": "584",
         "name": "Kohout trojcestný, 2″",
         "subtitle": "700-280211.0",
         "price": "2 739,00 CZK",
@@ -6292,7 +6424,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: 700-280211.0"
     },
     {
-        "id": "573",
+        "id": "585",
         "name": "Kohout trojcestný, 6/4″",
         "subtitle": "709-119001.0, 7091190010",
         "price": "1 870,00 CZK",
@@ -6303,7 +6435,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: 709-119001.0, 7091190010"
     },
     {
-        "id": "574",
+        "id": "586",
         "name": "Kohout vypouštěcí sifonu, RIV Ocean, Giada, 3/4″×25, RIV9898",
         "subtitle": "RIV 9898, RUSF30271005",
         "price": "299,00 CZK",
@@ -6314,7 +6446,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: RIV 9898, RUSF30271005"
     },
     {
-        "id": "575",
+        "id": "587",
         "name": "Kryt sifonu plastový, pro bajonetový uzávěr, ø130 mm",
         "subtitle": "ø 130 mm bajonet",
         "price": "482,00 CZK",
@@ -6325,7 +6457,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: ø 130 mm bajonet"
     },
     {
-        "id": "576",
+        "id": "588",
         "name": "Kryt sifonu plastový, vnitřní závit, ø180 mm, RIV Ocean, RIV9890",
         "subtitle": "RIV 9890",
         "price": "1 199,00 CZK",
@@ -6336,7 +6468,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: RIV 9890"
     },
     {
-        "id": "577",
+        "id": "589",
         "name": "Kryt sifonu plastový, ø156 mm, pro RIV 362 Giada",
         "subtitle": "RIV 9892",
         "price": "679,00 CZK",
@@ -6347,7 +6479,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: RIV 9892"
     },
     {
-        "id": "578",
+        "id": "590",
         "name": "Manovakuometr ø100, -1/+3 bar, kovový s glycerínem, závit G1/2″ s redukcí na M20×1,5",
         "subtitle": "závit  G 1/2\" - dodáváno včetně redukce na M20x1,5, 903312000 za plastové provedení",
         "price": "629,00 CZK",
@@ -6358,7 +6490,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: závit  G 1/2\" - dodáváno včetně redukce na M20x1,5, 903312000 za plastové provedení"
     },
     {
-        "id": "579",
+        "id": "591",
         "name": "Manžeta klapky OH100, EPDM",
         "subtitle": "",
         "price": "399,00 CZK",
@@ -6369,7 +6501,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: "
     },
     {
-        "id": "580",
+        "id": "592",
         "name": "Manžeta klapky OH125, EPDM",
         "subtitle": "",
         "price": "499,00 CZK",
@@ -6380,7 +6512,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: "
     },
     {
-        "id": "581",
+        "id": "593",
         "name": "Manžeta klapky OH80, EPDM",
         "subtitle": "",
         "price": "359,00 CZK",
@@ -6391,7 +6523,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: "
     },
     {
-        "id": "582",
+        "id": "594",
         "name": "Nátrubek varný pro stavoznak 2″, plastový, RIV 552 Zaffiro",
         "subtitle": "RIV 552 ZAFFIRO, 050552000011",
         "price": "156,00 CZK",
@@ -6402,7 +6534,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: RIV 552 ZAFFIRO, 050552000011"
     },
     {
-        "id": "583",
+        "id": "595",
         "name": "Nátrubek varný pro stavoznak 3″, plastový, RIV 552 Zaffiro",
         "subtitle": "RIV 552 ZAFFIRO, 050552000014",
         "price": "232,00 CZK",
@@ -6413,7 +6545,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: RIV 552 ZAFFIRO, 050552000014"
     },
     {
-        "id": "584",
+        "id": "596",
         "name": "O-kroužek 136,10×3,53, EPDM, pro 3″",
         "subtitle": "pro 3\"",
         "price": "59,00 CZK",
@@ -6424,7 +6556,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: pro 3\""
     },
     {
-        "id": "585",
+        "id": "597",
         "name": "O-kroužek 94,92×2,62, EPDM, pro 2″",
         "subtitle": "pro 2\"",
         "price": "33,00 CZK",
@@ -6435,7 +6567,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: pro 2\""
     },
     {
-        "id": "586",
+        "id": "598",
         "name": "O-kroužek, pro šoupě 4″-6″",
         "subtitle": "",
         "price": "49,00 CZK",
@@ -6446,7 +6578,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: "
     },
     {
-        "id": "587",
+        "id": "599",
         "name": "O-kroužek, pro šoupě 8″",
         "subtitle": "",
         "price": "55,00 CZK",
@@ -6457,7 +6589,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: "
     },
     {
-        "id": "588",
+        "id": "600",
         "name": "Páka ovládací šoupěte 4″-5″-6″, těžké provedení, Smeraldo RIV 153",
         "subtitle": "SMERALDO RIV 153, 050153000000",
         "price": "589,00 CZK",
@@ -6468,7 +6600,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: SMERALDO RIV 153, 050153000000"
     },
     {
-        "id": "589",
+        "id": "601",
         "name": "Páka ovládací šoupěte 8″, těžké provedení",
         "subtitle": "",
         "price": "750,00 CZK",
@@ -6479,7 +6611,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: "
     },
     {
-        "id": "590",
+        "id": "602",
         "name": "Páka ovládání šoupěte 4″, 5″, 6″, MZ Art. 0080-0135, velkokapacitní",
         "subtitle": "pro VELKOKAPACITNÍ samovyplachovací šoupata, ARZO0930100000",
         "price": "599,00 CZK",
@@ -6490,7 +6622,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: pro VELKOKAPACITNÍ samovyplachovací šoupata, ARZO0930100000"
     },
     {
-        "id": "591",
+        "id": "603",
         "name": "Pouzdro vodící šoupěte 4″, pro ruční ovládání pákou",
         "subtitle": "",
         "price": "153,00 CZK",
@@ -6501,7 +6633,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: "
     },
     {
-        "id": "592",
+        "id": "604",
         "name": "Pouzdro vodící šoupěte 5-6″, Smeraldo RIV 152",
         "subtitle": "RIV 152 SMERALDO, 050152000000, 9604157200",
         "price": "149,00 CZK",
@@ -6512,7 +6644,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: RIV 152 SMERALDO, 050152000000, 9604157200"
     },
     {
-        "id": "593",
+        "id": "605",
         "name": "Pouzdro vodící šoupěte 8″, pro ruční ovládání pákou",
         "subtitle": "",
         "price": "109,00 CZK",
@@ -6523,7 +6655,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: "
     },
     {
-        "id": "594",
+        "id": "606",
         "name": "Příruba 4″ šoupěte, rozteč 150×150, ocelová, RIV 150 Smeraldo",
         "subtitle": "SMERALDO RIV 150, 050150000016, 9405020058",
         "price": "246,00 CZK",
@@ -6534,7 +6666,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: SMERALDO RIV 150, 050150000016, 9405020058"
     },
     {
-        "id": "595",
+        "id": "607",
         "name": "Příruba 5″ šoupěte, 150×150, ocelová",
         "subtitle": "",
         "price": "225,00 CZK",
@@ -6545,7 +6677,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: "
     },
     {
-        "id": "596",
+        "id": "608",
         "name": "Příruba 6″ šoupěte, rozteč 150×150, ocelová, RIV 150 Smeraldo",
         "subtitle": "SMERALDO RIV 150, 050150000019",
         "price": "249,00 CZK",
@@ -6556,7 +6688,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: SMERALDO RIV 150, 050150000019"
     },
     {
-        "id": "597",
+        "id": "609",
         "name": "Příruba 6″ šoupěte, s nerezovým jádrem, 150×150, ocelová",
         "subtitle": "POUZE PRO ŠOUPĚ S NEREZOVÁM JÁDREM !",
         "price": "379,00 CZK",
@@ -6567,7 +6699,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: POUZE PRO ŠOUPĚ S NEREZOVÁM JÁDREM !"
     },
     {
-        "id": "598",
+        "id": "610",
         "name": "Příruba 8″ šoupěte, 180×180, ocelová",
         "subtitle": "",
         "price": "389,00 CZK",
@@ -6578,7 +6710,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: "
     },
     {
-        "id": "599",
+        "id": "611",
         "name": "Příruba klapky OH100, ocelová",
         "subtitle": "ocelová",
         "price": "360,00 CZK",
@@ -6589,7 +6721,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: ocelová"
     },
     {
-        "id": "600",
+        "id": "612",
         "name": "Příruba klapky OH125, ocelová, kruhová",
         "subtitle": "ocelová - kruhová",
         "price": "895,00 CZK",
@@ -6600,7 +6732,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: ocelová - kruhová"
     },
     {
-        "id": "601",
+        "id": "613",
         "name": "Příruba klapky OH150, ocelová, kruhová",
         "subtitle": "ocelová - kruhová",
         "price": "1 109,00 CZK",
@@ -6611,7 +6743,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: ocelová - kruhová"
     },
     {
-        "id": "602",
+        "id": "614",
         "name": "Příruba klapky OH80, ocelová",
         "subtitle": "ocelová",
         "price": "240,00 CZK",
@@ -6622,7 +6754,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: ocelová"
     },
     {
-        "id": "603",
+        "id": "615",
         "name": "Sifon ø60, L, zinkovaný, dlouhý",
         "subtitle": "LEVÝ VÝVOD",
         "price": "3 660,00 CZK",
@@ -6633,7 +6765,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: LEVÝ VÝVOD"
     },
     {
-        "id": "604",
+        "id": "616",
         "name": "Sifon ø60, P, zinkovaný, dlouhý",
         "subtitle": "PRAVÝ VÝVOD",
         "price": "3 660,00 CZK",
@@ -6644,7 +6776,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: PRAVÝ VÝVOD"
     },
     {
-        "id": "605",
+        "id": "617",
         "name": "Sifon ø60, plastový, DN60, RIV 362 Giada",
         "subtitle": "RIV 362 GIADA, 050362000055",
         "price": "2 969,00 CZK",
@@ -6655,7 +6787,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: RIV 362 GIADA, 050362000055"
     },
     {
-        "id": "606",
+        "id": "618",
         "name": "Sifon ø60, plastový, s výpustným kohoutem, DN60, RIV 337 Ocean",
         "subtitle": "RIV 337 OCEAN, 050337000055",
         "price": "2 879,00 CZK",
@@ -6666,7 +6798,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: RIV 337 OCEAN, 050337000055"
     },
     {
-        "id": "607",
+        "id": "619",
         "name": "Sifon ø80, P, zinkovaný, dlouhý",
         "subtitle": "PRAVÝ VÝVOD",
         "price": "3 990,00 CZK",
@@ -6677,7 +6809,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: PRAVÝ VÝVOD"
     },
     {
-        "id": "608",
+        "id": "620",
         "name": "Sifon ø80, plastový, DN80, RIV 335 Ocean",
         "subtitle": "RIV 335 OCEAN, 050335000061",
         "price": "2 882,00 CZK",
@@ -6688,7 +6820,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: RIV 335 OCEAN, 050335000061"
     },
     {
-        "id": "609",
+        "id": "621",
         "name": "Sifon ø80, plastový, s výpustným kohoutem, DN80, RIV 337 Ocean",
         "subtitle": "RIV 337 OCEAN, 050337000061",
         "price": "3 189,00 CZK",
@@ -6699,7 +6831,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: RIV 337 OCEAN, 050337000061"
     },
     {
-        "id": "610",
+        "id": "622",
         "name": "Šoupě 2″, 2× vnitřní závit 2″, s pákou, rychlouzavírací, RIV 560 Turchese",
         "subtitle": "RIV 560 TURCHESE, 050560000011",
         "price": "1 899,00 CZK",
@@ -6710,7 +6842,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: RIV 560 TURCHESE, 050560000011"
     },
     {
-        "id": "611",
+        "id": "623",
         "name": "Šoupě 2″1/2, 2× vnitřní závit 2″1/2, s pákou, rychlouzavírací, RIV 560 Turchese",
         "subtitle": "RIV 560 TURCHESE, 050560000013",
         "price": "2 129,00 CZK",
@@ -6721,7 +6853,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: RIV 560 TURCHESE, 050560000013"
     },
     {
-        "id": "612",
+        "id": "624",
         "name": "Šoupě 3″, 2× vnitřní závit 3″, s pákou, rychlouzavírací, RIV 560 Turchese",
         "subtitle": "RIV 560 TURCHESE, 050560000014",
         "price": "2 629,00 CZK",
@@ -6732,7 +6864,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: RIV 560 TURCHESE, 050560000014"
     },
     {
-        "id": "613",
+        "id": "625",
         "name": "Šoupě 4″, 2 příruby, 150×150, včetně o-kroužků, RIV 10 Perla",
         "subtitle": "PERLA RIV 10, 050010000016",
         "price": "2 959,00 CZK",
@@ -6743,7 +6875,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: PERLA RIV 10, 050010000016"
     },
     {
-        "id": "614",
+        "id": "626",
         "name": "Šoupě 4″, 2× vnitřní závit 4″, s pákou, rychlouzavírací, RIV 560 Turchese",
         "subtitle": "RIV 560 TURCHESE, 050560000016",
         "price": "3 159,00 CZK",
@@ -6754,7 +6886,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: RIV 560 TURCHESE, 050560000016"
     },
     {
-        "id": "615",
+        "id": "627",
         "name": "Šoupě 4″, rychlouzavírací, 2× vnitřní závit 4″",
         "subtitle": "mosazné",
         "price": "2 989,00 CZK",
@@ -6765,7 +6897,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: mosazné"
     },
     {
-        "id": "616",
+        "id": "628",
         "name": "Šoupě 5″, 2 příruby, 150×150, včetně o-kroužků, RIV 10 Perla",
         "subtitle": "PERLA RIV 10, 050010000018, 9700716500",
         "price": "3 379,00 CZK",
@@ -6776,7 +6908,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: PERLA RIV 10, 050010000018, 9700716500"
     },
     {
-        "id": "617",
+        "id": "629",
         "name": "Šoupě 5″, rychlouzavírací, 2× vnitřní závit 5″, klínové",
         "subtitle": "mosazné",
         "price": "2 689,00 CZK",
@@ -6787,7 +6919,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: mosazné"
     },
     {
-        "id": "618",
+        "id": "630",
         "name": "Šoupě 6″, 2 příruby, 150×150, včetně o-kroužků, RIV 10 Perla",
         "subtitle": "PERLA RIV 10, 050010000919",
         "price": "3 299,00 CZK",
@@ -6798,7 +6930,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: PERLA RIV 10, 050010000919"
     },
     {
-        "id": "619",
+        "id": "631",
         "name": "Šoupě 6″, nerezové jádro, rychlouzavírací, s přírubou 150×150, včetně 2 o-kroužků",
         "subtitle": "mosazné s NEREZOVÝM JÁDREM",
         "price": "7 249,00 CZK",
@@ -6809,7 +6941,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: mosazné s NEREZOVÝM JÁDREM"
     },
     {
-        "id": "620",
+        "id": "632",
         "name": "Šoupě 6″, rychlouzavírací, 2× vnitřní závit 6″",
         "subtitle": "mosazné",
         "price": "4 429,00 CZK",
@@ -6820,7 +6952,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: mosazné"
     },
     {
-        "id": "621",
+        "id": "633",
         "name": "Šoupě 6″, velkokapacitní, 2 příruby, 150×150, včetně o-kroužků, RIV 30 Centurion",
         "subtitle": "CENTURION RIV 30, 050030000019",
         "price": "4 841,00 CZK",
@@ -6831,7 +6963,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: CENTURION RIV 30, 050030000019"
     },
     {
-        "id": "622",
+        "id": "634",
         "name": "Šoupě 8″, 2 příruby, 180×180, včetně o-kroužků, RIV 10 Perla",
         "subtitle": "PERLA RIV 10, 050010000020,97001008",
         "price": "7 892,00 CZK",
@@ -6842,7 +6974,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: PERLA RIV 10, 050010000020,97001008"
     },
     {
-        "id": "623",
+        "id": "635",
         "name": "Šoupě, nerezové jádro, 10″, rychlouzavírací",
         "subtitle": "s NEREZOVÝM JÁDREM",
         "price": "25 729,00 CZK",
@@ -6853,7 +6985,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: s NEREZOVÝM JÁDREM"
     },
     {
-        "id": "624",
+        "id": "636",
         "name": "Šoupě, nerezové jádro, 4″, nožové, rychlouzavírací, s přírubou 120×120, včetně 2 o-kroužků",
         "subtitle": "mosazné s NEREZOVÝM JÁDREM",
         "price": "5 999,00 CZK",
@@ -6862,138 +6994,6 @@
         "category": "FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.",
         "url": "https://obchod.fimas.cz/Soupe-nerezove-jadro-4-nozove-rychlouzaviraci-s-prirubou-120-120-vcetne-2-o-krouzku-d2452.htm",
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: mosazné s NEREZOVÝM JÁDREM"
-    },
-    {
-        "id": "625",
-        "name": "Stavoznak plastový 2″, RIV 550 Zaffiro",
-        "subtitle": "RIV 550, 050550000011",
-        "price": "59,00 CZK",
-        "stock": "skladem",
-        "image": "https://obchod.fimas.cz/fotky7833/fotos/_vyr_2355Riv-0550.jpg",
-        "category": "FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.",
-        "url": "https://obchod.fimas.cz/Stavoznak-plastovy-2-RIV-550-Zaffiro-d2355.htm",
-        "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: RIV 550, 050550000011"
-    },
-    {
-        "id": "626",
-        "name": "Stavoznak plastový 3″, RIV 550 Zaffiro",
-        "subtitle": "RIV 550, 050550000014",
-        "price": "129,00 CZK",
-        "stock": "skladem",
-        "image": "https://obchod.fimas.cz/fotky7833/fotos/7833_2356__vyr_2355Riv-0550.jpg",
-        "category": "FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.",
-        "url": "https://obchod.fimas.cz/Stavoznak-plastovy-3-RIV-550-Zaffiro-d2356.htm",
-        "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: RIV 550, 050550000014"
-    },
-    {
-        "id": "627",
-        "name": "Těsnění příruby 4″, 5″, 6″ šoupěte, gumové, Smeraldo RIV 157",
-        "subtitle": "SMERALDO RIV 157, GUIFRFL00001, 94050200588",
-        "price": "135,00 CZK",
-        "stock": "skladem",
-        "image": "https://obchod.fimas.cz/fotky7833/fotos/_vyr_2348Riv-0150.jpg",
-        "category": "FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.",
-        "url": "https://obchod.fimas.cz/Tesneni-priruby-4-5-6-soupete-gumove-Smeraldo-RIV-157-d2348.htm",
-        "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: SMERALDO RIV 157, GUIFRFL00001, 94050200588"
-    },
-    {
-        "id": "628",
-        "name": "Těsnění příruby šoupěte 6″, s nerezovým jádrem, gumové",
-        "subtitle": "rozteč 150x150, síla 4,5 mm",
-        "price": "45,00 CZK",
-        "stock": "skladem",
-        "image": "https://obchod.fimas.cz/fotky7833/fotos/_vyr_27096309822.png",
-        "category": "FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.",
-        "url": "https://obchod.fimas.cz/Tesneni-priruby-soupete-6-s-nerezovym-jadrem-gumove-d2709.htm",
-        "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: rozteč 150x150, síla 4,5 mm"
-    },
-    {
-        "id": "629",
-        "name": "Těsnění příruby šoupěte 8″, gumové",
-        "subtitle": "rozteč 180x180, síla 5 mm",
-        "price": "95,00 CZK",
-        "stock": "skladem",
-        "image": "https://obchod.fimas.cz/fotky7833/fotos/7833_2672__vyr_21054050200588.jpg",
-        "category": "FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.",
-        "url": "https://obchod.fimas.cz/Tesneni-priruby-soupete-8-gumove-d2672.htm",
-        "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: rozteč 180x180, síla 5 mm"
-    },
-    {
-        "id": "630",
-        "name": "Uzávěr plovákový ø60, DN60, 2 koule, RIV 410 Acqua Marina",
-        "subtitle": "RIV 410 ACQUA MARINA, 050410000055",
-        "price": "2 789,00 CZK",
-        "stock": "skladem",
-        "image": "https://obchod.fimas.cz/fotky7833/fotos/_vyr_2367RIV-410.jpg",
-        "category": "FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.",
-        "url": "https://obchod.fimas.cz/Uzaver-plovakovy-60-DN60-2-koule-RIV-410-Acqua-Marina-d2367.htm",
-        "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: RIV 410 ACQUA MARINA, 050410000055"
-    },
-    {
-        "id": "631",
-        "name": "Uzávěr plovákový ø60, DN60, 2 koule, RIV 412 Gold",
-        "subtitle": "RIV 412 GOLD 050412000055",
-        "price": "3 849,00 CZK",
-        "stock": "skladem",
-        "image": "https://obchod.fimas.cz/fotky7833/fotos/7833_2550__vyr_2549RIV412GOLD.png",
-        "category": "FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.",
-        "url": "https://obchod.fimas.cz/Uzaver-plovakovy-60-DN60-2-koule-RIV-412-Gold-d2550.htm",
-        "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: RIV 412 GOLD 050412000055"
-    },
-    {
-        "id": "632",
-        "name": "Uzávěr plovákový ø80, DN80, 2 koule, RIV 410 Acqua Marina",
-        "subtitle": "RIV 410 ACQUA MARINA, 050410000061",
-        "price": "3 769,00 CZK",
-        "stock": "skladem",
-        "image": "https://obchod.fimas.cz/fotky7833/fotos/7833_2368__vyr_2367RIV-410.jpg",
-        "category": "FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.",
-        "url": "https://obchod.fimas.cz/Uzaver-plovakovy-80-DN80-2-koule-RIV-410-Acqua-Marina-d2368.htm",
-        "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: RIV 410 ACQUA MARINA, 050410000061"
-    },
-    {
-        "id": "633",
-        "name": "Uzávěr plovákový ø80, DN80, 2 koule, RIV 412 Gold",
-        "subtitle": "RIV 412 GOLD 050412000061",
-        "price": "4 479,00 CZK",
-        "stock": "skladem",
-        "image": "https://obchod.fimas.cz/fotky7833/fotos/_vyr_2549RIV412GOLD.png",
-        "category": "FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.",
-        "url": "https://obchod.fimas.cz/Uzaver-plovakovy-80-DN80-2-koule-RIV-412-Gold-d2549.htm",
-        "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: RIV 412 GOLD 050412000061"
-    },
-    {
-        "id": "634",
-        "name": "Válec hydraulický dvojčinný, pro šoupě 10″",
-        "subtitle": "",
-        "price": "3 899,00 CZK",
-        "stock": "skladem",
-        "image": "https://obchod.fimas.cz/fotky7833/fotos/7833_2074_d__vyr_13184050490044.jpg",
-        "category": "FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.",
-        "url": "https://obchod.fimas.cz/Valec-hydraulicky-dvojcinny-pro-soupe-10-d2074.htm",
-        "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: "
-    },
-    {
-        "id": "635",
-        "name": "Válec hydraulický dvojčinný, pro šoupě 4″, 5″, 6″",
-        "subtitle": "",
-        "price": "2 309,00 CZK",
-        "stock": "skladem",
-        "image": "https://obchod.fimas.cz/fotky7833/fotos/_vyr_13184050490044.jpg",
-        "category": "FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.",
-        "url": "https://obchod.fimas.cz/Valec-hydraulicky-dvojcinny-pro-soupe-4-5-6-d1318.htm",
-        "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: "
-    },
-    {
-        "id": "636",
-        "name": "Válec hydraulický dvojčinný, pro šoupě 4″, 5″, 6″, Smeraldo RIV 163",
-        "subtitle": "RIV 163 SMERALDO, 050163000000",
-        "price": "1 889,00 CZK",
-        "stock": "skladem",
-        "image": "https://obchod.fimas.cz/fotky7833/fotos/_vyr_2349Riv-0163.png",
-        "category": "FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.",
-        "url": "https://obchod.fimas.cz/Valec-hydraulicky-dvojcinny-pro-soupe-4-5-6-Smeraldo-RIV-163-d2349.htm",
-        "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: RIV 163 SMERALDO, 050163000000"
     },
     {
         "id": "637",
@@ -8460,102 +8460,102 @@
     },
     {
         "id": "770",
-        "name": "Válec hydraulický dvojčinný, pro šoupě 6″",
-        "subtitle": "",
-        "price": "2 599,00 CZK",
+        "name": "Stavoznak plastový 2″, RIV 550 Zaffiro",
+        "subtitle": "RIV 550, 050550000011",
+        "price": "59,00 CZK",
         "stock": "skladem",
-        "image": "https://obchod.fimas.cz/fotky7833/fotos/_vyr_150894050490055.jpg",
+        "image": "https://obchod.fimas.cz/fotky7833/fotos/_vyr_2355Riv-0550.jpg",
         "category": "FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.",
-        "url": "https://obchod.fimas.cz/Valec-hydraulicky-dvojcinny-pro-soupe-6-d1508.htm",
-        "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: "
+        "url": "https://obchod.fimas.cz/Stavoznak-plastovy-2-RIV-550-Zaffiro-d2355.htm",
+        "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: RIV 550, 050550000011"
     },
     {
         "id": "771",
-        "name": "Válec hydraulický dvojčinný, pro šoupě 8″",
-        "subtitle": "",
-        "price": "3 199,00 CZK",
+        "name": "Stavoznak plastový 3″, RIV 550 Zaffiro",
+        "subtitle": "RIV 550, 050550000014",
+        "price": "129,00 CZK",
         "stock": "skladem",
-        "image": "https://obchod.fimas.cz/fotky7833/fotos/d__vyr_13184050490044.jpg",
+        "image": "https://obchod.fimas.cz/fotky7833/fotos/7833_2356__vyr_2355Riv-0550.jpg",
         "category": "FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.",
-        "url": "https://obchod.fimas.cz/Valec-hydraulicky-dvojcinny-pro-soupe-8-d1525.htm",
-        "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: "
+        "url": "https://obchod.fimas.cz/Stavoznak-plastovy-3-RIV-550-Zaffiro-d2356.htm",
+        "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: RIV 550, 050550000014"
     },
     {
         "id": "772",
-        "name": "Válec hydraulický jednočinný, pro šoupě 4″, Smeraldo RIV 166",
-        "subtitle": "RIV 166 SMERALDO, 050166000016",
-        "price": "2 606,00 CZK",
+        "name": "Těsnění příruby 4″, 5″, 6″ šoupěte, gumové, Smeraldo RIV 157",
+        "subtitle": "SMERALDO RIV 157, GUIFRFL00001, 94050200588",
+        "price": "135,00 CZK",
         "stock": "skladem",
-        "image": "https://obchod.fimas.cz/fotky7833/fotos/_vyr_2350Riv-0166.png",
+        "image": "https://obchod.fimas.cz/fotky7833/fotos/_vyr_2348Riv-0150.jpg",
         "category": "FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.",
-        "url": "https://obchod.fimas.cz/Valec-hydraulicky-jednocinny-pro-soupe-4-Smeraldo-RIV-166-d2350.htm",
-        "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: RIV 166 SMERALDO, 050166000016"
+        "url": "https://obchod.fimas.cz/Tesneni-priruby-4-5-6-soupete-gumove-Smeraldo-RIV-157-d2348.htm",
+        "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: SMERALDO RIV 157, GUIFRFL00001, 94050200588"
     },
     {
         "id": "773",
-        "name": "Válec hydraulický jednočinný, pro šoupě 5″, Smeraldo RIV 166",
-        "subtitle": "RIV 166 SMERALDO, 050166000018",
-        "price": "3 109,00 CZK",
+        "name": "Těsnění příruby šoupěte 6″, s nerezovým jádrem, gumové",
+        "subtitle": "rozteč 150x150, síla 4,5 mm",
+        "price": "45,00 CZK",
         "stock": "skladem",
-        "image": "https://obchod.fimas.cz/fotky7833/fotos/7833_2351__vyr_2350Riv-0166.png",
+        "image": "https://obchod.fimas.cz/fotky7833/fotos/_vyr_27096309822.png",
         "category": "FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.",
-        "url": "https://obchod.fimas.cz/Valec-hydraulicky-jednocinny-pro-soupe-5-Smeraldo-RIV-166-d2351.htm",
-        "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: RIV 166 SMERALDO, 050166000018"
+        "url": "https://obchod.fimas.cz/Tesneni-priruby-soupete-6-s-nerezovym-jadrem-gumove-d2709.htm",
+        "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: rozteč 150x150, síla 4,5 mm"
     },
     {
         "id": "774",
-        "name": "Válec hydraulický jednočinný, pro šoupě 6″, s vnější pružinou",
-        "subtitle": "",
-        "price": "3 199,00 CZK",
+        "name": "Těsnění příruby šoupěte 8″, gumové",
+        "subtitle": "rozteč 180x180, síla 5 mm",
+        "price": "95,00 CZK",
         "stock": "skladem",
-        "image": "https://obchod.fimas.cz/fotky7833/fotos/_vyr_1848940505115a.jpg",
+        "image": "https://obchod.fimas.cz/fotky7833/fotos/7833_2672__vyr_21054050200588.jpg",
         "category": "FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.",
-        "url": "https://obchod.fimas.cz/Valec-hydraulicky-jednocinny-pro-soupe-6-s-vnejsi-pruzinou-d1848.htm",
-        "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: "
+        "url": "https://obchod.fimas.cz/Tesneni-priruby-soupete-8-gumove-d2672.htm",
+        "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: rozteč 180x180, síla 5 mm"
     },
     {
         "id": "775",
-        "name": "Válec hydraulický jednočinný, pro šoupě 6″, Smeraldo RIV 166",
-        "subtitle": "RIV 166 SMERALDO, 050166000000, 94050490042",
-        "price": "3 525,00 CZK",
+        "name": "Uzávěr plovákový ø60, DN60, 2 koule, RIV 410 Acqua Marina",
+        "subtitle": "RIV 410 ACQUA MARINA, 050410000055",
+        "price": "2 789,00 CZK",
         "stock": "skladem",
-        "image": "https://obchod.fimas.cz/fotky7833/fotos/7833_2352_7833_2351__vyr_2350Riv-0166.png",
+        "image": "https://obchod.fimas.cz/fotky7833/fotos/_vyr_2367RIV-410.jpg",
         "category": "FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.",
-        "url": "https://obchod.fimas.cz/Valec-hydraulicky-jednocinny-pro-soupe-6-Smeraldo-RIV-166-d2352.htm",
-        "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: RIV 166 SMERALDO, 050166000000, 94050490042"
+        "url": "https://obchod.fimas.cz/Uzaver-plovakovy-60-DN60-2-koule-RIV-410-Acqua-Marina-d2367.htm",
+        "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: RIV 410 ACQUA MARINA, 050410000055"
     },
     {
         "id": "776",
-        "name": "Válec hydraulický, pro šoupě 4″, jednočinný",
-        "subtitle": "",
-        "price": "2 859,00 CZK",
+        "name": "Uzávěr plovákový ø60, DN60, 2 koule, RIV 412 Gold",
+        "subtitle": "RIV 412 GOLD 050412000055",
+        "price": "3 849,00 CZK",
         "stock": "skladem",
-        "image": "https://obchod.fimas.cz/fotky7833/fotos/7833_2100_7833_2099__vyr_13194050490043.jpg",
+        "image": "https://obchod.fimas.cz/fotky7833/fotos/7833_2550__vyr_2549RIV412GOLD.png",
         "category": "FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.",
-        "url": "https://obchod.fimas.cz/Valec-hydraulicky-pro-soupe-4-jednocinny-d2100.htm",
-        "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: "
+        "url": "https://obchod.fimas.cz/Uzaver-plovakovy-60-DN60-2-koule-RIV-412-Gold-d2550.htm",
+        "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: RIV 412 GOLD 050412000055"
     },
     {
         "id": "777",
-        "name": "Válec hydraulický, pro šoupě 5″, jednočinný",
-        "subtitle": "",
+        "name": "Uzávěr plovákový ø80, DN80, 2 koule, RIV 410 Acqua Marina",
+        "subtitle": "RIV 410 ACQUA MARINA, 050410000061",
         "price": "3 769,00 CZK",
         "stock": "skladem",
-        "image": "https://obchod.fimas.cz/fotky7833/fotos/7833_2099__vyr_13194050490043.jpg",
+        "image": "https://obchod.fimas.cz/fotky7833/fotos/7833_2368__vyr_2367RIV-410.jpg",
         "category": "FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.",
-        "url": "https://obchod.fimas.cz/Valec-hydraulicky-pro-soupe-5-jednocinny-d2099.htm",
-        "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: "
+        "url": "https://obchod.fimas.cz/Uzaver-plovakovy-80-DN80-2-koule-RIV-410-Acqua-Marina-d2368.htm",
+        "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: RIV 410 ACQUA MARINA, 050410000061"
     },
     {
         "id": "778",
-        "name": "Válec hydraulický, pro šoupě 8″",
-        "subtitle": "",
-        "price": "2 890,00 CZK",
+        "name": "Uzávěr plovákový ø80, DN80, 2 koule, RIV 412 Gold",
+        "subtitle": "RIV 412 GOLD 050412000061",
+        "price": "4 479,00 CZK",
         "stock": "skladem",
-        "image": "https://obchod.fimas.cz/fotky7833/fotos/7833_1827__vyr_13194050490043.jpg",
+        "image": "https://obchod.fimas.cz/fotky7833/fotos/_vyr_2549RIV412GOLD.png",
         "category": "FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.",
-        "url": "https://obchod.fimas.cz/Valec-hydraulicky-pro-soupe-8-d1827.htm",
-        "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: "
+        "url": "https://obchod.fimas.cz/Uzaver-plovakovy-80-DN80-2-koule-RIV-412-Gold-d2549.htm",
+        "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: RIV 412 GOLD 050412000061"
     },
     {
         "id": "779",
