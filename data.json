@@ -1222,17 +1222,6 @@
     },
     {
         "id": "112",
-        "name": "Ventil podtlakový 1½\" (6/4\"), RIV 290 AMBRA",
-        "subtitle": "RIV 290 AMBRA, 050290000009",
-        "price": "539,00 CZK",
-        "stock": "skladem",
-        "image": "https://obchod.fimas.cz/fotky7833/fotos/_vyr_2362Riv-0290.png",
-        "category": "RIV ITALY  / AMBRA ventily podtlakové",
-        "url": "https://obchod.fimas.cz/Ventil-podtlakovy-1-6-4-RIV-290-AMBRA-d2362.htm",
-        "description": "Kategorie: RIV ITALY  / AMBRA ventily podtlakové\nČíslo dílu: RIV 290 AMBRA, 050290000009"
-    },
-    {
-        "id": "113",
         "name": "Uzávěr plovákový ø60, DN60, 2 koule, RIV 410 Acqua Marina",
         "subtitle": "RIV 410 ACQUA MARINA, 050410000055",
         "price": "2 789,00 CZK",
@@ -1243,7 +1232,7 @@
         "description": "Kategorie: RIV ITALY  / ACQUA MARINA uzávěry plovákové\nČíslo dílu: RIV 410 ACQUA MARINA, 050410000055"
     },
     {
-        "id": "114",
+        "id": "113",
         "name": "Uzávěr plovákový ø80, DN80, 2 koule, RIV 410 Acqua Marina",
         "subtitle": "RIV 410 ACQUA MARINA, 050410000061",
         "price": "3 769,00 CZK",
@@ -1252,6 +1241,17 @@
         "category": "RIV ITALY  / ACQUA MARINA uzávěry plovákové",
         "url": "https://obchod.fimas.cz/Uzaver-plovakovy-80-DN80-2-koule-RIV-410-Acqua-Marina-d2368.htm",
         "description": "Kategorie: RIV ITALY  / ACQUA MARINA uzávěry plovákové\nČíslo dílu: RIV 410 ACQUA MARINA, 050410000061"
+    },
+    {
+        "id": "114",
+        "name": "Ventil podtlakový 1½\" (6/4\"), RIV 290 AMBRA",
+        "subtitle": "RIV 290 AMBRA, 050290000009",
+        "price": "539,00 CZK",
+        "stock": "skladem",
+        "image": "https://obchod.fimas.cz/fotky7833/fotos/_vyr_2362Riv-0290.png",
+        "category": "RIV ITALY  / AMBRA ventily podtlakové",
+        "url": "https://obchod.fimas.cz/Ventil-podtlakovy-1-6-4-RIV-290-AMBRA-d2362.htm",
+        "description": "Kategorie: RIV ITALY  / AMBRA ventily podtlakové\nČíslo dílu: RIV 290 AMBRA, 050290000009"
     },
     {
         "id": "115",
