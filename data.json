@@ -3050,7 +3050,7 @@
         "id": "278",
         "name": "Savice 6 m, bez koncovek, PVC, ø110, Fire Elastik",
         "subtitle": "",
-        "price": "2 394,00 CZK",
+        "price": "2 629,00 CZK",
         "stock": "skladem",
         "image": "https://obchod.fimas.cz/fotky7833/fotos/_vyr_99obrazek-pripravujeme.jpg",
         "category": "FEKÁLNÍ NÁSTAVBY MALACKY / Ovládání savice",
@@ -3543,13 +3543,13 @@
     },
     {
         "id": "323",
-        "name": "Matice stavoznaku CAS 11",
+        "name": "Matice stavoznaku CAS11",
         "subtitle": "",
         "price": "624,00 CZK",
         "stock": "skladem",
         "image": "https://obchod.fimas.cz/fotky7833/fotos/_vyr_2608image_123650291--11.jpg",
         "category": "FEKÁLNÍ NÁSTAVBY MALACKY / Díly nádrží - uzávěry",
-        "url": "https://obchod.fimas.cz/Matice-stavoznaku-CAS-11-d2608.htm",
+        "url": "https://obchod.fimas.cz/Matice-stavoznaku-CAS11-d2608.htm",
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Díly nádrží - uzávěry\nČíslo dílu: "
     },
     {
@@ -4753,17 +4753,6 @@
     },
     {
         "id": "433",
-        "name": "Vložka filtru FG11",
-        "subtitle": "FG 11",
-        "price": "299,00 CZK",
-        "stock": "skladem",
-        "image": "https://obchod.fimas.cz/fotky7833/fotos/_vyr_1303336853666111.jpg",
-        "category": "FEKÁLNÍ NÁSTAVBY MALACKY / Hydraulika - rozvaděče",
-        "url": "https://obchod.fimas.cz/Vlozka-filtru-FG11-d1303.htm",
-        "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Hydraulika - rozvaděče\nČíslo dílu: FG 11"
-    },
-    {
-        "id": "434",
         "name": "Vložka filtru FPS10B10 (FG11 NT)",
         "subtitle": "FG11, FE10M10 za FG11 336853666111",
         "price": "546,00 CZK",
@@ -4774,7 +4763,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Hydraulika - rozvaděče\nČíslo dílu: FG11, FE10M10 za FG11 336853666111"
     },
     {
-        "id": "435",
+        "id": "434",
         "name": "Domeček ACF041, pouzdro úplné",
         "subtitle": "709-08-9210.0,7090892100",
         "price": "1 800,00 CZK",
@@ -4785,7 +4774,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Převodovky, hřídele, kola\nČíslo dílu: 709-08-9210.0,7090892100"
     },
     {
-        "id": "436",
+        "id": "435",
         "name": "Domeček ACF041, sestavený",
         "subtitle": "709-08-9210.0,7090892100",
         "price": "3 670,00 CZK",
@@ -4796,7 +4785,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Převodovky, hřídele, kola\nČíslo dílu: 709-08-9210.0,7090892100"
     },
     {
-        "id": "437",
+        "id": "436",
         "name": "Hardy spojka kardanu, CAS11, roztečná kružnice 106 mm",
         "subtitle": "105301360,105-30136,441073631136",
         "price": "499,00 CZK",
@@ -4807,7 +4796,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Převodovky, hřídele, kola\nČíslo dílu: 105301360,105-30136,441073631136"
     },
     {
-        "id": "438",
+        "id": "437",
         "name": "Hřídel domečku ACF041",
         "subtitle": "709-08-1200.0, 709081200",
         "price": "3 125,00 CZK",
@@ -4818,7 +4807,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Převodovky, hřídele, kola\nČíslo dílu: 709-08-1200.0, 709081200"
     },
     {
-        "id": "439",
+        "id": "438",
         "name": "Hřídel domečku CAS11",
         "subtitle": "",
         "price": "3 129,00 CZK",
@@ -4829,7 +4818,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Převodovky, hřídele, kola\nČíslo dílu: "
     },
     {
-        "id": "440",
+        "id": "439",
         "name": "Hřídel drážkovaná, hranaté převodovky",
         "subtitle": "",
         "price": "958,00 CZK",
@@ -4840,7 +4829,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Převodovky, hřídele, kola\nČíslo dílu: "
     },
     {
-        "id": "441",
+        "id": "440",
         "name": "Hřídel dutá, hranaté převodovky",
         "subtitle": "",
         "price": "1 640,00 CZK",
@@ -4851,7 +4840,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Převodovky, hřídele, kola\nČíslo dílu: "
     },
     {
-        "id": "442",
+        "id": "441",
         "name": "Hřídel kloubový ACF 041",
         "subtitle": "",
         "price": "6 859,00 CZK",
@@ -4862,7 +4851,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Převodovky, hřídele, kola\nČíslo dílu: "
     },
     {
-        "id": "443",
+        "id": "442",
         "name": "Hřídel krátká",
         "subtitle": "",
         "price": "299,00 CZK",
@@ -4873,7 +4862,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Převodovky, hřídele, kola\nČíslo dílu: "
     },
     {
-        "id": "444",
+        "id": "443",
         "name": "Hřídel ložiska PZTF 3",
         "subtitle": "",
         "price": "1 948,00 CZK",
@@ -4884,7 +4873,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Převodovky, hřídele, kola\nČíslo dílu: "
     },
     {
-        "id": "445",
+        "id": "444",
         "name": "Hřídel náhonová MA5-0311, 21 drážek",
         "subtitle": "",
         "price": "3 129,00 CZK",
@@ -4895,7 +4884,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Převodovky, hřídele, kola\nČíslo dílu: "
     },
     {
-        "id": "446",
+        "id": "445",
         "name": "Hřídel náhonová Tatra 815, CAS11, kardanu se závitem",
         "subtitle": "442045200689",
         "price": "3 899,00 CZK",
@@ -4906,7 +4895,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Převodovky, hřídele, kola\nČíslo dílu: 442045200689"
     },
     {
-        "id": "447",
+        "id": "446",
         "name": "Hřídel napínací klínového řemene, CAS11",
         "subtitle": "",
         "price": "339,00 CZK",
@@ -4917,7 +4906,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Převodovky, hřídele, kola\nČíslo dílu: "
     },
     {
-        "id": "448",
+        "id": "447",
         "name": "Hřídel oválné převodovky",
         "subtitle": "PP5-3-0800",
         "price": "1 168,00 CZK",
@@ -4928,7 +4917,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Převodovky, hřídele, kola\nČíslo dílu: PP5-3-0800"
     },
     {
-        "id": "449",
+        "id": "448",
         "name": "Hřídel PZTF 3, drážky z obou stran",
         "subtitle": "",
         "price": "2 360,00 CZK",
@@ -4939,7 +4928,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Převodovky, hřídele, kola\nČíslo dílu: "
     },
     {
-        "id": "450",
+        "id": "449",
         "name": "Kardan CAS11, holý",
         "subtitle": "",
         "price": "4 989,00 CZK",
@@ -4950,7 +4939,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Převodovky, hřídele, kola\nČíslo dílu: "
     },
     {
-        "id": "451",
+        "id": "450",
         "name": "Kardan CAS11, úplný, s hardy spojkami",
         "subtitle": "",
         "price": "6 116,00 CZK",
@@ -4961,7 +4950,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Převodovky, hřídele, kola\nČíslo dílu: "
     },
     {
-        "id": "452",
+        "id": "451",
         "name": "Kladka napínací, ACF041, 4-611-491/1",
         "subtitle": "4-611-491/1, 46114911",
         "price": "242,00 CZK",
@@ -4972,7 +4961,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Převodovky, hřídele, kola\nČíslo dílu: 4-611-491/1, 46114911"
     },
     {
-        "id": "453",
+        "id": "452",
         "name": "Kolo ozubené hranaté převodovky",
         "subtitle": "",
         "price": "1 950,00 CZK",
@@ -4983,7 +4972,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Převodovky, hřídele, kola\nČíslo dílu: "
     },
     {
-        "id": "454",
+        "id": "453",
         "name": "Kolo ozubené oválné převodovky",
         "subtitle": "PP5-3-0821",
         "price": "1 950,00 CZK",
@@ -4994,7 +4983,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Převodovky, hřídele, kola\nČíslo dílu: PP5-3-0821"
     },
     {
-        "id": "455",
+        "id": "454",
         "name": "Kolo ozubené, 13 zubů, ACF041, dvojřetězka",
         "subtitle": "3-611-0229, 36110229",
         "price": "970,00 CZK",
@@ -5005,7 +4994,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Převodovky, hřídele, kola\nČíslo dílu: 3-611-0229, 36110229"
     },
     {
-        "id": "456",
+        "id": "455",
         "name": "Kolo ozubené, 21 zubů, 32/57/33, Eckart",
         "subtitle": "",
         "price": "929,00 CZK",
@@ -5016,7 +5005,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Převodovky, hřídele, kola\nČíslo dílu: "
     },
     {
-        "id": "457",
+        "id": "456",
         "name": "Kolo ozubené, 23 zubů, ACF041, dvojřetězka",
         "subtitle": "709-08-1205.0, 7090812050",
         "price": "1 411,00 CZK",
@@ -5027,7 +5016,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Převodovky, hřídele, kola\nČíslo dílu: 709-08-1205.0, 7090812050"
     },
     {
-        "id": "458",
+        "id": "457",
         "name": "Kolo řetězové, PZTF3, dvojkolo",
         "subtitle": "",
         "price": "1 930,00 CZK",
@@ -5038,7 +5027,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Převodovky, hřídele, kola\nČíslo dílu: "
     },
     {
-        "id": "459",
+        "id": "458",
         "name": "Kolo s nábojem, 12 zubů, na vývěvu, pro řetěz 3/4″",
         "subtitle": "",
         "price": "845,00 CZK",
@@ -5049,7 +5038,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Převodovky, hřídele, kola\nČíslo dílu: "
     },
     {
-        "id": "460",
+        "id": "459",
         "name": "Kolo s nábojem, 12 zubů, pro řetěz 3/4″",
         "subtitle": "",
         "price": "790,00 CZK",
@@ -5060,7 +5049,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Převodovky, hřídele, kola\nČíslo dílu: "
     },
     {
-        "id": "461",
+        "id": "460",
         "name": "Kroužek opěrný II",
         "subtitle": "702-08-1123.0",
         "price": "80,00 CZK",
@@ -5071,7 +5060,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Převodovky, hřídele, kola\nČíslo dílu: 702-08-1123.0"
     },
     {
-        "id": "462",
+        "id": "461",
         "name": "Mezikus, spojka, 709-08-1202.0",
         "subtitle": "709-08-1202.0, 7090812020",
         "price": "445,00 CZK",
@@ -5082,7 +5071,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Převodovky, hřídele, kola\nČíslo dílu: 709-08-1202.0, 7090812020"
     },
     {
-        "id": "463",
+        "id": "462",
         "name": "Páka napínače řetězu ACF041",
         "subtitle": "709-08-9310.0, 7090893100",
         "price": "415,00 CZK",
@@ -5093,7 +5082,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Převodovky, hřídele, kola\nČíslo dílu: 709-08-9310.0, 7090893100"
     },
     {
-        "id": "464",
+        "id": "463",
         "name": "Pastorek hranaté převodovky, 14 zubů, 702-08-1121.0",
         "subtitle": "",
         "price": "1 340,00 CZK",
@@ -5104,7 +5093,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Převodovky, hřídele, kola\nČíslo dílu: "
     },
     {
-        "id": "465",
+        "id": "464",
         "name": "Pastorek, 14 zubů, oválné převodovky, PP5-3-0801",
         "subtitle": "PP5-3-0801",
         "price": "960,00 CZK",
@@ -5115,7 +5104,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Převodovky, hřídele, kola\nČíslo dílu: PP5-3-0801"
     },
     {
-        "id": "466",
+        "id": "465",
         "name": "Pero 10×8×30",
         "subtitle": "",
         "price": "18,00 CZK",
@@ -5126,7 +5115,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Převodovky, hřídele, kola\nČíslo dílu: "
     },
     {
-        "id": "467",
+        "id": "466",
         "name": "Podložka pojistná matice hřídelky kardanu, CAS11",
         "subtitle": "109339670",
         "price": "15,00 CZK",
@@ -5137,7 +5126,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Převodovky, hřídele, kola\nČíslo dílu: 109339670"
     },
     {
-        "id": "468",
+        "id": "467",
         "name": "Podložka ø24, plochá, N900",
         "subtitle": "položka č.32 rám podvozku N900",
         "price": "3,00 CZK",
@@ -5148,7 +5137,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Převodovky, hřídele, kola\nČíslo dílu: položka č.32 rám podvozku N900"
     },
     {
-        "id": "469",
+        "id": "468",
         "name": "Podložka ø30, plochá, N900",
         "subtitle": "položka č.43 rám podvozku N900",
         "price": "7,00 CZK",
@@ -5159,7 +5148,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Převodovky, hřídele, kola\nČíslo dílu: položka č.43 rám podvozku N900"
     },
     {
-        "id": "470",
+        "id": "469",
         "name": "Převodovka hranatá, kompletní, starý typ",
         "subtitle": "",
         "price": "14 650,00 CZK",
@@ -5170,7 +5159,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Převodovky, hřídele, kola\nČíslo dílu: "
     },
     {
-        "id": "471",
+        "id": "470",
         "name": "Převodovka oválná, kompletní",
         "subtitle": "",
         "price": "15 749,00 CZK",
@@ -5181,7 +5170,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Převodovky, hřídele, kola\nČíslo dílu: "
     },
     {
-        "id": "472",
+        "id": "471",
         "name": "Řemenice MA5-0311",
         "subtitle": "",
         "price": "2 960,00 CZK",
@@ -5192,7 +5181,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Převodovky, hřídele, kola\nČíslo dílu: "
     },
     {
-        "id": "473",
+        "id": "472",
         "name": "Řemenice předlohy, CAS, 45×190, 5 drážek",
         "subtitle": "45x190/5",
         "price": "3 349,00 CZK",
@@ -5203,7 +5192,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Převodovky, hřídele, kola\nČíslo dílu: 45x190/5"
     },
     {
-        "id": "474",
+        "id": "473",
         "name": "Řemenice vývěvy, CAS11, 36×205, 5 drážek, 442042900869",
         "subtitle": "36x205/5 drážek",
         "price": "3 449,00 CZK",
@@ -5214,7 +5203,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Převodovky, hřídele, kola\nČíslo dílu: 36x205/5 drážek"
     },
     {
-        "id": "475",
+        "id": "474",
         "name": "Řetěz 3/4″, 12B2 duplex, 11 článků, se spojkou, pro spojení kol s nábojem",
         "subtitle": "na spojení kol s nábojem 702-08-1135.1 a 702-08-1136.1",
         "price": "185,00 CZK",
@@ -5225,7 +5214,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Převodovky, hřídele, kola\nČíslo dílu: na spojení kol s nábojem 702-08-1135.1 a 702-08-1136.1"
     },
     {
-        "id": "476",
+        "id": "475",
         "name": "Řetěz 3/4″, duplex, 12 B2",
         "subtitle": "",
         "price": "529,00 CZK",
@@ -5236,7 +5225,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Převodovky, hřídele, kola\nČíslo dílu: "
     },
     {
-        "id": "477",
+        "id": "476",
         "name": "Skříň převodovky, hranatá",
         "subtitle": "",
         "price": "5 844,00 CZK",
@@ -5247,7 +5236,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Převodovky, hřídele, kola\nČíslo dílu: "
     },
     {
-        "id": "478",
+        "id": "477",
         "name": "Skříň převodovky, oválná, PP5-1-0825",
         "subtitle": "PP5-1-0825",
         "price": "6 280,00 CZK",
@@ -5258,7 +5247,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Převodovky, hřídele, kola\nČíslo dílu: PP5-1-0825"
     },
     {
-        "id": "479",
+        "id": "478",
         "name": "Spojka 3/4″ duplex, 12 B2",
         "subtitle": "",
         "price": "38,00 CZK",
@@ -5269,7 +5258,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Převodovky, hřídele, kola\nČíslo dílu: "
     },
     {
-        "id": "480",
+        "id": "479",
         "name": "Spojka náboje, ACF041, CAS11",
         "subtitle": "709-081201.0, 7090812010",
         "price": "1 429,00 CZK",
@@ -5280,7 +5269,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Převodovky, hřídele, kola\nČíslo dílu: 709-081201.0, 7090812010"
     },
     {
-        "id": "481",
+        "id": "480",
         "name": "Těsnění hranaté převodovky, Ø104 mm",
         "subtitle": "průměr 104 mm",
         "price": "22,00 CZK",
@@ -5291,7 +5280,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Převodovky, hřídele, kola\nČíslo dílu: průměr 104 mm"
     },
     {
-        "id": "482",
+        "id": "481",
         "name": "Těsnění I. hranaté převodovky, Ø88 mm",
         "subtitle": "průměr 88 mm",
         "price": "22,00 CZK",
@@ -5302,7 +5291,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Převodovky, hřídele, kola\nČíslo dílu: průměr 88 mm"
     },
     {
-        "id": "483",
+        "id": "482",
         "name": "Těsnění víčka převodovky",
         "subtitle": "",
         "price": "25,00 CZK",
@@ -5313,7 +5302,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Převodovky, hřídele, kola\nČíslo dílu: "
     },
     {
-        "id": "484",
+        "id": "483",
         "name": "Těsnění víka hranaté převodovky obdélníkové",
         "subtitle": "obdelníkové pod horní víko",
         "price": "29,00 CZK",
@@ -5324,7 +5313,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Převodovky, hřídele, kola\nČíslo dílu: obdelníkové pod horní víko"
     },
     {
-        "id": "485",
+        "id": "484",
         "name": "Těsnění víka oválné převodovky",
         "subtitle": "PP5-3-0802",
         "price": "38,00 CZK",
@@ -5335,7 +5324,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Převodovky, hřídele, kola\nČíslo dílu: PP5-3-0802"
     },
     {
-        "id": "486",
+        "id": "485",
         "name": "Unašeč kardanu, CAS11, 109302200",
         "subtitle": "109302200",
         "price": "1 089,00 CZK",
@@ -5346,7 +5335,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Převodovky, hřídele, kola\nČíslo dílu: 109302200"
     },
     {
-        "id": "487",
+        "id": "486",
         "name": "Víčko domečku ACF041 I",
         "subtitle": "709-08-1204.0, 7090812040",
         "price": "310,00 CZK",
@@ -5357,7 +5346,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Převodovky, hřídele, kola\nČíslo dílu: 709-08-1204.0, 7090812040"
     },
     {
-        "id": "488",
+        "id": "487",
         "name": "Víko IV",
         "subtitle": "",
         "price": "Na dotaz",
@@ -5368,7 +5357,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Převodovky, hřídele, kola\nČíslo dílu: "
     },
     {
-        "id": "489",
+        "id": "488",
         "name": "Víko oválné převodovky",
         "subtitle": "PP5-3-0826",
         "price": "2 720,00 CZK",
@@ -5379,7 +5368,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Převodovky, hřídele, kola\nČíslo dílu: PP5-3-0826"
     },
     {
-        "id": "490",
+        "id": "489",
         "name": "Víko převodovky",
         "subtitle": "702-08-9102.0",
         "price": "377,00 CZK",
@@ -5390,7 +5379,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Převodovky, hřídele, kola\nČíslo dílu: 702-08-9102.0"
     },
     {
-        "id": "491",
+        "id": "490",
         "name": "Víko převodovky I",
         "subtitle": "702-08-1116.0",
         "price": "240,00 CZK",
@@ -5401,7 +5390,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Převodovky, hřídele, kola\nČíslo dílu: 702-08-1116.0"
     },
     {
-        "id": "492",
+        "id": "491",
         "name": "Víko převodovky II",
         "subtitle": "702-08-1117.0",
         "price": "318,00 CZK",
@@ -5412,7 +5401,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Převodovky, hřídele, kola\nČíslo dílu: 702-08-1117.0"
     },
     {
-        "id": "493",
+        "id": "492",
         "name": "Víko převodovky III",
         "subtitle": "702-08-1118.0",
         "price": "292,00 CZK",
@@ -5423,7 +5412,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Převodovky, hřídele, kola\nČíslo dílu: 702-08-1118.0"
     },
     {
-        "id": "494",
+        "id": "493",
         "name": "Víko převodovky IV",
         "subtitle": "702-08-1119.0",
         "price": "295,00 CZK",
@@ -5434,7 +5423,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Převodovky, hřídele, kola\nČíslo dílu: 702-08-1119.0"
     },
     {
-        "id": "495",
+        "id": "494",
         "name": "Hřídel drážkovaná, hranaté převodovky",
         "subtitle": "",
         "price": "958,00 CZK",
@@ -5445,7 +5434,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / hranatá převodovka\nČíslo dílu: "
     },
     {
-        "id": "496",
+        "id": "495",
         "name": "Hřídel dutá, hranaté převodovky",
         "subtitle": "",
         "price": "1 640,00 CZK",
@@ -5456,7 +5445,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / hranatá převodovka\nČíslo dílu: "
     },
     {
-        "id": "497",
+        "id": "496",
         "name": "Kolo ozubené hranaté převodovky",
         "subtitle": "",
         "price": "1 950,00 CZK",
@@ -5467,7 +5456,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / hranatá převodovka\nČíslo dílu: "
     },
     {
-        "id": "498",
+        "id": "497",
         "name": "Pastorek hranaté převodovky, 14 zubů, 702-08-1121.0",
         "subtitle": "",
         "price": "1 340,00 CZK",
@@ -5478,7 +5467,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / hranatá převodovka\nČíslo dílu: "
     },
     {
-        "id": "499",
+        "id": "498",
         "name": "Převodovka hranatá, kompletní, starý typ",
         "subtitle": "",
         "price": "14 650,00 CZK",
@@ -5489,7 +5478,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / hranatá převodovka\nČíslo dílu: "
     },
     {
-        "id": "500",
+        "id": "499",
         "name": "Skříň převodovky, hranatá",
         "subtitle": "",
         "price": "5 844,00 CZK",
@@ -5500,7 +5489,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / hranatá převodovka\nČíslo dílu: "
     },
     {
-        "id": "501",
+        "id": "500",
         "name": "Těsnění hranaté převodovky, Ø104 mm",
         "subtitle": "průměr 104 mm",
         "price": "22,00 CZK",
@@ -5511,7 +5500,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / hranatá převodovka\nČíslo dílu: průměr 104 mm"
     },
     {
-        "id": "502",
+        "id": "501",
         "name": "Těsnění I. hranaté převodovky, Ø88 mm",
         "subtitle": "průměr 88 mm",
         "price": "22,00 CZK",
@@ -5522,7 +5511,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / hranatá převodovka\nČíslo dílu: průměr 88 mm"
     },
     {
-        "id": "503",
+        "id": "502",
         "name": "Těsnění víka hranaté převodovky obdélníkové",
         "subtitle": "obdelníkové pod horní víko",
         "price": "29,00 CZK",
@@ -5533,7 +5522,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / hranatá převodovka\nČíslo dílu: obdelníkové pod horní víko"
     },
     {
-        "id": "504",
+        "id": "503",
         "name": "Víko IV",
         "subtitle": "",
         "price": "Na dotaz",
@@ -5544,7 +5533,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / hranatá převodovka\nČíslo dílu: "
     },
     {
-        "id": "505",
+        "id": "504",
         "name": "Víko převodovky",
         "subtitle": "702-08-9102.0",
         "price": "377,00 CZK",
@@ -5555,7 +5544,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / hranatá převodovka\nČíslo dílu: 702-08-9102.0"
     },
     {
-        "id": "506",
+        "id": "505",
         "name": "Víko převodovky I",
         "subtitle": "702-08-1116.0",
         "price": "240,00 CZK",
@@ -5566,7 +5555,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / hranatá převodovka\nČíslo dílu: 702-08-1116.0"
     },
     {
-        "id": "507",
+        "id": "506",
         "name": "Víko převodovky II",
         "subtitle": "702-08-1117.0",
         "price": "318,00 CZK",
@@ -5577,7 +5566,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / hranatá převodovka\nČíslo dílu: 702-08-1117.0"
     },
     {
-        "id": "508",
+        "id": "507",
         "name": "Víko převodovky III",
         "subtitle": "702-08-1118.0",
         "price": "292,00 CZK",
@@ -5588,7 +5577,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / hranatá převodovka\nČíslo dílu: 702-08-1118.0"
     },
     {
-        "id": "509",
+        "id": "508",
         "name": "Víko převodovky IV",
         "subtitle": "702-08-1119.0",
         "price": "295,00 CZK",
@@ -5599,7 +5588,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / hranatá převodovka\nČíslo dílu: 702-08-1119.0"
     },
     {
-        "id": "510",
+        "id": "509",
         "name": "Hřídel oválné převodovky",
         "subtitle": "PP5-3-0800",
         "price": "1 168,00 CZK",
@@ -5610,7 +5599,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / oválná převodovka\nČíslo dílu: PP5-3-0800"
     },
     {
-        "id": "511",
+        "id": "510",
         "name": "Kolo ozubené oválné převodovky",
         "subtitle": "PP5-3-0821",
         "price": "1 950,00 CZK",
@@ -5621,7 +5610,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / oválná převodovka\nČíslo dílu: PP5-3-0821"
     },
     {
-        "id": "512",
+        "id": "511",
         "name": "Pastorek, 14 zubů, oválné převodovky, PP5-3-0801",
         "subtitle": "PP5-3-0801",
         "price": "960,00 CZK",
@@ -5632,7 +5621,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / oválná převodovka\nČíslo dílu: PP5-3-0801"
     },
     {
-        "id": "513",
+        "id": "512",
         "name": "Převodovka oválná, kompletní",
         "subtitle": "",
         "price": "15 749,00 CZK",
@@ -5643,7 +5632,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / oválná převodovka\nČíslo dílu: "
     },
     {
-        "id": "514",
+        "id": "513",
         "name": "Skříň převodovky, oválná, PP5-1-0825",
         "subtitle": "PP5-1-0825",
         "price": "6 280,00 CZK",
@@ -5654,7 +5643,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / oválná převodovka\nČíslo dílu: PP5-1-0825"
     },
     {
-        "id": "515",
+        "id": "514",
         "name": "Těsnění víčka převodovky",
         "subtitle": "",
         "price": "25,00 CZK",
@@ -5665,7 +5654,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / oválná převodovka\nČíslo dílu: "
     },
     {
-        "id": "516",
+        "id": "515",
         "name": "Těsnění víka oválné převodovky",
         "subtitle": "PP5-3-0802",
         "price": "38,00 CZK",
@@ -5676,7 +5665,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / oválná převodovka\nČíslo dílu: PP5-3-0802"
     },
     {
-        "id": "517",
+        "id": "516",
         "name": "Víko oválné převodovky",
         "subtitle": "PP5-3-0826",
         "price": "2 720,00 CZK",
@@ -5687,7 +5676,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / oválná převodovka\nČíslo dílu: PP5-3-0826"
     },
     {
-        "id": "518",
+        "id": "517",
         "name": "Dýza na čištění cest",
         "subtitle": "",
         "price": "1 190,00 CZK",
@@ -5698,7 +5687,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Savice a koncovky\nČíslo dílu: "
     },
     {
-        "id": "519",
+        "id": "518",
         "name": "Dýza plošného rozstřiku",
         "subtitle": "",
         "price": "940,00 CZK",
@@ -5709,7 +5698,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Savice a koncovky\nČíslo dílu: "
     },
     {
-        "id": "520",
+        "id": "519",
         "name": "Dýza s lopatkou, zinkovaná",
         "subtitle": "",
         "price": "1 225,00 CZK",
@@ -5720,7 +5709,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Savice a koncovky\nČíslo dílu: "
     },
     {
-        "id": "521",
+        "id": "520",
         "name": "Hadice ø105 sací, Fire Elastik, červená",
         "subtitle": "Hadice PVC 105/118,4 FIRE ELASTIK c. červená(-35°C/+50°C,tlak 1,3 BAR,pod.0,7 BA",
         "price": "439,00 CZK",
@@ -5731,7 +5720,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Savice a koncovky\nČíslo dílu: Hadice PVC 105/118,4 FIRE ELASTIK c. červená(-35°C/+50°C,tlak 1,3 BAR,pod.0,7 BA"
     },
     {
-        "id": "522",
+        "id": "521",
         "name": "Hadice ø110 sací, Fire Elastik, červená",
         "subtitle": "Hadice PVC 110/124 FIRE ELASTIK c. červená(-35°C/+50°C,tlak 1,3 BAR,pod.0,7 BA",
         "price": "499,00 CZK",
@@ -5742,7 +5731,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Savice a koncovky\nČíslo dílu: Hadice PVC 110/124 FIRE ELASTIK c. červená(-35°C/+50°C,tlak 1,3 BAR,pod.0,7 BA"
     },
     {
-        "id": "523",
+        "id": "522",
         "name": "Hadice ø127 sací, Fire Elastik, červená",
         "subtitle": "Hadice PVC 127/142 FIRE ELASTIK c. červená(-35°C/+50°C,tlak 1,3 BAR,pod.0,7 BA",
         "price": "625,00 CZK",
@@ -5753,7 +5742,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Savice a koncovky\nČíslo dílu: Hadice PVC 127/142 FIRE ELASTIK c. červená(-35°C/+50°C,tlak 1,3 BAR,pod.0,7 BA"
     },
     {
-        "id": "524",
+        "id": "523",
         "name": "Hadice ø150, sací, Spirotec Superflex, modrá",
         "subtitle": "Hadice PVC 150/168 SPIROTEC SUPERFLEX modrá (-35°C/+50°C,tlak 1,3 BAR,pod.0,7 BA",
         "price": "979,00 CZK",
@@ -5764,7 +5753,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Savice a koncovky\nČíslo dílu: Hadice PVC 150/168 SPIROTEC SUPERFLEX modrá (-35°C/+50°C,tlak 1,3 BAR,pod.0,7 BA"
     },
     {
-        "id": "525",
+        "id": "524",
         "name": "Hadice ø50, spirálová, Garden, zelená",
         "subtitle": "",
         "price": "99,00 CZK",
@@ -5775,7 +5764,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Savice a koncovky\nČíslo dílu: "
     },
     {
-        "id": "526",
+        "id": "525",
         "name": "Klíč savice oboustranný 110/75",
         "subtitle": "",
         "price": "195,00 CZK",
@@ -5786,7 +5775,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Savice a koncovky\nČíslo dílu: "
     },
     {
-        "id": "527",
+        "id": "526",
         "name": "Koncovka redukce, Perrot 5″ háky / Malacky s rychlouzávěrem (110/105)",
         "subtitle": "PERROT M-díl 5\" // MALACKY s háky (110/105) - zinkováno",
         "price": "2 599,00 CZK",
@@ -5797,7 +5786,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Savice a koncovky\nČíslo dílu: PERROT M-díl 5\" // MALACKY s háky (110/105) - zinkováno"
     },
     {
-        "id": "528",
+        "id": "527",
         "name": "Koncovka redukce, Perrot 6″ háky / Malacky s nýty (110/105)",
         "subtitle": "PERROT M-díl 6\" // MALACKY s nýty (110/105) - zinkováno",
         "price": "2 860,00 CZK",
@@ -5808,7 +5797,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Savice a koncovky\nČíslo dílu: PERROT M-díl 6\" // MALACKY s nýty (110/105) - zinkováno"
     },
     {
-        "id": "529",
+        "id": "528",
         "name": "Koncovka redukce, Perrot 6″ háky / Malacky s rychlouzávěrem (110/105)",
         "subtitle": "PERROT M-díl 6\" // MALACKY s háky (110/105) - zinkováno",
         "price": "2 930,00 CZK",
@@ -5819,7 +5808,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Savice a koncovky\nČíslo dílu: PERROT M-díl 6\" // MALACKY s háky (110/105) - zinkováno"
     },
     {
-        "id": "530",
+        "id": "529",
         "name": "Koncovka redukce, Perrot 6″ kužel / Malacky s nýty (110/105)",
         "subtitle": "PERROT V-díl 6\" // MALACKY s nýty (110/105) - zinkovaná",
         "price": "1 579,00 CZK",
@@ -5830,7 +5819,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Savice a koncovky\nČíslo dílu: PERROT V-díl 6\" // MALACKY s nýty (110/105) - zinkovaná"
     },
     {
-        "id": "531",
+        "id": "530",
         "name": "Koncovka redukce, Perrot 6″ kužel / Malacky s rychlouzávěrem (110/105)",
         "subtitle": "PERROT V-díl 6\" // MALACKY s háky (110/105) - zinkováno",
         "price": "1 855,00 CZK",
@@ -5841,7 +5830,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Savice a koncovky\nČíslo dílu: PERROT V-díl 6\" // MALACKY s háky (110/105) - zinkováno"
     },
     {
-        "id": "532",
+        "id": "531",
         "name": "Koncovka s přírubou, 8 děr",
         "subtitle": "970521951,705-21-9510.0",
         "price": "448,00 CZK",
@@ -5852,7 +5841,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Savice a koncovky\nČíslo dílu: 970521951,705-21-9510.0"
     },
     {
-        "id": "533",
+        "id": "532",
         "name": "Koncovka savice AL, šroubovací, kompletní",
         "subtitle": "",
         "price": "1 255,00 CZK",
@@ -5863,7 +5852,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Savice a koncovky\nČíslo dílu: "
     },
     {
-        "id": "534",
+        "id": "533",
         "name": "Koncovka savice s nýty, na hadici 105 mm, Malacky",
         "subtitle": "3-611-0150, 110/105",
         "price": "479,00 CZK",
@@ -5874,7 +5863,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Savice a koncovky\nČíslo dílu: 3-611-0150, 110/105"
     },
     {
-        "id": "535",
+        "id": "534",
         "name": "Koncovka savice s rychlouzávěrem, na hadici 105 mm, Malacky",
         "subtitle": "3-611-0127, 110/105",
         "price": "720,00 CZK",
@@ -5885,7 +5874,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Savice a koncovky\nČíslo dílu: 3-611-0127, 110/105"
     },
     {
-        "id": "536",
+        "id": "535",
         "name": "Koncovka varná, AL šroubení na ocelové trubce, pro přivaření",
         "subtitle": "",
         "price": "1 616,00 CZK",
@@ -5896,7 +5885,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Savice a koncovky\nČíslo dílu: "
     },
     {
-        "id": "537",
+        "id": "536",
         "name": "Koš sací, s klapkou, 150/6″, pozinkovaný, 180 m³/h, patní ventil",
         "subtitle": "",
         "price": "2 275,00 CZK",
@@ -5907,7 +5896,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Savice a koncovky\nČíslo dílu: "
     },
     {
-        "id": "538",
+        "id": "537",
         "name": "Koš úplný ø105, pro hadici ramene",
         "subtitle": "705-21-9520.0, 7052195200",
         "price": "425,00 CZK",
@@ -5918,7 +5907,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Savice a koncovky\nČíslo dílu: 705-21-9520.0, 7052195200"
     },
     {
-        "id": "539",
+        "id": "538",
         "name": "Savice 2,4 m, bez koncovek, MAT, gumová",
         "subtitle": "",
         "price": "3 362,00 CZK",
@@ -5929,7 +5918,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Savice a koncovky\nČíslo dílu: "
     },
     {
-        "id": "540",
+        "id": "539",
         "name": "Savice 2,4 m, bez koncovek, MAT, gumová, ocelová struna na povrchu",
         "subtitle": "",
         "price": "3 113,00 CZK",
@@ -5940,7 +5929,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Savice a koncovky\nČíslo dílu: "
     },
     {
-        "id": "541",
+        "id": "540",
         "name": "Savice 2,5 m, s rychlouzávěrem, MAT, gumová",
         "subtitle": "3-611-0135",
         "price": "4 699,00 CZK",
@@ -5951,7 +5940,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Savice a koncovky\nČíslo dílu: 3-611-0135"
     },
     {
-        "id": "542",
+        "id": "541",
         "name": "Savice 2,5 m, s rychlouzávěrem, PVC",
         "subtitle": "3-611-0135",
         "price": "2 323,00 CZK",
@@ -5962,7 +5951,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Savice a koncovky\nČíslo dílu: 3-611-0135"
     },
     {
-        "id": "543",
+        "id": "542",
         "name": "Savice 2,5 m, se šroubením S110, PVC",
         "subtitle": "",
         "price": "1 691,00 CZK",
@@ -5973,7 +5962,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Savice a koncovky\nČíslo dílu: "
     },
     {
-        "id": "544",
+        "id": "543",
         "name": "Savice 6 m, bez koncovek, MAT, gumová, tlaková a sací hadice pro fekálie a kapaliny, 10 bar",
         "subtitle": "Tlaková a sací hadice pro fekálie a kapaliny, 10 bar, -30°C až +80°C",
         "price": "7 989,00 CZK",
@@ -5984,7 +5973,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Savice a koncovky\nČíslo dílu: Tlaková a sací hadice pro fekálie a kapaliny, 10 bar, -30°C až +80°C"
     },
     {
-        "id": "545",
+        "id": "544",
         "name": "Savice 6 m, bez koncovek, PVC, ø105, Fire Elastik",
         "subtitle": "",
         "price": "2 789,00 CZK",
@@ -5995,10 +5984,10 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Savice a koncovky\nČíslo dílu: "
     },
     {
-        "id": "546",
+        "id": "545",
         "name": "Savice 6 m, bez koncovek, PVC, ø110, Fire Elastik",
         "subtitle": "",
-        "price": "2 394,00 CZK",
+        "price": "2 629,00 CZK",
         "stock": "skladem",
         "image": "https://obchod.fimas.cz/fotky7833/fotos/_vyr_99obrazek-pripravujeme.jpg",
         "category": "FEKÁLNÍ NÁSTAVBY MALACKY / Savice a koncovky",
@@ -6006,7 +5995,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Savice a koncovky\nČíslo dílu: "
     },
     {
-        "id": "547",
+        "id": "546",
         "name": "Spojka hadicová \"C\" 52",
         "subtitle": "",
         "price": "208,00 CZK",
@@ -6017,7 +6006,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Savice a koncovky\nČíslo dílu: "
     },
     {
-        "id": "548",
+        "id": "547",
         "name": "Těsnění bočního uzávěru pod savici",
         "subtitle": "705-21-1004.0, 7052110040",
         "price": "135,00 CZK",
@@ -6028,7 +6017,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Savice a koncovky\nČíslo dílu: 705-21-1004.0, 7052110040"
     },
     {
-        "id": "549",
+        "id": "548",
         "name": "Těsnění koncovky savice 100×8/8, systém AL, koncovka, čtvercový profil",
         "subtitle": "0637001 těsnění savice, systém AL",
         "price": "36,00 CZK",
@@ -6039,7 +6028,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Savice a koncovky\nČíslo dílu: 0637001 těsnění savice, systém AL"
     },
     {
-        "id": "550",
+        "id": "549",
         "name": "Těsnění koncovky savice 105×8/8, systém Malacky, s rychlouzávěrem",
         "subtitle": "5-611-0214, 56110214 těsnění savice, systém MALACKY",
         "price": "22,00 CZK",
@@ -6050,7 +6039,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Savice a koncovky\nČíslo dílu: 5-611-0214, 56110214 těsnění savice, systém MALACKY"
     },
     {
-        "id": "551",
+        "id": "550",
         "name": "Těsnění koncovky savice 110×130×10/8, systém AL, víčko šroubovací, čtvercový profil",
         "subtitle": "0637005 těsnění savice, systém AL - víčko šroubovací",
         "price": "29,00 CZK",
@@ -6061,7 +6050,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Savice a koncovky\nČíslo dílu: 0637005 těsnění savice, systém AL - víčko šroubovací"
     },
     {
-        "id": "552",
+        "id": "551",
         "name": "Trubka sací na savici s košem, LC=1950 mm",
         "subtitle": "pozice 4.",
         "price": "1 080,00 CZK",
@@ -6072,7 +6061,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Savice a koncovky\nČíslo dílu: pozice 4."
     },
     {
-        "id": "553",
+        "id": "552",
         "name": "Těsnění bočního uzávěru",
         "subtitle": "705-14-1002.0, 7051410020",
         "price": "179,00 CZK",
@@ -6083,7 +6072,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Těsnění fekálních nástaveb\nČíslo dílu: 705-14-1002.0, 7051410020"
     },
     {
-        "id": "554",
+        "id": "553",
         "name": "Těsnění bočního uzávěru pod savici",
         "subtitle": "705-21-1004.0, 7052110040",
         "price": "135,00 CZK",
@@ -6094,7 +6083,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Těsnění fekálních nástaveb\nČíslo dílu: 705-21-1004.0, 7052110040"
     },
     {
-        "id": "555",
+        "id": "554",
         "name": "Těsnění bočního víka vývěvy",
         "subtitle": "",
         "price": "43,00 CZK",
@@ -6105,7 +6094,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Těsnění fekálních nástaveb\nČíslo dílu: "
     },
     {
-        "id": "556",
+        "id": "555",
         "name": "Těsnění horního víka CAS11",
         "subtitle": "",
         "price": "99,00 CZK",
@@ -6116,7 +6105,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Těsnění fekálních nástaveb\nČíslo dílu: "
     },
     {
-        "id": "557",
+        "id": "556",
         "name": "Těsnění horního víka fekálu Malacky 445/465/5",
         "subtitle": "5Pe280533/3, 5 Pe 280 533/3, 5Pe-280533/3",
         "price": "139,00 CZK",
@@ -6127,7 +6116,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Těsnění fekálních nástaveb\nČíslo dílu: 5Pe280533/3, 5 Pe 280 533/3, 5Pe-280533/3"
     },
     {
-        "id": "558",
+        "id": "557",
         "name": "Těsnění koncovky savice 100×8/8, systém AL, koncovka, čtvercový profil",
         "subtitle": "0637001 těsnění savice, systém AL",
         "price": "36,00 CZK",
@@ -6138,7 +6127,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Těsnění fekálních nástaveb\nČíslo dílu: 0637001 těsnění savice, systém AL"
     },
     {
-        "id": "559",
+        "id": "558",
         "name": "Těsnění koncovky savice 105×8/8, systém Malacky, s rychlouzávěrem",
         "subtitle": "5-611-0214, 56110214 těsnění savice, systém MALACKY",
         "price": "22,00 CZK",
@@ -6149,7 +6138,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Těsnění fekálních nástaveb\nČíslo dílu: 5-611-0214, 56110214 těsnění savice, systém MALACKY"
     },
     {
-        "id": "560",
+        "id": "559",
         "name": "Těsnění koncovky savice 110×130×10/8, systém AL, víčko šroubovací, čtvercový profil",
         "subtitle": "0637005 těsnění savice, systém AL - víčko šroubovací",
         "price": "29,00 CZK",
@@ -6160,7 +6149,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Těsnění fekálních nástaveb\nČíslo dílu: 0637005 těsnění savice, systém AL - víčko šroubovací"
     },
     {
-        "id": "561",
+        "id": "560",
         "name": "Těsnění lojové 8×8",
         "subtitle": "na zadní uzávěr je potřeba minimálně  0,8 m (objednejte 1 m)",
         "price": "80,00 CZK",
@@ -6171,7 +6160,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Těsnění fekálních nástaveb\nČíslo dílu: na zadní uzávěr je potřeba minimálně  0,8 m (objednejte 1 m)"
     },
     {
-        "id": "562",
+        "id": "561",
         "name": "Těsnění vrchlíku děrované",
         "subtitle": "705-16-1503.0, 7051615030",
         "price": "369,00 CZK",
@@ -6182,7 +6171,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Těsnění fekálních nástaveb\nČíslo dílu: 705-16-1503.0, 7051615030"
     },
     {
-        "id": "563",
+        "id": "562",
         "name": "Těsnění zadního uzávěru (víka) fekálu Malacky 295/325/5",
         "subtitle": "5Pe280394/2, 5 Pe 280394/2",
         "price": "129,00 CZK",
@@ -6193,7 +6182,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Těsnění fekálních nástaveb\nČíslo dílu: 5Pe280394/2, 5 Pe 280394/2"
     },
     {
-        "id": "564",
+        "id": "563",
         "name": "Těsnění zadního víka CAS11",
         "subtitle": "",
         "price": "99,00 CZK",
@@ -6204,7 +6193,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Těsnění fekálních nástaveb\nČíslo dílu: "
     },
     {
-        "id": "565",
+        "id": "564",
         "name": "Filtr tlakový 2″, 32 Mesh, polypropylen",
         "subtitle": "",
         "price": "1 999,00 CZK",
@@ -6215,7 +6204,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: "
     },
     {
-        "id": "566",
+        "id": "565",
         "name": "Filtr tlakový 3″, 32 Mesh, s červenou vložkou",
         "subtitle": "filtr obsahuje červenou vložku 32 MESH",
         "price": "3 849,00 CZK",
@@ -6226,7 +6215,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: filtr obsahuje červenou vložku 32 MESH"
     },
     {
-        "id": "567",
+        "id": "566",
         "name": "Hydraulický válec , pro šoupě 4″, jednočinný",
         "subtitle": "",
         "price": "2 859,00 CZK",
@@ -6237,7 +6226,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: "
     },
     {
-        "id": "568",
+        "id": "567",
         "name": "Hydraulický válec , pro šoupě 5″, jednočinný",
         "subtitle": "",
         "price": "3 769,00 CZK",
@@ -6248,7 +6237,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: "
     },
     {
-        "id": "569",
+        "id": "568",
         "name": "Hydraulický válec , pro šoupě 8″",
         "subtitle": "",
         "price": "2 890,00 CZK",
@@ -6259,7 +6248,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: "
     },
     {
-        "id": "570",
+        "id": "569",
         "name": "Hydraulický válec dvojčinný, pro šoupě 10″",
         "subtitle": "",
         "price": "3 899,00 CZK",
@@ -6270,7 +6259,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: "
     },
     {
-        "id": "571",
+        "id": "570",
         "name": "Hydraulický válec dvojčinný, pro šoupě 4″, 5″, 6″",
         "subtitle": "",
         "price": "2 309,00 CZK",
@@ -6281,7 +6270,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: "
     },
     {
-        "id": "572",
+        "id": "571",
         "name": "Hydraulický válec dvojčinný, pro šoupě 4″, 5″, 6″, Smeraldo RIV 163",
         "subtitle": "RIV 163 SMERALDO, 050163000000",
         "price": "1 889,00 CZK",
@@ -6292,7 +6281,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: RIV 163 SMERALDO, 050163000000"
     },
     {
-        "id": "573",
+        "id": "572",
         "name": "Hydraulický válec dvojčinný, pro šoupě 6″",
         "subtitle": "",
         "price": "2 599,00 CZK",
@@ -6303,7 +6292,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: "
     },
     {
-        "id": "574",
+        "id": "573",
         "name": "Hydraulický válec dvojčinný, pro šoupě 8″",
         "subtitle": "",
         "price": "3 199,00 CZK",
@@ -6314,7 +6303,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: "
     },
     {
-        "id": "575",
+        "id": "574",
         "name": "Hydraulický válec jednočinný, pro šoupě 4″, Smeraldo RIV 166",
         "subtitle": "RIV 166 SMERALDO, 050166000016",
         "price": "2 606,00 CZK",
@@ -6325,7 +6314,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: RIV 166 SMERALDO, 050166000016"
     },
     {
-        "id": "576",
+        "id": "575",
         "name": "Hydraulický válec jednočinný, pro šoupě 5″, Smeraldo RIV 166",
         "subtitle": "RIV 166 SMERALDO, 050166000018",
         "price": "3 109,00 CZK",
@@ -6336,7 +6325,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: RIV 166 SMERALDO, 050166000018"
     },
     {
-        "id": "577",
+        "id": "576",
         "name": "Hydraulický válec jednočinný, pro šoupě 6″, s vnější pružinou",
         "subtitle": "",
         "price": "3 199,00 CZK",
@@ -6347,7 +6336,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: "
     },
     {
-        "id": "578",
+        "id": "577",
         "name": "Hydraulický válec jednočinný, pro šoupě 6″, Smeraldo RIV 166",
         "subtitle": "RIV 166 SMERALDO, 050166000000, 94050490042",
         "price": "3 525,00 CZK",
@@ -6358,7 +6347,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: RIV 166 SMERALDO, 050166000000, 94050490042"
     },
     {
-        "id": "579",
+        "id": "578",
         "name": "Klapka OH100, nerezové jádro",
         "subtitle": "nerezové jádro",
         "price": "2 699,00 CZK",
@@ -6369,7 +6358,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: nerezové jádro"
     },
     {
-        "id": "580",
+        "id": "579",
         "name": "Klapka OH125, nerezové jádro",
         "subtitle": "nerezové jádro",
         "price": "3 343,00 CZK",
@@ -6380,7 +6369,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: nerezové jádro"
     },
     {
-        "id": "581",
+        "id": "580",
         "name": "Klapka OH150, nerezové jádro",
         "subtitle": "nerezové jádro",
         "price": "4 399,00 CZK",
@@ -6391,7 +6380,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: nerezové jádro"
     },
     {
-        "id": "582",
+        "id": "581",
         "name": "Klapka OH80, nerezové jádro",
         "subtitle": "nerezové jádro",
         "price": "2 035,00 CZK",
@@ -6402,7 +6391,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: nerezové jádro"
     },
     {
-        "id": "583",
+        "id": "582",
         "name": "Klíč na plastový kryt sifonu, RIV",
         "subtitle": "RIV CHCS85650000",
         "price": "210,00 CZK",
@@ -6413,7 +6402,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: RIV CHCS85650000"
     },
     {
-        "id": "584",
+        "id": "583",
         "name": "Kohout trojcestný, 2″",
         "subtitle": "700-280211.0",
         "price": "2 739,00 CZK",
@@ -6424,7 +6413,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: 700-280211.0"
     },
     {
-        "id": "585",
+        "id": "584",
         "name": "Kohout trojcestný, 6/4″",
         "subtitle": "709-119001.0, 7091190010",
         "price": "1 870,00 CZK",
@@ -6435,7 +6424,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: 709-119001.0, 7091190010"
     },
     {
-        "id": "586",
+        "id": "585",
         "name": "Kohout vypouštěcí sifonu, RIV Ocean, Giada, 3/4″×25, RIV9898",
         "subtitle": "RIV 9898, RUSF30271005",
         "price": "299,00 CZK",
@@ -6446,7 +6435,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: RIV 9898, RUSF30271005"
     },
     {
-        "id": "587",
+        "id": "586",
         "name": "Kryt sifonu plastový, pro bajonetový uzávěr, ø130 mm",
         "subtitle": "ø 130 mm bajonet",
         "price": "482,00 CZK",
@@ -6457,7 +6446,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: ø 130 mm bajonet"
     },
     {
-        "id": "588",
+        "id": "587",
         "name": "Kryt sifonu plastový, vnitřní závit, ø180 mm, RIV Ocean, RIV9890",
         "subtitle": "RIV 9890",
         "price": "1 199,00 CZK",
@@ -6468,7 +6457,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: RIV 9890"
     },
     {
-        "id": "589",
+        "id": "588",
         "name": "Kryt sifonu plastový, ø156 mm, pro RIV 362 Giada",
         "subtitle": "RIV 9892",
         "price": "679,00 CZK",
@@ -6479,7 +6468,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: RIV 9892"
     },
     {
-        "id": "590",
+        "id": "589",
         "name": "Manovakuometr ø100, -1/+3 bar, kovový s glycerínem, závit G1/2″ s redukcí na M20×1,5",
         "subtitle": "závit  G 1/2\" - dodáváno včetně redukce na M20x1,5, 903312000 za plastové provedení",
         "price": "629,00 CZK",
@@ -6490,7 +6479,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: závit  G 1/2\" - dodáváno včetně redukce na M20x1,5, 903312000 za plastové provedení"
     },
     {
-        "id": "591",
+        "id": "590",
         "name": "Manžeta klapky OH100, EPDM",
         "subtitle": "",
         "price": "399,00 CZK",
@@ -6501,7 +6490,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: "
     },
     {
-        "id": "592",
+        "id": "591",
         "name": "Manžeta klapky OH125, EPDM",
         "subtitle": "",
         "price": "499,00 CZK",
@@ -6512,7 +6501,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: "
     },
     {
-        "id": "593",
+        "id": "592",
         "name": "Manžeta klapky OH80, EPDM",
         "subtitle": "",
         "price": "359,00 CZK",
@@ -6523,7 +6512,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: "
     },
     {
-        "id": "594",
+        "id": "593",
         "name": "Nátrubek varný pro stavoznak 2″, plastový, RIV 552 Zaffiro",
         "subtitle": "RIV 552 ZAFFIRO, 050552000011",
         "price": "156,00 CZK",
@@ -6534,7 +6523,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: RIV 552 ZAFFIRO, 050552000011"
     },
     {
-        "id": "595",
+        "id": "594",
         "name": "Nátrubek varný pro stavoznak 3″, plastový, RIV 552 Zaffiro",
         "subtitle": "RIV 552 ZAFFIRO, 050552000014",
         "price": "232,00 CZK",
@@ -6545,7 +6534,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: RIV 552 ZAFFIRO, 050552000014"
     },
     {
-        "id": "596",
+        "id": "595",
         "name": "O-kroužek 136,10×3,53, EPDM, pro 3″",
         "subtitle": "pro 3\"",
         "price": "59,00 CZK",
@@ -6556,7 +6545,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: pro 3\""
     },
     {
-        "id": "597",
+        "id": "596",
         "name": "O-kroužek 94,92×2,62, EPDM, pro 2″",
         "subtitle": "pro 2\"",
         "price": "33,00 CZK",
@@ -6567,7 +6556,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: pro 2\""
     },
     {
-        "id": "598",
+        "id": "597",
         "name": "O-kroužek, pro šoupě 4″-6″",
         "subtitle": "",
         "price": "49,00 CZK",
@@ -6578,7 +6567,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: "
     },
     {
-        "id": "599",
+        "id": "598",
         "name": "O-kroužek, pro šoupě 8″",
         "subtitle": "",
         "price": "55,00 CZK",
@@ -6589,7 +6578,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: "
     },
     {
-        "id": "600",
+        "id": "599",
         "name": "Páka ovládací šoupěte 4″-5″-6″, těžké provedení, Smeraldo RIV 153",
         "subtitle": "SMERALDO RIV 153, 050153000000",
         "price": "589,00 CZK",
@@ -6600,7 +6589,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: SMERALDO RIV 153, 050153000000"
     },
     {
-        "id": "601",
+        "id": "600",
         "name": "Páka ovládací šoupěte 8″, těžké provedení",
         "subtitle": "",
         "price": "750,00 CZK",
@@ -6611,7 +6600,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: "
     },
     {
-        "id": "602",
+        "id": "601",
         "name": "Páka ovládání šoupěte 4″, 5″, 6″, MZ Art. 0080-0135, velkokapacitní",
         "subtitle": "pro VELKOKAPACITNÍ samovyplachovací šoupata, ARZO0930100000",
         "price": "599,00 CZK",
@@ -6622,7 +6611,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: pro VELKOKAPACITNÍ samovyplachovací šoupata, ARZO0930100000"
     },
     {
-        "id": "603",
+        "id": "602",
         "name": "Pouzdro vodící šoupěte 4″, pro ruční ovládání pákou",
         "subtitle": "",
         "price": "153,00 CZK",
@@ -6633,7 +6622,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: "
     },
     {
-        "id": "604",
+        "id": "603",
         "name": "Pouzdro vodící šoupěte 5-6″, Smeraldo RIV 152",
         "subtitle": "RIV 152 SMERALDO, 050152000000, 9604157200",
         "price": "149,00 CZK",
@@ -6644,7 +6633,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: RIV 152 SMERALDO, 050152000000, 9604157200"
     },
     {
-        "id": "605",
+        "id": "604",
         "name": "Pouzdro vodící šoupěte 8″, pro ruční ovládání pákou",
         "subtitle": "",
         "price": "109,00 CZK",
@@ -6655,7 +6644,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: "
     },
     {
-        "id": "606",
+        "id": "605",
         "name": "Příruba 4″ šoupěte, rozteč 150×150, ocelová, RIV 150 Smeraldo",
         "subtitle": "SMERALDO RIV 150, 050150000016, 9405020058",
         "price": "246,00 CZK",
@@ -6666,7 +6655,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: SMERALDO RIV 150, 050150000016, 9405020058"
     },
     {
-        "id": "607",
+        "id": "606",
         "name": "Příruba 5″ šoupěte, 150×150, ocelová",
         "subtitle": "",
         "price": "225,00 CZK",
@@ -6677,7 +6666,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: "
     },
     {
-        "id": "608",
+        "id": "607",
         "name": "Příruba 6″ šoupěte, rozteč 150×150, ocelová, RIV 150 Smeraldo",
         "subtitle": "SMERALDO RIV 150, 050150000019",
         "price": "249,00 CZK",
@@ -6688,7 +6677,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: SMERALDO RIV 150, 050150000019"
     },
     {
-        "id": "609",
+        "id": "608",
         "name": "Příruba 6″ šoupěte, s nerezovým jádrem, 150×150, ocelová",
         "subtitle": "POUZE PRO ŠOUPĚ S NEREZOVÁM JÁDREM !",
         "price": "379,00 CZK",
@@ -6699,7 +6688,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: POUZE PRO ŠOUPĚ S NEREZOVÁM JÁDREM !"
     },
     {
-        "id": "610",
+        "id": "609",
         "name": "Příruba 8″ šoupěte, 180×180, ocelová",
         "subtitle": "",
         "price": "389,00 CZK",
@@ -6710,7 +6699,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: "
     },
     {
-        "id": "611",
+        "id": "610",
         "name": "Příruba klapky OH100, ocelová",
         "subtitle": "ocelová",
         "price": "360,00 CZK",
@@ -6721,7 +6710,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: ocelová"
     },
     {
-        "id": "612",
+        "id": "611",
         "name": "Příruba klapky OH125, ocelová, kruhová",
         "subtitle": "ocelová - kruhová",
         "price": "895,00 CZK",
@@ -6732,7 +6721,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: ocelová - kruhová"
     },
     {
-        "id": "613",
+        "id": "612",
         "name": "Příruba klapky OH150, ocelová, kruhová",
         "subtitle": "ocelová - kruhová",
         "price": "1 109,00 CZK",
@@ -6743,7 +6732,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: ocelová - kruhová"
     },
     {
-        "id": "614",
+        "id": "613",
         "name": "Příruba klapky OH80, ocelová",
         "subtitle": "ocelová",
         "price": "240,00 CZK",
@@ -6754,7 +6743,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: ocelová"
     },
     {
-        "id": "615",
+        "id": "614",
         "name": "Sifon ø60, L, zinkovaný, dlouhý",
         "subtitle": "LEVÝ VÝVOD",
         "price": "3 660,00 CZK",
@@ -6765,7 +6754,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: LEVÝ VÝVOD"
     },
     {
-        "id": "616",
+        "id": "615",
         "name": "Sifon ø60, P, zinkovaný, dlouhý",
         "subtitle": "PRAVÝ VÝVOD",
         "price": "3 660,00 CZK",
@@ -6776,7 +6765,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: PRAVÝ VÝVOD"
     },
     {
-        "id": "617",
+        "id": "616",
         "name": "Sifon ø60, plastový, DN60, RIV 362 Giada",
         "subtitle": "RIV 362 GIADA, 050362000055",
         "price": "2 969,00 CZK",
@@ -6787,7 +6776,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: RIV 362 GIADA, 050362000055"
     },
     {
-        "id": "618",
+        "id": "617",
         "name": "Sifon ø60, plastový, s výpustným kohoutem, DN60, RIV 337 Ocean",
         "subtitle": "RIV 337 OCEAN, 050337000055",
         "price": "2 879,00 CZK",
@@ -6798,7 +6787,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: RIV 337 OCEAN, 050337000055"
     },
     {
-        "id": "619",
+        "id": "618",
         "name": "Sifon ø80, P, zinkovaný, dlouhý",
         "subtitle": "PRAVÝ VÝVOD",
         "price": "3 990,00 CZK",
@@ -6809,7 +6798,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: PRAVÝ VÝVOD"
     },
     {
-        "id": "620",
+        "id": "619",
         "name": "Sifon ø80, plastový, DN80, RIV 335 Ocean",
         "subtitle": "RIV 335 OCEAN, 050335000061",
         "price": "2 882,00 CZK",
@@ -6820,7 +6809,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: RIV 335 OCEAN, 050335000061"
     },
     {
-        "id": "621",
+        "id": "620",
         "name": "Sifon ø80, plastový, s výpustným kohoutem, DN80, RIV 337 Ocean",
         "subtitle": "RIV 337 OCEAN, 050337000061",
         "price": "3 189,00 CZK",
@@ -6831,7 +6820,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: RIV 337 OCEAN, 050337000061"
     },
     {
-        "id": "622",
+        "id": "621",
         "name": "Šoupě 2″, 2× vnitřní závit 2″, s pákou, rychlouzavírací, RIV 560 Turchese",
         "subtitle": "RIV 560 TURCHESE, 050560000011",
         "price": "1 899,00 CZK",
@@ -6842,7 +6831,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: RIV 560 TURCHESE, 050560000011"
     },
     {
-        "id": "623",
+        "id": "622",
         "name": "Šoupě 2″1/2, 2× vnitřní závit 2″1/2, s pákou, rychlouzavírací, RIV 560 Turchese",
         "subtitle": "RIV 560 TURCHESE, 050560000013",
         "price": "2 129,00 CZK",
@@ -6853,7 +6842,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: RIV 560 TURCHESE, 050560000013"
     },
     {
-        "id": "624",
+        "id": "623",
         "name": "Šoupě 3″, 2× vnitřní závit 3″, s pákou, rychlouzavírací, RIV 560 Turchese",
         "subtitle": "RIV 560 TURCHESE, 050560000014",
         "price": "2 629,00 CZK",
@@ -6864,7 +6853,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: RIV 560 TURCHESE, 050560000014"
     },
     {
-        "id": "625",
+        "id": "624",
         "name": "Šoupě 4″, 2 příruby, 150×150, včetně o-kroužků, RIV 10 Perla",
         "subtitle": "PERLA RIV 10, 050010000016",
         "price": "2 959,00 CZK",
@@ -6875,7 +6864,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: PERLA RIV 10, 050010000016"
     },
     {
-        "id": "626",
+        "id": "625",
         "name": "Šoupě 4″, 2× vnitřní závit 4″, s pákou, rychlouzavírací, RIV 560 Turchese",
         "subtitle": "RIV 560 TURCHESE, 050560000016",
         "price": "3 159,00 CZK",
@@ -6886,7 +6875,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: RIV 560 TURCHESE, 050560000016"
     },
     {
-        "id": "627",
+        "id": "626",
         "name": "Šoupě 4″, rychlouzavírací, 2× vnitřní závit 4″",
         "subtitle": "mosazné",
         "price": "2 989,00 CZK",
@@ -6897,7 +6886,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: mosazné"
     },
     {
-        "id": "628",
+        "id": "627",
         "name": "Šoupě 5″, 2 příruby, 150×150, včetně o-kroužků, RIV 10 Perla",
         "subtitle": "PERLA RIV 10, 050010000018, 9700716500",
         "price": "3 379,00 CZK",
@@ -6908,7 +6897,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: PERLA RIV 10, 050010000018, 9700716500"
     },
     {
-        "id": "629",
+        "id": "628",
         "name": "Šoupě 5″, rychlouzavírací, 2× vnitřní závit 5″, klínové",
         "subtitle": "mosazné",
         "price": "2 689,00 CZK",
@@ -6919,7 +6908,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: mosazné"
     },
     {
-        "id": "630",
+        "id": "629",
         "name": "Šoupě 6″, 2 příruby, 150×150, včetně o-kroužků, RIV 10 Perla",
         "subtitle": "PERLA RIV 10, 050010000919",
         "price": "3 299,00 CZK",
@@ -6930,7 +6919,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: PERLA RIV 10, 050010000919"
     },
     {
-        "id": "631",
+        "id": "630",
         "name": "Šoupě 6″, nerezové jádro, rychlouzavírací, s přírubou 150×150, včetně 2 o-kroužků",
         "subtitle": "mosazné s NEREZOVÝM JÁDREM",
         "price": "7 249,00 CZK",
@@ -6941,7 +6930,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: mosazné s NEREZOVÝM JÁDREM"
     },
     {
-        "id": "632",
+        "id": "631",
         "name": "Šoupě 6″, rychlouzavírací, 2× vnitřní závit 6″",
         "subtitle": "mosazné",
         "price": "4 429,00 CZK",
@@ -6952,7 +6941,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: mosazné"
     },
     {
-        "id": "633",
+        "id": "632",
         "name": "Šoupě 6″, velkokapacitní, 2 příruby, 150×150, včetně o-kroužků, RIV 30 Centurion",
         "subtitle": "CENTURION RIV 30, 050030000019",
         "price": "4 841,00 CZK",
@@ -6963,7 +6952,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: CENTURION RIV 30, 050030000019"
     },
     {
-        "id": "634",
+        "id": "633",
         "name": "Šoupě 8″, 2 příruby, 180×180, včetně o-kroužků, RIV 10 Perla",
         "subtitle": "PERLA RIV 10, 050010000020,97001008",
         "price": "7 892,00 CZK",
@@ -6974,7 +6963,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: PERLA RIV 10, 050010000020,97001008"
     },
     {
-        "id": "635",
+        "id": "634",
         "name": "Šoupě, nerezové jádro, 10″, rychlouzavírací",
         "subtitle": "s NEREZOVÝM JÁDREM",
         "price": "25 729,00 CZK",
@@ -6985,7 +6974,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: s NEREZOVÝM JÁDREM"
     },
     {
-        "id": "636",
+        "id": "635",
         "name": "Šoupě, nerezové jádro, 4″, nožové, rychlouzavírací, s přírubou 120×120, včetně 2 o-kroužků",
         "subtitle": "mosazné s NEREZOVÝM JÁDREM",
         "price": "5 999,00 CZK",
@@ -6996,7 +6985,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: mosazné s NEREZOVÝM JÁDREM"
     },
     {
-        "id": "637",
+        "id": "636",
         "name": "Lamela vývěvy 340×42×1,8 mm, kovová (R200)",
         "subtitle": "KOVOVÁ",
         "price": "199,00 CZK",
@@ -7007,7 +6996,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Vývěvy - díly, mazání\nČíslo dílu: KOVOVÁ"
     },
     {
-        "id": "638",
+        "id": "637",
         "name": "Pero vývěvy HTS 100, 10×8×55",
         "subtitle": "",
         "price": "26,00 CZK",
@@ -7018,7 +7007,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Vývěvy - díly, mazání\nČíslo dílu: "
     },
     {
-        "id": "639",
+        "id": "638",
         "name": "Pero vývěvy R200, 10×8×65",
         "subtitle": "",
         "price": "26,00 CZK",
@@ -7029,7 +7018,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Vývěvy - díly, mazání\nČíslo dílu: "
     },
     {
-        "id": "640",
+        "id": "639",
         "name": "Pero vývěvy R200, chlazené, 10×8×80",
         "subtitle": "",
         "price": "27,00 CZK",
@@ -7040,7 +7029,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Vývěvy - díly, mazání\nČíslo dílu: "
     },
     {
-        "id": "641",
+        "id": "640",
         "name": "Těsnění bočního víka vývěvy",
         "subtitle": "",
         "price": "43,00 CZK",
@@ -7051,7 +7040,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Vývěvy - díly, mazání\nČíslo dílu: "
     },
     {
-        "id": "642",
+        "id": "641",
         "name": "Těsnění víka statoru vývěvy R200",
         "subtitle": "přední i zadní víko vývěvy",
         "price": "49,00 CZK",
@@ -7062,7 +7051,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Vývěvy - díly, mazání\nČíslo dílu: přední i zadní víko vývěvy"
     },
     {
-        "id": "643",
+        "id": "642",
         "name": "Trubka mazání R200, sada",
         "subtitle": "",
         "price": "1 875,00 CZK",
@@ -7073,7 +7062,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Vývěvy - díly, mazání\nČíslo dílu: "
     },
     {
-        "id": "644",
+        "id": "643",
         "name": "Víko kompresoru R200",
         "subtitle": "",
         "price": "1 500,00 CZK",
@@ -7084,7 +7073,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Vývěvy - díly, mazání\nČíslo dílu: "
     },
     {
-        "id": "645",
+        "id": "644",
         "name": "Brzdová čelist HTS 100, HW 60, šíře 120 mm, hliníková, úplná, obložená",
         "subtitle": "1 kus, materiál AL",
         "price": "2 799,00 CZK",
@@ -7095,7 +7084,7 @@
         "description": "Kategorie: FEKÁL HTS 100 / Brzdy\nČíslo dílu: 1 kus, materiál AL"
     },
     {
-        "id": "646",
+        "id": "645",
         "name": "Brzdová čelist HTS 100, HW 80, šíře 140 mm, hliníková, obložená",
         "subtitle": "1 kus, materiál AL",
         "price": "3 625,00 CZK",
@@ -7106,7 +7095,7 @@
         "description": "Kategorie: FEKÁL HTS 100 / Brzdy\nČíslo dílu: 1 kus, materiál AL"
     },
     {
-        "id": "647",
+        "id": "646",
         "name": "Brzdový buben HTS 100, HW 80, pro čelist 120 i 140 mm",
         "subtitle": "99A-27, 99A27, pro čelist 120 i 140 mm",
         "price": "3 839,00 CZK",
@@ -7117,7 +7106,7 @@
         "description": "Kategorie: FEKÁL HTS 100 / Brzdy\nČíslo dílu: 99A-27, 99A27, pro čelist 120 i 140 mm"
     },
     {
-        "id": "648",
+        "id": "647",
         "name": "Brzdový klíč HTS 100, délka celková 375 mm",
         "subtitle": "74A-8",
         "price": "2 380,00 CZK",
@@ -7128,7 +7117,7 @@
         "description": "Kategorie: FEKÁL HTS 100 / Brzdy\nČíslo dílu: 74A-8"
     },
     {
-        "id": "649",
+        "id": "648",
         "name": "Destička plechová čelisti, HTS 100, HW 80",
         "subtitle": "",
         "price": "169,00 CZK",
@@ -7139,7 +7128,7 @@
         "description": "Kategorie: FEKÁL HTS 100 / Brzdy\nČíslo dílu: "
     },
     {
-        "id": "650",
+        "id": "649",
         "name": "Páka brzdového klíče HTS 100, včetně ozubeného kroužku",
         "subtitle": "",
         "price": "2 389,00 CZK",
@@ -7150,7 +7139,7 @@
         "description": "Kategorie: FEKÁL HTS 100 / Brzdy\nČíslo dílu: "
     },
     {
-        "id": "651",
+        "id": "650",
         "name": "Pouzdro brzdové čelisti HTS 100, HW 60, HW 80, Pertinax",
         "subtitle": "32x36/60 PERTINAX, E03-55",
         "price": "239,00 CZK",
@@ -7161,7 +7150,7 @@
         "description": "Kategorie: FEKÁL HTS 100 / Brzdy\nČíslo dílu: 32x36/60 PERTINAX, E03-55"
     },
     {
-        "id": "652",
+        "id": "651",
         "name": "Pouzdro brzdového klíče HW, ocelové, 32×42×36, HTS 100",
         "subtitle": "32x42x36 HTS100, HW",
         "price": "329,00 CZK",
@@ -7172,7 +7161,7 @@
         "description": "Kategorie: FEKÁL HTS 100 / Brzdy\nČíslo dílu: 32x42x36 HTS100, HW"
     },
     {
-        "id": "653",
+        "id": "652",
         "name": "Pouzdro brzdového klíče HW, ocelové, 40×46×60, HTS 100",
         "subtitle": "40x46x60 HTS 100, HW",
         "price": "412,00 CZK",
@@ -7183,7 +7172,7 @@
         "description": "Kategorie: FEKÁL HTS 100 / Brzdy\nČíslo dílu: 40x46x60 HTS 100, HW"
     },
     {
-        "id": "654",
+        "id": "653",
         "name": "Pružina čelistí HTS 100, HW 80, pro brzdu 400/120 a 400/140",
         "subtitle": "99-A21, 99A21",
         "price": "439,00 CZK",
@@ -7194,7 +7183,7 @@
         "description": "Kategorie: FEKÁL HTS 100 / Brzdy\nČíslo dílu: 99-A21, 99A21"
     },
     {
-        "id": "655",
+        "id": "654",
         "name": "Pružina zažná brzdové páky HTS 100, HW 60, HW 80",
         "subtitle": "14/001/251",
         "price": "239,00 CZK",
@@ -7205,7 +7194,7 @@
         "description": "Kategorie: FEKÁL HTS 100 / Brzdy\nČíslo dílu: 14/001/251"
     },
     {
-        "id": "656",
+        "id": "655",
         "name": "Katalog náhradních dílů HTS 100.27",
         "subtitle": "",
         "price": "182,00 CZK",
@@ -7216,7 +7205,7 @@
         "description": "Kategorie: FEKÁL HTS 100 / Katalog\nČíslo dílu: "
     },
     {
-        "id": "657",
+        "id": "656",
         "name": "Dýza s lopatkou 5″, M-díl, Perrot, gumová tryska",
         "subtitle": "",
         "price": "4 285,00 CZK",
@@ -7227,7 +7216,7 @@
         "description": "Kategorie: FEKÁL HTS 100 / Koncovky PERROT\nČíslo dílu: "
     },
     {
-        "id": "658",
+        "id": "657",
         "name": "Dýza s lopatkou 6″, M-díl, Perrot, gumová tryska",
         "subtitle": "",
         "price": "4 782,00 CZK",
@@ -7238,7 +7227,7 @@
         "description": "Kategorie: FEKÁL HTS 100 / Koncovky PERROT\nČíslo dílu: "
     },
     {
-        "id": "659",
+        "id": "658",
         "name": "Dýza s lopatkou 6″, V-díl, Perrot, gumová tryska",
         "subtitle": "",
         "price": "3 986,00 CZK",
@@ -7249,7 +7238,7 @@
         "description": "Kategorie: FEKÁL HTS 100 / Koncovky PERROT\nČíslo dílu: "
     },
     {
-        "id": "660",
+        "id": "659",
         "name": "Koleno 90°, 6″ V-díl 159/152, násadec na hadici, Perrot",
         "subtitle": "V-díl 6\" 159/152 násadec na hadici",
         "price": "1 579,00 CZK",
@@ -7260,7 +7249,7 @@
         "description": "Kategorie: FEKÁL HTS 100 / Koncovky PERROT\nČíslo dílu: V-díl 6\" 159/152 násadec na hadici"
     },
     {
-        "id": "661",
+        "id": "660",
         "name": "Koncovka M-díl 4″, 110/108, Perrot",
         "subtitle": "",
         "price": "709,00 CZK",
@@ -7271,7 +7260,7 @@
         "description": "Kategorie: FEKÁL HTS 100 / Koncovky PERROT\nČíslo dílu: "
     },
     {
-        "id": "662",
+        "id": "661",
         "name": "Koncovka M-díl 5″, 133/125, HTS 100, Perrot",
         "subtitle": "",
         "price": "1 269,00 CZK",
@@ -7282,7 +7271,7 @@
         "description": "Kategorie: FEKÁL HTS 100 / Koncovky PERROT\nČíslo dílu: "
     },
     {
-        "id": "663",
+        "id": "662",
         "name": "Koncovka M-díl 6″, 159/125, redukovaná, Perrot",
         "subtitle": "",
         "price": "1 399,00 CZK",
@@ -7293,7 +7282,7 @@
         "description": "Kategorie: FEKÁL HTS 100 / Koncovky PERROT\nČíslo dílu: "
     },
     {
-        "id": "664",
+        "id": "663",
         "name": "Koncovka M-díl 6″, 159/150, Perrot",
         "subtitle": "",
         "price": "989,00 CZK",
@@ -7304,7 +7293,7 @@
         "description": "Kategorie: FEKÁL HTS 100 / Koncovky PERROT\nČíslo dílu: "
     },
     {
-        "id": "665",
+        "id": "664",
         "name": "Koncovka M-díl 8″, 216/200, Perrot",
         "subtitle": "",
         "price": "2 600,00 CZK",
@@ -7315,7 +7304,7 @@
         "description": "Kategorie: FEKÁL HTS 100 / Koncovky PERROT\nČíslo dílu: "
     },
     {
-        "id": "666",
+        "id": "665",
         "name": "Koncovka redukce, Perrot 5″ háky / Malacky s rychlouzávěrem (110/105)",
         "subtitle": "PERROT M-díl 5\" // MALACKY s háky (110/105) - zinkováno",
         "price": "2 599,00 CZK",
@@ -7326,7 +7315,7 @@
         "description": "Kategorie: FEKÁL HTS 100 / Koncovky PERROT\nČíslo dílu: PERROT M-díl 5\" // MALACKY s háky (110/105) - zinkováno"
     },
     {
-        "id": "667",
+        "id": "666",
         "name": "Koncovka redukce, Perrot 6″ háky / Malacky s nýty (110/105)",
         "subtitle": "PERROT M-díl 6\" // MALACKY s nýty (110/105) - zinkováno",
         "price": "2 860,00 CZK",
@@ -7337,7 +7326,7 @@
         "description": "Kategorie: FEKÁL HTS 100 / Koncovky PERROT\nČíslo dílu: PERROT M-díl 6\" // MALACKY s nýty (110/105) - zinkováno"
     },
     {
-        "id": "668",
+        "id": "667",
         "name": "Koncovka redukce, Perrot 6″ háky / Malacky s rychlouzávěrem (110/105)",
         "subtitle": "PERROT M-díl 6\" // MALACKY s háky (110/105) - zinkováno",
         "price": "2 930,00 CZK",
@@ -7348,7 +7337,7 @@
         "description": "Kategorie: FEKÁL HTS 100 / Koncovky PERROT\nČíslo dílu: PERROT M-díl 6\" // MALACKY s háky (110/105) - zinkováno"
     },
     {
-        "id": "669",
+        "id": "668",
         "name": "Koncovka redukce, Perrot 6″ kužel / Malacky s nýty (110/105)",
         "subtitle": "PERROT V-díl 6\" // MALACKY s nýty (110/105) - zinkovaná",
         "price": "1 579,00 CZK",
@@ -7359,7 +7348,7 @@
         "description": "Kategorie: FEKÁL HTS 100 / Koncovky PERROT\nČíslo dílu: PERROT V-díl 6\" // MALACKY s nýty (110/105) - zinkovaná"
     },
     {
-        "id": "670",
+        "id": "669",
         "name": "Koncovka redukce, Perrot 6″ kužel / Malacky s rychlouzávěrem (110/105)",
         "subtitle": "PERROT V-díl 6\" // MALACKY s háky (110/105) - zinkováno",
         "price": "1 855,00 CZK",
@@ -7370,7 +7359,7 @@
         "description": "Kategorie: FEKÁL HTS 100 / Koncovky PERROT\nČíslo dílu: PERROT V-díl 6\" // MALACKY s háky (110/105) - zinkováno"
     },
     {
-        "id": "671",
+        "id": "670",
         "name": "Koncovka V-díl 4″, 108, s přírubou 150×150, Perrot",
         "subtitle": "",
         "price": "849,00 CZK",
@@ -7381,7 +7370,7 @@
         "description": "Kategorie: FEKÁL HTS 100 / Koncovky PERROT\nČíslo dílu: "
     },
     {
-        "id": "672",
+        "id": "671",
         "name": "Koncovka V-díl 4″, 108/102, Perrot",
         "subtitle": "",
         "price": "479,00 CZK",
@@ -7392,7 +7381,7 @@
         "description": "Kategorie: FEKÁL HTS 100 / Koncovky PERROT\nČíslo dílu: "
     },
     {
-        "id": "673",
+        "id": "672",
         "name": "Koncovka V-díl 4″, 110/108, Perrot",
         "subtitle": "",
         "price": "409,00 CZK",
@@ -7403,7 +7392,7 @@
         "description": "Kategorie: FEKÁL HTS 100 / Koncovky PERROT\nČíslo dílu: "
     },
     {
-        "id": "674",
+        "id": "673",
         "name": "Koncovka V-díl 5″, 133 mm, s přírubou 150×150, Perrot",
         "subtitle": "",
         "price": "969,00 CZK",
@@ -7414,7 +7403,7 @@
         "description": "Kategorie: FEKÁL HTS 100 / Koncovky PERROT\nČíslo dílu: "
     },
     {
-        "id": "675",
+        "id": "674",
         "name": "Koncovka V-díl 5″, 133/125, HTS 100, Perrot",
         "subtitle": "",
         "price": "589,00 CZK",
@@ -7425,7 +7414,7 @@
         "description": "Kategorie: FEKÁL HTS 100 / Koncovky PERROT\nČíslo dílu: "
     },
     {
-        "id": "676",
+        "id": "675",
         "name": "Koncovka V-díl 5″, 159/125, redukovaná, Perrot",
         "subtitle": "",
         "price": "869,00 CZK",
@@ -7436,7 +7425,7 @@
         "description": "Kategorie: FEKÁL HTS 100 / Koncovky PERROT\nČíslo dílu: "
     },
     {
-        "id": "677",
+        "id": "676",
         "name": "Koncovka V-díl 6″, 159 mm, s přírubou 150×150, Perrot",
         "subtitle": "",
         "price": "825,00 CZK",
@@ -7447,7 +7436,7 @@
         "description": "Kategorie: FEKÁL HTS 100 / Koncovky PERROT\nČíslo dílu: "
     },
     {
-        "id": "678",
+        "id": "677",
         "name": "Koncovka V-díl 6″, 159/150, Perrot",
         "subtitle": "",
         "price": "349,00 CZK",
@@ -7458,7 +7447,7 @@
         "description": "Kategorie: FEKÁL HTS 100 / Koncovky PERROT\nČíslo dílu: "
     },
     {
-        "id": "679",
+        "id": "678",
         "name": "Koncovka V-díl 8″, 216/200, Perrot",
         "subtitle": "",
         "price": "1 690,00 CZK",
@@ -7469,7 +7458,7 @@
         "description": "Kategorie: FEKÁL HTS 100 / Koncovky PERROT\nČíslo dílu: "
     },
     {
-        "id": "680",
+        "id": "679",
         "name": "Koš sací, s klapkou, 150/6″, pozinkovaný, 180 m³/h, patní ventil",
         "subtitle": "",
         "price": "2 275,00 CZK",
@@ -7480,7 +7469,7 @@
         "description": "Kategorie: FEKÁL HTS 100 / Koncovky PERROT\nČíslo dílu: "
     },
     {
-        "id": "681",
+        "id": "680",
         "name": "Rychloupínák 6″, koncovka M-díl 159, s přírubou, rozteč 150×150, Perrot",
         "subtitle": "PERROT",
         "price": "2 369,00 CZK",
@@ -7491,7 +7480,7 @@
         "description": "Kategorie: FEKÁL HTS 100 / Koncovky PERROT\nČíslo dílu: PERROT"
     },
     {
-        "id": "682",
+        "id": "681",
         "name": "Rychloupínák 8″, koncovka M-díl 216, s přírubou, rozteč 180×180, Perrot",
         "subtitle": "PERROT",
         "price": "7 499,00 CZK",
@@ -7502,7 +7491,7 @@
         "description": "Kategorie: FEKÁL HTS 100 / Koncovky PERROT\nČíslo dílu: PERROT"
     },
     {
-        "id": "683",
+        "id": "682",
         "name": "Víčko zadního uzávěru 4″, s pákou uzavírací, Perrot",
         "subtitle": "M-díl 4\" 110/108 HTS 100 4\"",
         "price": "833,00 CZK",
@@ -7513,7 +7502,7 @@
         "description": "Kategorie: FEKÁL HTS 100 / Koncovky PERROT\nČíslo dílu: M-díl 4\" 110/108 HTS 100 4\""
     },
     {
-        "id": "684",
+        "id": "683",
         "name": "Víčko zadního uzávěru 5″ HTS 100, s pákou uzavírací, Perrot",
         "subtitle": "M-díl 5\" 133/125 HTS 100 5\"",
         "price": "1 331,00 CZK",
@@ -7524,7 +7513,7 @@
         "description": "Kategorie: FEKÁL HTS 100 / Koncovky PERROT\nČíslo dílu: M-díl 5\" 133/125 HTS 100 5\""
     },
     {
-        "id": "685",
+        "id": "684",
         "name": "Víčko zadního uzávěru 6″, s pákou uzavírací, Perrot",
         "subtitle": "M-díl 6\" 159/150 6\"",
         "price": "1 389,00 CZK",
@@ -7535,7 +7524,7 @@
         "description": "Kategorie: FEKÁL HTS 100 / Koncovky PERROT\nČíslo dílu: M-díl 6\" 159/150 6\""
     },
     {
-        "id": "686",
+        "id": "685",
         "name": "Oko závěsné HTS 100, jednostranné, rovné, nový typ",
         "subtitle": "rozteč 130x115 Scharmüller 00.655.51.0-A02, oko tažné, oko závěsné",
         "price": "8 811,00 CZK",
@@ -7546,7 +7535,7 @@
         "description": "Kategorie: FEKÁL HTS 100 / Oko tažné\nČíslo dílu: rozteč 130x115 Scharmüller 00.655.51.0-A02, oko tažné, oko závěsné"
     },
     {
-        "id": "687",
+        "id": "686",
         "name": "Hydromotor HTS 100, tisícihran, nový, ORSTA 32/20",
         "subtitle": "",
         "price": "13 000,00 CZK",
@@ -7557,7 +7546,7 @@
         "description": "Kategorie: FEKÁL HTS 100 / Pohon vývěvy a díly vývěvy\nČíslo dílu: "
     },
     {
-        "id": "688",
+        "id": "687",
         "name": "Lamela vývěvy 265×42×5,5 mm, Pertinax, fekál HTS 100",
         "subtitle": "PERTINAX",
         "price": "155,00 CZK",
@@ -7568,7 +7557,7 @@
         "description": "Kategorie: FEKÁL HTS 100 / Pohon vývěvy a díly vývěvy\nČíslo dílu: PERTINAX"
     },
     {
-        "id": "689",
+        "id": "688",
         "name": "Pastorek vývěvy HTS 100, malý, 21 zubů",
         "subtitle": "",
         "price": "399,00 CZK",
@@ -7579,7 +7568,7 @@
         "description": "Kategorie: FEKÁL HTS 100 / Pohon vývěvy a díly vývěvy\nČíslo dílu: "
     },
     {
-        "id": "690",
+        "id": "689",
         "name": "Pastorek vývěvy HTS 100, velký, 74 zubů",
         "subtitle": "",
         "price": "629,00 CZK",
@@ -7590,7 +7579,7 @@
         "description": "Kategorie: FEKÁL HTS 100 / Pohon vývěvy a díly vývěvy\nČíslo dílu: "
     },
     {
-        "id": "691",
+        "id": "690",
         "name": "Spojka pohonu vývěvy HTS 100, kužel, kompletní",
         "subtitle": "skládá se ze 3 dílů",
         "price": "2 690,00 CZK",
@@ -7601,7 +7590,7 @@
         "description": "Kategorie: FEKÁL HTS 100 / Pohon vývěvy a díly vývěvy\nČíslo dílu: skládá se ze 3 dílů"
     },
     {
-        "id": "692",
+        "id": "691",
         "name": "Spojka pohonu vývěvy HTS 100, šestidrážka, kompletní",
         "subtitle": "skládá se ze 3 dílů",
         "price": "2 690,00 CZK",
@@ -7612,7 +7601,7 @@
         "description": "Kategorie: FEKÁL HTS 100 / Pohon vývěvy a díly vývěvy\nČíslo dílu: skládá se ze 3 dílů"
     },
     {
-        "id": "693",
+        "id": "692",
         "name": "Spojka pohonu vývěvy HTS 100, tisícihran, kompletní",
         "subtitle": "skládá se ze 3 dílů",
         "price": "3 299,00 CZK",
@@ -7623,7 +7612,7 @@
         "description": "Kategorie: FEKÁL HTS 100 / Pohon vývěvy a díly vývěvy\nČíslo dílu: skládá se ze 3 dílů"
     },
     {
-        "id": "694",
+        "id": "693",
         "name": "Vložka do spojky pohonu vývěvy HTS 100, pro provedení šestidrážka, kužel, tisícihran",
         "subtitle": "",
         "price": "80,00 CZK",
@@ -7634,7 +7623,7 @@
         "description": "Kategorie: FEKÁL HTS 100 / Pohon vývěvy a díly vývěvy\nČíslo dílu: "
     },
     {
-        "id": "695",
+        "id": "694",
         "name": "Náboj stavoznaku (hladinoznaku) HTS 100, nerez",
         "subtitle": "NEREZ",
         "price": "956,00 CZK",
@@ -7645,7 +7634,7 @@
         "description": "Kategorie: FEKÁL HTS 100 / Stavoznak\nČíslo dílu: NEREZ"
     },
     {
-        "id": "696",
+        "id": "695",
         "name": "Stavoznak HTS 100, varianta I",
         "subtitle": "sestava 9702129 stavoznak Malacky + 923250680060 náboj stavoznaku HTS NEREZ",
         "price": "2 736,00 CZK",
@@ -7656,7 +7645,7 @@
         "description": "Kategorie: FEKÁL HTS 100 / Stavoznak\nČíslo dílu: sestava 9702129 stavoznak Malacky + 923250680060 náboj stavoznaku HTS NEREZ"
     },
     {
-        "id": "697",
+        "id": "696",
         "name": "Stavoznak HTS 100, varianta II",
         "subtitle": "sestava 952060121003 víko stavoznaku HTS 100 + 9702129 stavoznak Malacky + 923250680060 náboj stavoznaku HTS 100 NEREZ, včetně těsnění",
         "price": "5 586,00 CZK",
@@ -7667,7 +7656,7 @@
         "description": "Kategorie: FEKÁL HTS 100 / Stavoznak\nČíslo dílu: sestava 952060121003 víko stavoznaku HTS 100 + 9702129 stavoznak Malacky + 923250680060 náboj stavoznaku HTS 100 NEREZ, včetně těsnění"
     },
     {
-        "id": "698",
+        "id": "697",
         "name": "Víko stavoznaku HTS 100, s přírubou, upravené",
         "subtitle": "",
         "price": "2 850,00 CZK",
@@ -7678,7 +7667,7 @@
         "description": "Kategorie: FEKÁL HTS 100 / Stavoznak\nČíslo dílu: "
     },
     {
-        "id": "699",
+        "id": "698",
         "name": "Čep pružiny horního uzávěru HTS 100",
         "subtitle": "500601100001, pozice 2.",
         "price": "968,00 CZK",
@@ -7689,7 +7678,7 @@
         "description": "Kategorie: FEKÁL HTS 100 / Uzávěr horní\nČíslo dílu: 500601100001, pozice 2."
     },
     {
-        "id": "700",
+        "id": "699",
         "name": "Držák ramene horního uzávěru HTS 100",
         "subtitle": "5006010100011, pozice 3.",
         "price": "2 500,00 CZK",
@@ -7700,7 +7689,7 @@
         "description": "Kategorie: FEKÁL HTS 100 / Uzávěr horní\nČíslo dílu: 5006010100011, pozice 3."
     },
     {
-        "id": "701",
+        "id": "700",
         "name": "Příčka napínací horního uzávěru HTS 100, pozice 6, 7, 9",
         "subtitle": "pozice 6.,7.,9.",
         "price": "2 500,00 CZK",
@@ -7711,7 +7700,7 @@
         "description": "Kategorie: FEKÁL HTS 100 / Uzávěr horní\nČíslo dílu: pozice 6.,7.,9."
     },
     {
-        "id": "702",
+        "id": "701",
         "name": "Příruba horního uzávěru HTS 100, s límcem, pozinkováno",
         "subtitle": "50060020001, pozice 10.",
         "price": "7 990,00 CZK",
@@ -7722,7 +7711,7 @@
         "description": "Kategorie: FEKÁL HTS 100 / Uzávěr horní\nČíslo dílu: 50060020001, pozice 10."
     },
     {
-        "id": "703",
+        "id": "702",
         "name": "Pružina vrchlíku HTS 100",
         "subtitle": "500601000101, pozice 5.",
         "price": "2 839,00 CZK",
@@ -7733,7 +7722,7 @@
         "description": "Kategorie: FEKÁL HTS 100 / Uzávěr horní\nČíslo dílu: 500601000101, pozice 5."
     },
     {
-        "id": "704",
+        "id": "703",
         "name": "Rameno horního uzávěru HTS 100",
         "subtitle": "500601020001, pozice 4.",
         "price": "2 500,00 CZK",
@@ -7744,7 +7733,7 @@
         "description": "Kategorie: FEKÁL HTS 100 / Uzávěr horní\nČíslo dílu: 500601020001, pozice 4."
     },
     {
-        "id": "705",
+        "id": "704",
         "name": "Těsnění horního víka HTS 100, profil U",
         "subtitle": "1420450043",
         "price": "1 599,00 CZK",
@@ -7755,7 +7744,7 @@
         "description": "Kategorie: FEKÁL HTS 100 / Uzávěr horní\nČíslo dílu: 1420450043"
     },
     {
-        "id": "706",
+        "id": "705",
         "name": "Těsnění vrchlíku HTS 100, děrované",
         "subtitle": "500200000601, pozice 11.",
         "price": "1 499,00 CZK",
@@ -7766,7 +7755,7 @@
         "description": "Kategorie: FEKÁL HTS 100 / Uzávěr horní\nČíslo dílu: 500200000601, pozice 11."
     },
     {
-        "id": "707",
+        "id": "706",
         "name": "Uzávěr horní, kompletní, HTS 100",
         "subtitle": "",
         "price": "21 380,00 CZK",
@@ -7777,7 +7766,7 @@
         "description": "Kategorie: FEKÁL HTS 100 / Uzávěr horní\nČíslo dílu: "
     },
     {
-        "id": "708",
+        "id": "707",
         "name": "Vrchlík, HTS 100, pozinkovaný, průměr 430 mm",
         "subtitle": "500600200001, pozice 8.",
         "price": "2 140,00 CZK",
@@ -7788,7 +7777,7 @@
         "description": "Kategorie: FEKÁL HTS 100 / Uzávěr horní\nČíslo dílu: 500600200001, pozice 8."
     },
     {
-        "id": "709",
+        "id": "708",
         "name": "Manovakuometr ø100, -1/+3 bar, kovový s glycerínem, závit G1/2″ s redukcí na M20×1,5",
         "subtitle": "závit  G 1/2\" - dodáváno včetně redukce na M20x1,5, 903312000 za plastové provedení",
         "price": "629,00 CZK",
@@ -7799,7 +7788,7 @@
         "description": "Kategorie: FEKÁL HTS 100 / Uzávěr plovákový\nČíslo dílu: závit  G 1/2\" - dodáváno včetně redukce na M20x1,5, 903312000 za plastové provedení"
     },
     {
-        "id": "710",
+        "id": "709",
         "name": "Matice s okem M16, víko plovákového uzávěru HTS 100",
         "subtitle": "závit M16",
         "price": "65,00 CZK",
@@ -7810,7 +7799,7 @@
         "description": "Kategorie: FEKÁL HTS 100 / Uzávěr plovákový\nČíslo dílu: závit M16"
     },
     {
-        "id": "711",
+        "id": "710",
         "name": "Šroub víka plovákového uzávěru HTS 100, M16",
         "subtitle": "závit M16",
         "price": "140,00 CZK",
@@ -7821,7 +7810,7 @@
         "description": "Kategorie: FEKÁL HTS 100 / Uzávěr plovákový\nČíslo dílu: závit M16"
     },
     {
-        "id": "712",
+        "id": "711",
         "name": "Těsnění plovákového uzávěru HTS 100",
         "subtitle": "80x190/5 mm 4 otvory 10 mm rk 160 mm",
         "price": "89,00 CZK",
@@ -7832,7 +7821,7 @@
         "description": "Kategorie: FEKÁL HTS 100 / Uzávěr plovákový\nČíslo dílu: 80x190/5 mm 4 otvory 10 mm rk 160 mm"
     },
     {
-        "id": "713",
+        "id": "712",
         "name": "Těsnění víka plovákového uzávěru i víka stavoznaku HTS 100, gumové",
         "subtitle": "230x260/15 síla 6 mm",
         "price": "89,00 CZK",
@@ -7843,7 +7832,7 @@
         "description": "Kategorie: FEKÁL HTS 100 / Uzávěr plovákový\nČíslo dílu: 230x260/15 síla 6 mm"
     },
     {
-        "id": "714",
+        "id": "713",
         "name": "Uzávěr plovákový HTS 100",
         "subtitle": "",
         "price": "2 990,00 CZK",
@@ -7854,7 +7843,7 @@
         "description": "Kategorie: FEKÁL HTS 100 / Uzávěr plovákový\nČíslo dílu: "
     },
     {
-        "id": "715",
+        "id": "714",
         "name": "Víko plovákového uzávěru HTS 100, s kolenem, včetně šroubů a matic s okem",
         "subtitle": "5108 0001 00 0 1,510800010001",
         "price": "2 650,00 CZK",
@@ -7865,7 +7854,7 @@
         "description": "Kategorie: FEKÁL HTS 100 / Uzávěr plovákový\nČíslo dílu: 5108 0001 00 0 1,510800010001"
     },
     {
-        "id": "716",
+        "id": "715",
         "name": "Kroužek těsnicí zadního uzávěru HTS 100, textit, 135×160/18",
         "subtitle": "textit 135x160/18, 520101000201",
         "price": "195,00 CZK",
@@ -7876,7 +7865,7 @@
         "description": "Kategorie: FEKÁL HTS 100 / Uzávěr zadní\nČíslo dílu: textit 135x160/18, 520101000201"
     },
     {
-        "id": "717",
+        "id": "716",
         "name": "Matice s okem M20, zadní uzávěr HTS 100",
         "subtitle": "závit M20",
         "price": "79,00 CZK",
@@ -7887,7 +7876,7 @@
         "description": "Kategorie: FEKÁL HTS 100 / Uzávěr zadní\nČíslo dílu: závit M20"
     },
     {
-        "id": "718",
+        "id": "717",
         "name": "O-kroužek 20×3",
         "subtitle": "",
         "price": "2,00 CZK",
@@ -7898,7 +7887,7 @@
         "description": "Kategorie: FEKÁL HTS 100 / Uzávěr zadní\nČíslo dílu: "
     },
     {
-        "id": "719",
+        "id": "718",
         "name": "Páka HTS 100",
         "subtitle": "520101010001",
         "price": "465,00 CZK",
@@ -7909,7 +7898,7 @@
         "description": "Kategorie: FEKÁL HTS 100 / Uzávěr zadní\nČíslo dílu: 520101010001"
     },
     {
-        "id": "720",
+        "id": "719",
         "name": "Páka s hřídelí, HTS 100",
         "subtitle": "520101020001",
         "price": "588,00 CZK",
@@ -7920,7 +7909,7 @@
         "description": "Kategorie: FEKÁL HTS 100 / Uzávěr zadní\nČíslo dílu: 520101020001"
     },
     {
-        "id": "721",
+        "id": "720",
         "name": "Pouzdro páky zadního uzávěru HTS 100, textit",
         "subtitle": "textit 25x32/25",
         "price": "77,00 CZK",
@@ -7931,7 +7920,7 @@
         "description": "Kategorie: FEKÁL HTS 100 / Uzávěr zadní\nČíslo dílu: textit 25x32/25"
     },
     {
-        "id": "722",
+        "id": "721",
         "name": "Příruba zadního uzávěru HTS 100, na šoupě 6″ s nerezovým jádrem, 150×150 mm",
         "subtitle": "uzávěr zadní - deska s těsněním",
         "price": "6 890,00 CZK",
@@ -7942,7 +7931,7 @@
         "description": "Kategorie: FEKÁL HTS 100 / Uzávěr zadní\nČíslo dílu: uzávěr zadní - deska s těsněním"
     },
     {
-        "id": "723",
+        "id": "722",
         "name": "Pružina zadního uzávěru HTS 100",
         "subtitle": "",
         "price": "349,00 CZK",
@@ -7953,7 +7942,7 @@
         "description": "Kategorie: FEKÁL HTS 100 / Uzávěr zadní\nČíslo dílu: "
     },
     {
-        "id": "724",
+        "id": "723",
         "name": "Šroub zadního uzávěru HTS 100, M20",
         "subtitle": "závit M20",
         "price": "149,00 CZK",
@@ -7964,7 +7953,7 @@
         "description": "Kategorie: FEKÁL HTS 100 / Uzávěr zadní\nČíslo dílu: závit M20"
     },
     {
-        "id": "725",
+        "id": "724",
         "name": "Těsnění zadního uzávěru HTS 100, gumové 8×8",
         "subtitle": "průřez 8x8 mm",
         "price": "85,00 CZK",
@@ -7975,7 +7964,7 @@
         "description": "Kategorie: FEKÁL HTS 100 / Uzávěr zadní\nČíslo dílu: průřez 8x8 mm"
     },
     {
-        "id": "726",
+        "id": "725",
         "name": "Uzávěr zadní HTS 100, koncovka s čepy",
         "subtitle": "",
         "price": "10 800,00 CZK",
@@ -7986,7 +7975,7 @@
         "description": "Kategorie: FEKÁL HTS 100 / Uzávěr zadní\nČíslo dílu: "
     },
     {
-        "id": "727",
+        "id": "726",
         "name": "Uzávěr zadní HTS 100, kužel, Perrot 5″",
         "subtitle": "5201 0100 00 0 1, 520101000001",
         "price": "10 729,00 CZK",
@@ -7997,7 +7986,7 @@
         "description": "Kategorie: FEKÁL HTS 100 / Uzávěr zadní\nČíslo dílu: 5201 0100 00 0 1, 520101000001"
     },
     {
-        "id": "728",
+        "id": "727",
         "name": "Uzávěr zadní HTS 100, rychlouzávěr",
         "subtitle": "",
         "price": "10 829,00 CZK",
@@ -8008,7 +7997,7 @@
         "description": "Kategorie: FEKÁL HTS 100 / Uzávěr zadní\nČíslo dílu: "
     },
     {
-        "id": "729",
+        "id": "728",
         "name": "Uzávěr zadní HTS 100, rychlouzávěr, pro plnění přes tlakový filtr ARAG 2″, nerezová klapka OH100, včetně držáku filtru",
         "subtitle": "přesné provedení jak je na fotografii",
         "price": "20 649,00 CZK",
@@ -8019,7 +8008,7 @@
         "description": "Kategorie: FEKÁL HTS 100 / Uzávěr zadní\nČíslo dílu: přesné provedení jak je na fotografii"
     },
     {
-        "id": "730",
+        "id": "729",
         "name": "Uzávěr zadní HTS 100, s přírubou na šoupě 5″, 150×150 mm",
         "subtitle": "5201 0100 00 0 1, 520101000001",
         "price": "11 439,00 CZK",
@@ -8030,7 +8019,7 @@
         "description": "Kategorie: FEKÁL HTS 100 / Uzávěr zadní\nČíslo dílu: 5201 0100 00 0 1, 520101000001"
     },
     {
-        "id": "731",
+        "id": "730",
         "name": "Víčko zadního uzávěru 4″, s pákou uzavírací, Perrot",
         "subtitle": "M-díl 4\" 110/108 HTS 100 4\"",
         "price": "833,00 CZK",
@@ -8041,7 +8030,7 @@
         "description": "Kategorie: FEKÁL HTS 100 / Uzávěr zadní\nČíslo dílu: M-díl 4\" 110/108 HTS 100 4\""
     },
     {
-        "id": "732",
+        "id": "731",
         "name": "Víčko zadního uzávěru 5″ HTS 100, s pákou uzavírací, Perrot",
         "subtitle": "M-díl 5\" 133/125 HTS 100 5\"",
         "price": "1 331,00 CZK",
@@ -8052,7 +8041,7 @@
         "description": "Kategorie: FEKÁL HTS 100 / Uzávěr zadní\nČíslo dílu: M-díl 5\" 133/125 HTS 100 5\""
     },
     {
-        "id": "733",
+        "id": "732",
         "name": "Víčko zadního uzávěru 6″, s pákou uzavírací, Perrot",
         "subtitle": "M-díl 6\" 159/150 6\"",
         "price": "1 389,00 CZK",
@@ -8063,7 +8052,7 @@
         "description": "Kategorie: FEKÁL HTS 100 / Uzávěr zadní\nČíslo dílu: M-díl 6\" 159/150 6\""
     },
     {
-        "id": "734",
+        "id": "733",
         "name": "Víčko zadního uzávěru HTS 100",
         "subtitle": "520101000101",
         "price": "475,00 CZK",
@@ -8074,7 +8063,7 @@
         "description": "Kategorie: FEKÁL HTS 100 / Uzávěr zadní\nČíslo dílu: 520101000101"
     },
     {
-        "id": "735",
+        "id": "734",
         "name": "Brzdový klíč HTS 100, délka celková 375 mm",
         "subtitle": "74A-8",
         "price": "2 380,00 CZK",
@@ -8085,7 +8074,7 @@
         "description": "Kategorie: FEKÁL HTS 100 / Vahadlo a díly nápravy\nČíslo dílu: 74A-8"
     },
     {
-        "id": "736",
+        "id": "735",
         "name": "Čep čelistí HTS 100",
         "subtitle": "",
         "price": "379,00 CZK",
@@ -8096,7 +8085,7 @@
         "description": "Kategorie: FEKÁL HTS 100 / Vahadlo a díly nápravy\nČíslo dílu: "
     },
     {
-        "id": "737",
+        "id": "736",
         "name": "Čep kola vahadla HTS 100",
         "subtitle": "",
         "price": "4 860,00 CZK",
@@ -8107,7 +8096,7 @@
         "description": "Kategorie: FEKÁL HTS 100 / Vahadlo a díly nápravy\nČíslo dílu: "
     },
     {
-        "id": "738",
+        "id": "737",
         "name": "Domeček zavěšení vahadla, HTS 100, NT, bez vložky",
         "subtitle": "Nový typ na pravou i levou stranu vahadla",
         "price": "4 190,00 CZK",
@@ -8118,7 +8107,7 @@
         "description": "Kategorie: FEKÁL HTS 100 / Vahadlo a díly nápravy\nČíslo dílu: Nový typ na pravou i levou stranu vahadla"
     },
     {
-        "id": "739",
+        "id": "738",
         "name": "Držák brzdových čelistí HTS 100, včetně čepů čelistí",
         "subtitle": "9508, držák čelistí",
         "price": "4 369,00 CZK",
@@ -8129,7 +8118,7 @@
         "description": "Kategorie: FEKÁL HTS 100 / Vahadlo a díly nápravy\nČíslo dílu: 9508, držák čelistí"
     },
     {
-        "id": "740",
+        "id": "739",
         "name": "Kroužek náboje HTS 100, HW, 80×130/32, pod gufero",
         "subtitle": "92A-65, 92A65, kroužek pod gufero HTS",
         "price": "989,00 CZK",
@@ -8140,7 +8129,7 @@
         "description": "Kategorie: FEKÁL HTS 100 / Vahadlo a díly nápravy\nČíslo dílu: 92A-65, 92A65, kroužek pod gufero HTS"
     },
     {
-        "id": "741",
+        "id": "740",
         "name": "Kroužek náboje HTS 100, HW, dvojitý",
         "subtitle": "92-A61, 92A61",
         "price": "425,00 CZK",
@@ -8151,7 +8140,7 @@
         "description": "Kategorie: FEKÁL HTS 100 / Vahadlo a díly nápravy\nČíslo dílu: 92-A61, 92A61"
     },
     {
-        "id": "742",
+        "id": "741",
         "name": "Kryt bubnu HW 80, HTS 100, sada na 1 kolo",
         "subtitle": "HW80392393, 35700122, 14/001/392",
         "price": "2 289,00 CZK",
@@ -8162,7 +8151,7 @@
         "description": "Kategorie: FEKÁL HTS 100 / Vahadlo a díly nápravy\nČíslo dílu: HW80392393, 35700122, 14/001/392"
     },
     {
-        "id": "743",
+        "id": "742",
         "name": "Matice M45×2 korunková, náboj HTS 100, HW",
         "subtitle": "92-A64, 92A64",
         "price": "699,00 CZK",
@@ -8173,7 +8162,7 @@
         "description": "Kategorie: FEKÁL HTS 100 / Vahadlo a díly nápravy\nČíslo dílu: 92-A64, 92A64"
     },
     {
-        "id": "744",
+        "id": "743",
         "name": "Náboj kola HTS 100, průměr na víčko 100 mm",
         "subtitle": "99A-60,99A60",
         "price": "9 562,00 CZK",
@@ -8184,7 +8173,7 @@
         "description": "Kategorie: FEKÁL HTS 100 / Vahadlo a díly nápravy\nČíslo dílu: 99A-60,99A60"
     },
     {
-        "id": "745",
+        "id": "744",
         "name": "Páka brzdového klíče HTS 100, včetně ozubeného kroužku",
         "subtitle": "",
         "price": "2 389,00 CZK",
@@ -8195,7 +8184,7 @@
         "description": "Kategorie: FEKÁL HTS 100 / Vahadlo a díly nápravy\nČíslo dílu: "
     },
     {
-        "id": "746",
+        "id": "745",
         "name": "Pouzdro brzdového klíče HW, ocelové, 32×42×36, HTS 100",
         "subtitle": "32x42x36 HTS100, HW",
         "price": "329,00 CZK",
@@ -8206,7 +8195,7 @@
         "description": "Kategorie: FEKÁL HTS 100 / Vahadlo a díly nápravy\nČíslo dílu: 32x42x36 HTS100, HW"
     },
     {
-        "id": "747",
+        "id": "746",
         "name": "Pouzdro brzdového klíče HW, ocelové, 40×46×60, HTS 100",
         "subtitle": "40x46x60 HTS 100, HW",
         "price": "412,00 CZK",
@@ -8217,7 +8206,7 @@
         "description": "Kategorie: FEKÁL HTS 100 / Vahadlo a díly nápravy\nČíslo dílu: 40x46x60 HTS 100, HW"
     },
     {
-        "id": "748",
+        "id": "747",
         "name": "Pouzdro vahadla HTS 100, ocelové",
         "subtitle": "5110001010211",
         "price": "1 215,00 CZK",
@@ -8228,7 +8217,7 @@
         "description": "Kategorie: FEKÁL HTS 100 / Vahadlo a díly nápravy\nČíslo dílu: 5110001010211"
     },
     {
-        "id": "749",
+        "id": "748",
         "name": "Pouzdro vahadla HTS 100, textitové, 150×165/60",
         "subtitle": "510300050201, textit 150x165/60",
         "price": "741,00 CZK",
@@ -8239,7 +8228,7 @@
         "description": "Kategorie: FEKÁL HTS 100 / Vahadlo a díly nápravy\nČíslo dílu: 510300050201, textit 150x165/60"
     },
     {
-        "id": "750",
+        "id": "749",
         "name": "Trubka vahadla středová, HTS 100",
         "subtitle": "",
         "price": "2 930,00 CZK",
@@ -8250,7 +8239,7 @@
         "description": "Kategorie: FEKÁL HTS 100 / Vahadlo a díly nápravy\nČíslo dílu: "
     },
     {
-        "id": "751",
+        "id": "750",
         "name": "Víčko domečku vahadla nápravy HTS 100",
         "subtitle": "510300050201",
         "price": "215,00 CZK",
@@ -8261,7 +8250,7 @@
         "description": "Kategorie: FEKÁL HTS 100 / Vahadlo a díly nápravy\nČíslo dílu: 510300050201"
     },
     {
-        "id": "752",
+        "id": "751",
         "name": "Víčko náboje HTS 100, HW 80, ø100 mm",
         "subtitle": "D03-9A, D039A",
         "price": "429,00 CZK",
@@ -8272,7 +8261,7 @@
         "description": "Kategorie: FEKÁL HTS 100 / Vahadlo a díly nápravy\nČíslo dílu: D03-9A, D039A"
     },
     {
-        "id": "753",
+        "id": "752",
         "name": "Hydromotor pro MEC 8000 H, Battioni Pagani Pompe, pevná cena",
         "subtitle": "Battioni* Pagani Pompe  - pevná cena",
         "price": "19 899,00 CZK",
@@ -8283,7 +8272,7 @@
         "description": "Kategorie: FEKÁL HTS 100 / Vývěva - náhrada původní\nČíslo dílu: Battioni* Pagani Pompe  - pevná cena"
     },
     {
-        "id": "754",
+        "id": "753",
         "name": "Vývěva MEC 8000 H, hydraulický pohon, Battioni Pagani Pompe, pevná cena",
         "subtitle": "Battioni* Pagani Pompe - pevná cena",
         "price": "41 439,00 CZK",
@@ -8294,7 +8283,7 @@
         "description": "Kategorie: FEKÁL HTS 100 / Vývěva - náhrada původní\nČíslo dílu: Battioni* Pagani Pompe - pevná cena"
     },
     {
-        "id": "755",
+        "id": "754",
         "name": "Vývěva MEC 8000 H, sestavená, včetně hydromotoru, Battioni Pagani Pompe, pevná cena",
         "subtitle": "Battioni* Pagani Pompe - pevná cena",
         "price": "59 929,00 CZK",
@@ -8305,7 +8294,7 @@
         "description": "Kategorie: FEKÁL HTS 100 / Vývěva - náhrada původní\nČíslo dílu: Battioni* Pagani Pompe - pevná cena"
     },
     {
-        "id": "756",
+        "id": "755",
         "name": "Víko plovákového uzávěru HTS 100, s kolenem, včetně šroubů a matic s okem",
         "subtitle": "5108 0001 00 0 1,510800010001",
         "price": "2 650,00 CZK",
@@ -8316,7 +8305,7 @@
         "description": "Kategorie: FEKÁL HTS 100\nČíslo dílu: 5108 0001 00 0 1,510800010001"
     },
     {
-        "id": "757",
+        "id": "756",
         "name": "Víko stavoznaku HTS 100, s přírubou, upravené",
         "subtitle": "",
         "price": "2 850,00 CZK",
@@ -8327,7 +8316,7 @@
         "description": "Kategorie: FEKÁL HTS 100\nČíslo dílu: "
     },
     {
-        "id": "758",
+        "id": "757",
         "name": "Vložka do spojky pohonu vývěvy HTS 100, pro provedení šestidrážka, kužel, tisícihran",
         "subtitle": "",
         "price": "80,00 CZK",
@@ -8338,7 +8327,7 @@
         "description": "Kategorie: FEKÁL HTS 100\nČíslo dílu: "
     },
     {
-        "id": "759",
+        "id": "758",
         "name": "Vrchlík, HTS 100, pozinkovaný, průměr 430 mm",
         "subtitle": "500600200001, pozice 8.",
         "price": "2 140,00 CZK",
@@ -8349,7 +8338,7 @@
         "description": "Kategorie: FEKÁL HTS 100\nČíslo dílu: 500600200001, pozice 8."
     },
     {
-        "id": "760",
+        "id": "759",
         "name": "Vývěva MEC 8000 H, hydraulický pohon, Battioni Pagani Pompe, pevná cena",
         "subtitle": "Battioni* Pagani Pompe - pevná cena",
         "price": "41 439,00 CZK",
@@ -8360,7 +8349,7 @@
         "description": "Kategorie: FEKÁL HTS 100\nČíslo dílu: Battioni* Pagani Pompe - pevná cena"
     },
     {
-        "id": "761",
+        "id": "760",
         "name": "Vývěva MEC 8000 H, sestavená, včetně hydromotoru, Battioni Pagani Pompe, pevná cena",
         "subtitle": "Battioni* Pagani Pompe - pevná cena",
         "price": "59 929,00 CZK",
@@ -8371,7 +8360,7 @@
         "description": "Kategorie: FEKÁL HTS 100\nČíslo dílu: Battioni* Pagani Pompe - pevná cena"
     },
     {
-        "id": "762",
+        "id": "761",
         "name": "Víčko zadního uzávěru ATYP, s háky, rychlouzávěr",
         "subtitle": "",
         "price": "659,00 CZK",
@@ -8382,7 +8371,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Díly nádrží - uzávěry\nČíslo dílu: "
     },
     {
-        "id": "763",
+        "id": "762",
         "name": "Víčko zadního uzávěru s nýty, rychlouzávěr",
         "subtitle": "3-611-0152/1, 36110152/1, 361101521",
         "price": "248,00 CZK",
@@ -8393,7 +8382,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Díly nádrží - uzávěry\nČíslo dílu: 3-611-0152/1, 36110152/1, 361101521"
     },
     {
-        "id": "764",
+        "id": "763",
         "name": "Víko",
         "subtitle": "",
         "price": "Na dotaz",
@@ -8404,7 +8393,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Díly nádrží - uzávěry\nČíslo dílu: "
     },
     {
-        "id": "765",
+        "id": "764",
         "name": "Víko bočního vývodu",
         "subtitle": "",
         "price": "760,00 CZK",
@@ -8415,7 +8404,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Díly nádrží - uzávěry\nČíslo dílu: "
     },
     {
-        "id": "766",
+        "id": "765",
         "name": "Víko horní nádrže Malacky",
         "subtitle": "4-611-0348 ;702-02-9700.0",
         "price": "2 165,00 CZK",
@@ -8426,7 +8415,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Díly nádrží - uzávěry\nČíslo dílu: 4-611-0348 ;702-02-9700.0"
     },
     {
-        "id": "767",
+        "id": "766",
         "name": "Víko výpustě",
         "subtitle": "",
         "price": "2 800,00 CZK",
@@ -8437,7 +8426,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Díly nádrží - uzávěry\nČíslo dílu: "
     },
     {
-        "id": "768",
+        "id": "767",
         "name": "Vrchlík, ACF041, MV5-014, vyšší konzola 175 mm",
         "subtitle": "705-16-9100.0,7051691000",
         "price": "1 830,00 CZK",
@@ -8448,7 +8437,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Díly nádrží - uzávěry\nČíslo dílu: 705-16-9100.0,7051691000"
     },
     {
-        "id": "769",
+        "id": "768",
         "name": "Vrchlík, MV5-028, nižší konzola 150 mm",
         "subtitle": "PP5-1-1640, 511640",
         "price": "1 790,00 CZK",
@@ -8459,7 +8448,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Díly nádrží - uzávěry\nČíslo dílu: PP5-1-1640, 511640"
     },
     {
-        "id": "770",
+        "id": "769",
         "name": "Stavoznak plastový 2″, RIV 550 Zaffiro",
         "subtitle": "RIV 550, 050550000011",
         "price": "59,00 CZK",
@@ -8470,7 +8459,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: RIV 550, 050550000011"
     },
     {
-        "id": "771",
+        "id": "770",
         "name": "Stavoznak plastový 3″, RIV 550 Zaffiro",
         "subtitle": "RIV 550, 050550000014",
         "price": "129,00 CZK",
@@ -8481,7 +8470,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: RIV 550, 050550000014"
     },
     {
-        "id": "772",
+        "id": "771",
         "name": "Těsnění příruby 4″, 5″, 6″ šoupěte, gumové, Smeraldo RIV 157",
         "subtitle": "SMERALDO RIV 157, GUIFRFL00001, 94050200588",
         "price": "135,00 CZK",
@@ -8492,7 +8481,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: SMERALDO RIV 157, GUIFRFL00001, 94050200588"
     },
     {
-        "id": "773",
+        "id": "772",
         "name": "Těsnění příruby šoupěte 6″, s nerezovým jádrem, gumové",
         "subtitle": "rozteč 150x150, síla 4,5 mm",
         "price": "45,00 CZK",
@@ -8503,7 +8492,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: rozteč 150x150, síla 4,5 mm"
     },
     {
-        "id": "774",
+        "id": "773",
         "name": "Těsnění příruby šoupěte 8″, gumové",
         "subtitle": "rozteč 180x180, síla 5 mm",
         "price": "95,00 CZK",
@@ -8514,7 +8503,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: rozteč 180x180, síla 5 mm"
     },
     {
-        "id": "775",
+        "id": "774",
         "name": "Uzávěr plovákový ø60, DN60, 2 koule, RIV 410 Acqua Marina",
         "subtitle": "RIV 410 ACQUA MARINA, 050410000055",
         "price": "2 789,00 CZK",
@@ -8525,7 +8514,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: RIV 410 ACQUA MARINA, 050410000055"
     },
     {
-        "id": "776",
+        "id": "775",
         "name": "Uzávěr plovákový ø60, DN60, 2 koule, RIV 412 Gold",
         "subtitle": "RIV 412 GOLD 050412000055",
         "price": "3 849,00 CZK",
@@ -8536,7 +8525,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: RIV 412 GOLD 050412000055"
     },
     {
-        "id": "777",
+        "id": "776",
         "name": "Uzávěr plovákový ø80, DN80, 2 koule, RIV 410 Acqua Marina",
         "subtitle": "RIV 410 ACQUA MARINA, 050410000061",
         "price": "3 769,00 CZK",
@@ -8547,7 +8536,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: RIV 410 ACQUA MARINA, 050410000061"
     },
     {
-        "id": "778",
+        "id": "777",
         "name": "Uzávěr plovákový ø80, DN80, 2 koule, RIV 412 Gold",
         "subtitle": "RIV 412 GOLD 050412000061",
         "price": "4 479,00 CZK",
@@ -8558,7 +8547,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: RIV 412 GOLD 050412000061"
     },
     {
-        "id": "779",
+        "id": "778",
         "name": "Válec pneumatický, pro šoupě 4″",
         "subtitle": "závit M30x2",
         "price": "3 249,00 CZK",
@@ -8569,7 +8558,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: závit M30x2"
     },
     {
-        "id": "780",
+        "id": "779",
         "name": "Válec pneumatický, pro šoupě 6″, typ 57",
         "subtitle": "závit M30x2",
         "price": "3 990,00 CZK",
@@ -8580,7 +8569,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: závit M30x2"
     },
     {
-        "id": "781",
+        "id": "780",
         "name": "Válec pneumatický, pro šoupě 8″",
         "subtitle": "závit M35x2",
         "price": "4 599,00 CZK",
@@ -8591,7 +8580,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: závit M35x2"
     },
     {
-        "id": "782",
+        "id": "781",
         "name": "Ventil podtlakový 1½\" (6/4\"), RIV 290 AMBRA",
         "subtitle": "RIV 290 AMBRA, 050290000009",
         "price": "539,00 CZK",
@@ -8602,7 +8591,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: RIV 290 AMBRA, 050290000009"
     },
     {
-        "id": "783",
+        "id": "782",
         "name": "Ventil pojistný 0,2 MPa, DN25, závit M42×2",
         "subtitle": "105-00-9000.0, 10500900000",
         "price": "4 879,00 CZK",
@@ -8613,7 +8602,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: 105-00-9000.0, 10500900000"
     },
     {
-        "id": "784",
+        "id": "783",
         "name": "Ventil pojistný 1¼\" (5/4\"), RIV 250 OPALE",
         "subtitle": "RIV 250 OPALE, 050250000008, Nastavitelný provozní tlak (bar): 0,5 - 1,5",
         "price": "742,00 CZK",
@@ -8624,7 +8613,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: RIV 250 OPALE, 050250000008, Nastavitelný provozní tlak (bar): 0,5 - 1,5"
     },
     {
-        "id": "785",
+        "id": "784",
         "name": "Ventil pojistný 1½\" (6/4\"), RIV 250 OPALE",
         "subtitle": "RIV 250 OPALE, 050250000009, 9222550, Nastavitelný provozní tlak (bar): 0,5 - 1,5",
         "price": "779,00 CZK",
@@ -8635,7 +8624,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: RIV 250 OPALE, 050250000009, 9222550, Nastavitelný provozní tlak (bar): 0,5 - 1,5"
     },
     {
-        "id": "786",
+        "id": "785",
         "name": "Ventil pojistný 2\", RIV 250 OPALE",
         "subtitle": "RIV 250 OPALE, 050250000011, 94050401832 Nastavitelný provozní tlak (bar): 0,5 - 1,5",
         "price": "969,00 CZK",
@@ -8646,7 +8635,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: RIV 250 OPALE, 050250000011, 94050401832 Nastavitelný provozní tlak (bar): 0,5 - 1,5"
     },
     {
-        "id": "787",
+        "id": "786",
         "name": "Ventil pojistný SV 1¼\" (5/4\"), atest -0,05 MPa",
         "subtitle": "0,05 MPa, vnitřní závit",
         "price": "3 525,00 CZK",
@@ -8657,7 +8646,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: 0,05 MPa, vnitřní závit"
     },
     {
-        "id": "788",
+        "id": "787",
         "name": "Ventil pojistný SV 1½\", MZ, přímý, 0,3-1,5 bar",
         "subtitle": "Nastavitelný provozní tlak (bar): 0,3 - 1,5",
         "price": "1 469,00 CZK",
@@ -8668,7 +8657,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: Nastavitelný provozní tlak (bar): 0,3 - 1,5"
     },
     {
-        "id": "789",
+        "id": "788",
         "name": "Ventil pojistný SV 2\", MZ, přímý, 0,3-1,5 bar",
         "subtitle": "Nastavitelný provozní tlak (bar): 0,3 - 1,5",
         "price": "799,00 CZK",
@@ -8679,7 +8668,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: Nastavitelný provozní tlak (bar): 0,3 - 1,5"
     },
     {
-        "id": "790",
+        "id": "789",
         "name": "Ventil zpětný 2\", mosaz",
         "subtitle": "",
         "price": "639,00 CZK",
@@ -8690,7 +8679,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: "
     },
     {
-        "id": "791",
+        "id": "790",
         "name": "Ventil zpětný 6/4\"",
         "subtitle": "TPF-14-1545-74, 14154574",
         "price": "489,00 CZK",
@@ -8701,7 +8690,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: TPF-14-1545-74, 14154574"
     },
     {
-        "id": "792",
+        "id": "791",
         "name": "Vložka filtru 32 MESH, pro tlakový filtr 2″",
         "subtitle": "pro 2\"",
         "price": "569,00 CZK",
@@ -8712,7 +8701,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Ventily, šoupata, manuovakuo.\nČíslo dílu: pro 2\""
     },
     {
-        "id": "793",
+        "id": "792",
         "name": "Vložka filtru 32 MESH, pro tlakový filtr 3″",
         "subtitle": "pro 3\"",
         "price": "936,00 CZK",
