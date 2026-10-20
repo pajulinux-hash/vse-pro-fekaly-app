@@ -463,13 +463,13 @@
     },
     {
         "id": "43",
-        "name": "Čep čelistí HTS 100",
+        "name": "Čep brzdové čelisti HTS 100",
         "subtitle": "",
         "price": "379,00 CZK",
         "stock": "skladem",
         "image": "https://obchod.fimas.cz/fotky7833/fotos/_vyr_99obrazek-pripravujeme.jpg",
         "category": "FEKÁL HTS 100",
-        "url": "https://obchod.fimas.cz/Cep-celisti-HTS-100-d2166.htm",
+        "url": "https://obchod.fimas.cz/Cep-brzdove-celisti-HTS-100-d2166.htm",
         "description": "Kategorie: FEKÁL HTS 100\nČíslo dílu: "
     },
     {
@@ -3367,28 +3367,6 @@
     },
     {
         "id": "307",
-        "name": "Blatník přední, MV5-014, MV5-028, NVTF-8",
-        "subtitle": "702-13-1138.0",
-        "price": "760,00 CZK",
-        "stock": "skladem",
-        "image": "https://obchod.fimas.cz/fotky7833/fotos/_vyr_99obrazek-pripravujeme.jpg",
-        "category": "FEKÁLNÍ NÁSTAVBY MALACKY / Díly nádrží - uzávěry",
-        "url": "https://obchod.fimas.cz/Blatnik-predni-MV5-014-MV5-028-NVTF-8-d1091.htm",
-        "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Díly nádrží - uzávěry\nČíslo dílu: 702-13-1138.0"
-    },
-    {
-        "id": "308",
-        "name": "Blatník zadní, MV5-014, MV5-028, NVTF-8",
-        "subtitle": "702-13-1139.0",
-        "price": "720,00 CZK",
-        "stock": "skladem",
-        "image": "https://obchod.fimas.cz/fotky7833/fotos/_vyr_99obrazek-pripravujeme.jpg",
-        "category": "FEKÁLNÍ NÁSTAVBY MALACKY / Díly nádrží - uzávěry",
-        "url": "https://obchod.fimas.cz/Blatnik-zadni-MV5-014-MV5-028-NVTF-8-d1092.htm",
-        "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Díly nádrží - uzávěry\nČíslo dílu: 702-13-1139.0"
-    },
-    {
-        "id": "309",
         "name": "Čep uchycení nádrže 100×260",
         "subtitle": "709-02-1000.0, 7090210000",
         "price": "1 960,00 CZK",
@@ -3399,7 +3377,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Díly nádrží - uzávěry\nČíslo dílu: 709-02-1000.0, 7090210000"
     },
     {
-        "id": "310",
+        "id": "308",
         "name": "Deska kluzná zadního uzávěru CAS10, plastová, ø220 mm",
         "subtitle": "ø 220 mm",
         "price": "689,00 CZK",
@@ -3410,7 +3388,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Díly nádrží - uzávěry\nČíslo dílu: ø 220 mm"
     },
     {
-        "id": "311",
+        "id": "309",
         "name": "Deska kluzná zadního uzávěru CAS11, plastová, ø245 mm",
         "subtitle": "ø 245 mm",
         "price": "910,00 CZK",
@@ -3421,7 +3399,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Díly nádrží - uzávěry\nČíslo dílu: ø 245 mm"
     },
     {
-        "id": "312",
+        "id": "310",
         "name": "Doraz gumový, ACF041",
         "subtitle": "709-02-1013.0, 7090210130",
         "price": "92,00 CZK",
@@ -3432,7 +3410,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Díly nádrží - uzávěry\nČíslo dílu: 709-02-1013.0, 7090210130"
     },
     {
-        "id": "313",
+        "id": "311",
         "name": "Hřídel bočního uzávěru, 27 cm",
         "subtitle": "705-14-1000.0, 709-14-1000.0, 7051410000, 7091410000",
         "price": "296,00 CZK",
@@ -3443,7 +3421,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Díly nádrží - uzávěry\nČíslo dílu: 705-14-1000.0, 709-14-1000.0, 7051410000, 7091410000"
     },
     {
-        "id": "314",
+        "id": "312",
         "name": "Hřídel úplný, otoč ramene savice",
         "subtitle": "709-21-9100.00, 7092191000, 705-21-9100.00, 70521910000",
         "price": "1 960,00 CZK",
@@ -3454,7 +3432,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Díly nádrží - uzávěry\nČíslo dílu: 709-21-9100.00, 7092191000, 705-21-9100.00, 70521910000"
     },
     {
-        "id": "315",
+        "id": "313",
         "name": "Hřídel zadního uzávěru, 31 cm",
         "subtitle": "3-611-0176, 36110176",
         "price": "300,00 CZK",
@@ -3465,7 +3443,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Díly nádrží - uzávěry\nČíslo dílu: 3-611-0176, 36110176"
     },
     {
-        "id": "316",
+        "id": "314",
         "name": "Koryto se skříňkou, 709-13-9100.0",
         "subtitle": "709-13-9100.0, 7091391000",
         "price": "2 950,00 CZK",
@@ -3476,7 +3454,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Díly nádrží - uzávěry\nČíslo dílu: 709-13-9100.0, 7091391000"
     },
     {
-        "id": "317",
+        "id": "315",
         "name": "Koryto úplné, 709-13-9300.0",
         "subtitle": "709-13-9300.0, 7091393000",
         "price": "2 740,00 CZK",
@@ -3487,7 +3465,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Díly nádrží - uzávěry\nČíslo dílu: 709-13-9300.0, 7091393000"
     },
     {
-        "id": "318",
+        "id": "316",
         "name": "Koš úplný ø105, pro hadici ramene",
         "subtitle": "705-21-9520.0, 7052195200",
         "price": "425,00 CZK",
@@ -3498,7 +3476,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Díly nádrží - uzávěry\nČíslo dílu: 705-21-9520.0, 7052195200"
     },
     {
-        "id": "319",
+        "id": "317",
         "name": "Kroužek pryžový stavoznaku 20×5",
         "subtitle": "702-12-1304.1, 7021213041",
         "price": "3,00 CZK",
@@ -3509,7 +3487,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Díly nádrží - uzávěry\nČíslo dílu: 702-12-1304.1, 7021213041"
     },
     {
-        "id": "320",
+        "id": "318",
         "name": "Kuželka výpustě, gumová, 5Pe282641",
         "subtitle": "5Pe282641, 5 Pe 282641",
         "price": "109,00 CZK",
@@ -3520,7 +3498,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Díly nádrží - uzávěry\nČíslo dílu: 5Pe282641, 5 Pe 282641"
     },
     {
-        "id": "321",
+        "id": "319",
         "name": "Kuželka výpustě, gumová, sestavená, 5Pe282641",
         "subtitle": "5Pe282641, 5 Pe 282641",
         "price": "299,00 CZK",
@@ -3531,7 +3509,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Díly nádrží - uzávěry\nČíslo dílu: 5Pe282641, 5 Pe 282641"
     },
     {
-        "id": "322",
+        "id": "320",
         "name": "Lapač nečistot",
         "subtitle": "",
         "price": "2 390,00 CZK",
@@ -3542,7 +3520,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Díly nádrží - uzávěry\nČíslo dílu: "
     },
     {
-        "id": "323",
+        "id": "321",
         "name": "Matice stavoznaku CAS11",
         "subtitle": "",
         "price": "624,00 CZK",
@@ -3553,7 +3531,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Díly nádrží - uzávěry\nČíslo dílu: "
     },
     {
-        "id": "324",
+        "id": "322",
         "name": "Matice stavoznaku, 702-12-1301.1",
         "subtitle": "702-12-1301.1, 7021213011",
         "price": "174,00 CZK",
@@ -3564,7 +3542,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Díly nádrží - uzávěry\nČíslo dílu: 702-12-1301.1, 7021213011"
     },
     {
-        "id": "325",
+        "id": "323",
         "name": "Maznice M10×1, rovná, stavoznak, ČSN 02 7451",
         "subtitle": "ČSN 02 7451",
         "price": "7,00 CZK",
@@ -3575,7 +3553,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Díly nádrží - uzávěry\nČíslo dílu: ČSN 02 7451"
     },
     {
-        "id": "326",
+        "id": "324",
         "name": "Objímka, katalogové číslo 705-21-9302.0",
         "subtitle": "705-21-9302.0, 7052193020",
         "price": "169,00 CZK",
@@ -3586,7 +3564,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Díly nádrží - uzávěry\nČíslo dílu: 705-21-9302.0, 7052193020"
     },
     {
-        "id": "327",
+        "id": "325",
         "name": "Páka bočního a zadního uzávěru, pravá",
         "subtitle": "705-14-9400.0, 7051494000,3-611-0124,36110124",
         "price": "415,00 CZK",
@@ -3597,7 +3575,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Díly nádrží - uzávěry\nČíslo dílu: 705-14-9400.0, 7051494000,3-611-0124,36110124"
     },
     {
-        "id": "328",
+        "id": "326",
         "name": "Páka bočního uzávěru, levá",
         "subtitle": "709-14-9400.0, 7091494000",
         "price": "415,00 CZK",
@@ -3608,7 +3586,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Díly nádrží - uzávěry\nČíslo dílu: 709-14-9400.0, 7091494000"
     },
     {
-        "id": "329",
+        "id": "327",
         "name": "Páka ovládací",
         "subtitle": "",
         "price": "350,00 CZK",
@@ -3619,7 +3597,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Díly nádrží - uzávěry\nČíslo dílu: "
     },
     {
-        "id": "330",
+        "id": "328",
         "name": "Pero 10×8×60",
         "subtitle": "700-17-0025.2, 7001700252",
         "price": "26,00 CZK",
@@ -3630,7 +3608,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Díly nádrží - uzávěry\nČíslo dílu: 700-17-0025.2, 7001700252"
     },
     {
-        "id": "331",
+        "id": "329",
         "name": "Plech kuželky ø115",
         "subtitle": "5Pe283733, 5 Pe 283733",
         "price": "59,00 CZK",
@@ -3641,7 +3619,7 @@
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Díly nádrží - uzávěry\nČíslo dílu: 5Pe283733, 5 Pe 283733"
     },
     {
-        "id": "332",
+        "id": "330",
         "name": "Plech kuželky ø90",
         "subtitle": "5Pe283743, 5 Pe 283734",
         "price": "46,00 CZK",
@@ -3650,6 +3628,28 @@
         "category": "FEKÁLNÍ NÁSTAVBY MALACKY / Díly nádrží - uzávěry",
         "url": "https://obchod.fimas.cz/Plech-kuzelky-90-d919.htm",
         "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Díly nádrží - uzávěry\nČíslo dílu: 5Pe283743, 5 Pe 283734"
+    },
+    {
+        "id": "331",
+        "name": "Plechový blatník zadní, MV5-014, MV5-028, NVTF-8",
+        "subtitle": "702-13-1139.0",
+        "price": "720,00 CZK",
+        "stock": "skladem",
+        "image": "https://obchod.fimas.cz/fotky7833/fotos/_vyr_99obrazek-pripravujeme.jpg",
+        "category": "FEKÁLNÍ NÁSTAVBY MALACKY / Díly nádrží - uzávěry",
+        "url": "https://obchod.fimas.cz/Plechovy-blatnik-zadni-MV5-014-MV5-028-NVTF-8-d1092.htm",
+        "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Díly nádrží - uzávěry\nČíslo dílu: 702-13-1139.0"
+    },
+    {
+        "id": "332",
+        "name": "Plechový blatník, MV5-014, MV5-028, NVTF-8",
+        "subtitle": "702-13-1138.0",
+        "price": "760,00 CZK",
+        "stock": "skladem",
+        "image": "https://obchod.fimas.cz/fotky7833/fotos/_vyr_99obrazek-pripravujeme.jpg",
+        "category": "FEKÁLNÍ NÁSTAVBY MALACKY / Díly nádrží - uzávěry",
+        "url": "https://obchod.fimas.cz/Plechovy-blatnik-MV5-014-MV5-028-NVTF-8-d1091.htm",
+        "description": "Kategorie: FEKÁLNÍ NÁSTAVBY MALACKY / Díly nádrží - uzávěry\nČíslo dílu: 702-13-1138.0"
     },
     {
         "id": "333",
@@ -8075,13 +8075,13 @@
     },
     {
         "id": "735",
-        "name": "Čep čelistí HTS 100",
+        "name": "Čep brzdové čelisti HTS 100",
         "subtitle": "",
         "price": "379,00 CZK",
         "stock": "skladem",
         "image": "https://obchod.fimas.cz/fotky7833/fotos/_vyr_99obrazek-pripravujeme.jpg",
         "category": "FEKÁL HTS 100 / Vahadlo a díly nápravy",
-        "url": "https://obchod.fimas.cz/Cep-celisti-HTS-100-d2166.htm",
+        "url": "https://obchod.fimas.cz/Cep-brzdove-celisti-HTS-100-d2166.htm",
         "description": "Kategorie: FEKÁL HTS 100 / Vahadlo a díly nápravy\nČíslo dílu: "
     },
     {
